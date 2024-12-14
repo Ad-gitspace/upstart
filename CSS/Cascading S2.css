@@ -1,0 +1,74 @@
+/* size shifting */
+/* % is with respect to its upper parent in html code  */
+/* em is relative to font size of self and its multiple 
+    also, if em in font sizing than its parents font multiple*/
+/* rem is multiple to root element font-size(body or) */
+/* vh is percentage of viewport height, 1vh = 1% of visible dispaly */
+/* vw is percentage of viewport height */
+
+#obox{
+    height: 200px;
+    width: 300px;
+    font-size: 20px;}   /* byDefault font-size of everything is 16px 😉 */
+
+#ibox{
+    display: block;
+    height: 5em;             /* font size of self matters in non-font sizing */
+    width: 60%;
+    font-size: .75em;         /*font size of parent matters in font-sizing*/
+    margin-left: 10%;
+    margin-top: 10%;
+    padding-left: 10%;/*padding apply with respect to parents width , also not affect the box element size (just creates new) */
+    height: 10vh;}    
+
+
+
+/* Pose Please elemental*/
+/* static: restrict changes*/
+/* relative: from initial */
+/* absoute: from on display document.*/
+/* fixed: from the whole document (used for fotter at bottom */
+
+.pose{
+    display: inline-block;
+    background-color:black;
+    color: gray;
+    border: solid gray 3px;
+    border-radius: 8px;
+    height: 200px;
+    width: 280px;
+    
+    /* position: absolute; */
+    /* top: 100vh;   */
+    /* left: 10vw; */
+}
+
+#pose1{
+    position: relative;     /*Height relative to the display at initial*/
+    top: 35vh;
+    left: 100px;
+    z-index: 1;
+}
+
+#pose2{
+    position: absolute;     /*fixed relative to the document view then fixed*/
+    bottom: 0vh;
+}
+
+#pose3{
+    background-image: url(/HTML/Liberary\ Background.jpg);
+    width: 80vw;
+    height: 100px;
+    position: fixed;
+    left: 10vw;
+    bottom: 0;
+    background-size: contain;    
+    background-repeat: no-repeat;
+    
+}
+
+#pose4{
+    position: sticky; /*like sticky notes on display*/
+    bottom : 0;
+    z-index: -1;
+}

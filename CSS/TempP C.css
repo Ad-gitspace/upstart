@@ -1,0 +1,12 @@
+#ln{
+    text-align: center;
+    color: aqua;
+    height: 15em;
+    width: 35%;
+    background-image: url("/HTML/Dark\ Background.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: fixed;
+    right: 0;
+
+}

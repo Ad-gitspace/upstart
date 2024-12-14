@@ -1,0 +1,158 @@
+*{
+    text-align: center;
+}
+
+
+
+/* Div try to fit in flex box untill the content allows. */
+#BigBox{
+    height: 50rem;
+    width: 50rem;
+    background-color: green;
+    border-color: black;
+    border: 2px solid black;
+    border-bottom-left-radius: 8%;
+
+    display: flex;
+    flex-direction: row ;               /*It decides the main axis.*/
+    justify-content: center;     /*along main axis which is flex-direction*/
+               
+    flex-wrap: wrap;
+    align-items: flex-start;             /*along cross axis with space*/
+    align-content: flex-start;
+   
+
+    }
+
+.b{
+    display: inline-block;
+    /* position: relative; */
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 8px;
+    /* margin: 10px; */
+}
+
+
+#b1{
+    background-color: coral;
+    flex-shrink: 0.5;
+}
+
+#b2{
+    background-color: darkslategray;
+    color: wheat;
+    height: 300px;
+    width: 200px;
+    flex-grow: 1;                                /*It allows it to take the whole space*/
+}
+
+#b3{
+    background-color: dimgrey;
+    width: 400px;
+    flex-shrink: 1.5;
+}
+
+#b4{
+    background-color: goldenrod;
+    height: 100px;
+    align-self: flex-end;
+}
+
+#b5{
+    background-color: cornflowerblue;
+}
+
+#b6{
+    background-color: indianred;
+}
+
+
+
+
+
+/* Level-5 CSS animate */
+
+
+
+#tout{
+    background-color:cadetblue;
+    height: 500px;
+    width: 1000px;
+    font-size: 5vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    /* Animation single line */
+    animation: Simpa 4s ease-in-out 1s 3;
+}
+
+#tin{
+    background-color: coral;
+    width: 60%;
+    font-size: 6vw;
+    margin-top: 100px;
+    align-self: center;
+    /* transform:  rotate(100deg); */
+    rotate:y 25deg;
+
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in;
+    transition-delay: 0s;
+    /* transition: all 1s ease-in 0s; */
+
+    /* Animationm */
+    animation-name: Simpa;
+    animation-duration: 1s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: 10;  /*infinite also available*/
+    animation-direction: reverse;
+
+
+}
+#tin:hover{
+    background-color: orange;
+    width: 50%;
+    font-size: 5vw;
+    align-self: center;
+    rotate: 15deg;     /* transform: rotate(45deg);  (sane-same)*/ 
+}
+#tin:active{
+    background-color: yellow;
+    align-self: center;
+    scale: 0.95;
+    transform: rotate(0deg);
+    transition-duration: 100ms;    
+}
+
+
+
+@keyframes Simpa{
+    0%{
+        background-color: coral;
+        width: 60%;
+        font-size: 6vw;
+        margin-top: 100px;
+    }
+    40%{
+        background-color: cornflowerblue;
+        width: 50%;
+        font-size: 5vw;
+        margin-top: 10px;
+    }
+    80%{
+        background-color: cadetblue;
+        width: 50%;
+        font-size: 4vw;
+        margin-top: 100px;
+    }
+    100%{
+        background-color: rosybrown;
+        width: 60%;
+        font-size: 6vw;
+        margin-top: 100px;
+    }
+}
