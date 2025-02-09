@@ -1,6 +1,7 @@
 let choices = document.querySelectorAll(".choice");
 let ng = document.querySelector(".ng");
 let iwonBox = document.querySelector('.iwon');
+let byBot = document.querySelector('.iwonPlayed');
 let p1ScoreOn = document.querySelector('.sbs1s');
 let p2ScoreOn = document.querySelector('.sbs2s');
 let p1Score = 0;
