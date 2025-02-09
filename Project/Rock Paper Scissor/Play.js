@@ -17,6 +17,7 @@ choices.forEach((choice)=>{
     choice.addEventListener("click", ()=>{
         mainPlay = choice.getAttribute("id");
         comPlay = comPlayFun();
+        byBot.innerText = "by your PC - "+comPlayFun();
         console.log(mainPlay, "was played by you");
         console.log(comPlay, "was played by bot");
         whoWon(mainPlay, comPlay);
