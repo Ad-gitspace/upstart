@@ -163,7 +163,7 @@
 
 /* Hero image */
 .hero-img{
-    background-image: url(Amage/hero_image.jpg);
+    background-image: url(hero_image.jpg);
     height: 300px;
     background-size: cover;
     display: flex;
@@ -171,7 +171,7 @@
     align-items: flex-end;
     transition: all 1s ease-in-out;
 }
-.hero-img:hover{background-image: url(Amage/hero_image1.jpg);}
+.hero-img:hover{background-image: url(hero_image1.jpg);}
 
 .hero-txt{
     background-color: #f5f6f6;
