@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Currency Value</title>
+</head>
+<body>
+
+<h2><b>Convert your Currency</b></h2>
+
+<main>
+<div id="main">
+    <div id="From" class="Box">
+        <img src="https://flagsapi.com/US/shiny/64.png" class="flagLogo">
+        <input type="text" class="inputBox" id="fromAmt" value="1">
+        <br>
+        <select id="cSelect" class="inputBox">
+            <!-- <option value="USD" selected>USD</option> -->
+        </select>
+    </div>
+
+    <div id="conLogo">
+        <i class="fa-solid fa-money-bill-transfer"></i>
+    </div>
+
+
+    <div id="To" class="Box">
+        <img src="https://flagsapi.com/IN/shiny/64.png" class="flagLogo">
+        <input type="text" class="inputBox" value="" readonly id="toAmt">
+        <br>
+        <select id="cSelect" class="inputBox">
+            <!-- <option value="IND" selected>IND</option> -->
+        </select>
+    </div>
+</div>
+
+</main>
+
+
+<br><br>
+
+<div id="googleSearch" href="https://www.google.com/search?q=inr+to+usd">
+    <img src="G.png" alt="">
+    <div class="line"></div>
+    <a href="https://www.google.com/search?q=inr+to+usd" target="_blank" >Verify from Google</a>
+</div>
+    
+
+
+
+    <script src="countryList.js"></script>
+    <script src="Convert.js"></script>
+</body>
+</html>

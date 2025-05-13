@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;}
+
+body{
+    background-color: #262322;}
+
+
+h2{
+    font-size: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #F2E5D7;
+    height: 10vh;}
+
+main{
+    display: flex;
+    justify-content: center;}
+
+#main{
+    background-color: #C97D60;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 65vh;
+    width: 75vw;
+    border-radius: 16px;
+    border: 4px solid #63372C;}
+
+.Box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flagLogo{
+    height: 128px;
+    width : 128px;
+}
+
+.inputBox{
+    border-radius: 100px;
+    text-align: center;
+    width: 192px;
+    height: 32px;
+    border: 2px solid black;
+    font-size: 16px;}
+
+#cSelect{
+    width: 128px;
+}
+
+
+
+
+#conLogo{
+    align-content: center;
+    font-size: 64px;
+    cursor: pointer;}
+
+
+
+
+#googleSearch {
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  padding: 10px 20px;
+  border: 2px solid #262322;
+  border-radius: 50px;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.5);
+  background-color: #fff;
+}
+
+#googleSearch img {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+
+#googleSearch .line {
+  width: 2px;
+  height: 32px;
+  background-color: #262322;
+  margin: 0 10px;
+}
+
+#googleSearch a {
+  color: #262322;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+#googleSearch a:hover {
+  text-decoration: underline;
+}
