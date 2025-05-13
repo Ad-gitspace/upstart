@@ -1,0 +1,170 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+header{
+    display: flex;
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    background-color: black;
+    width: 100vw;
+    height: 65px;
+}
+
+.searchDiv{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.searchBox{
+    display: flex;
+    align-items: center;
+    background-color: #1F1F1F;
+    border-radius: 1000px;
+    height: 60%;
+    padding-right: 20px;
+}
+
+
+.profileSection{
+    color: #b3b3b3;
+    width: 300px;
+    position: absolute;
+    right: 0;
+    display: flex;
+    align-self: flex-end;
+    justify-content: space-around; 
+}
+h4:hover{
+    color: white;
+    cursor: pointer;
+}
+
+
+
+main{
+    margin-top: 100px;
+    display: flex;
+}
+
+.sideBar{
+    height: 100vmin;
+    position: fixed;
+    z-index: 100;
+    top: 70px;
+    width: 20vw;
+    background-color: #141414;
+    border-radius: 16px;
+    margin-left: 10px;
+    display: flex;
+}
+
+/* .explore{
+
+} */
+
+
+
+
+/* By Ai */
+.explore {
+    position: relative;
+    left: 20vw;
+    height: 80vh;
+    width: 75vw;
+    border-radius: 16px;
+    background: radial-gradient(circle, #454545, #000000);
+    overflow-y: auto;
+    display: grid;
+}
+
+#gallery {
+    margin-left: 100px;
+    display: grid;
+    flex-direction: column;
+    
+}
+
+#gallery video,
+#gallery audio,
+#gallery img {
+    width: 35%;                /* Each media fills its column */
+    break-inside: avoid;        /* Keeps media from splitting */
+    margin-bottom: 16px;
+    border-radius: 8px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    cursor: pointer;
+    display: block;
+}
+
+#gallery video:hover,
+#gallery audio:hover,
+#gallery img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 15px rgba(255, 255, 255, 0.2);
+}
+
+.dropZone {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 75%;
+    border: 3px dashed #555;
+    transition: all 0.3s ease;
+    border-radius: 10px;
+}
+    
+
+.dropZone.drag-over {
+    background: radial-gradient(rgba(35, 144, 221, 0.625), rgb(184, 85, 202, 0.625));
+    transform: scale(1.02);
+}
+
+.label-InputF {
+    display: flex;
+    cursor: pointer;
+    text-align: center;
+    padding: 40px;
+    transition: transform 0.2s ease;
+}
+
+.label-InputF:hover {
+    transform: scale(1.05);
+}
+
+.label-InputF p {
+    font-size: 18px;
+    color: #b3b3b3;
+    margin-left: 40px;
+}
+
+.dropZone.has-files {
+    display: none;
+}
+
+
+
+
+
+
+.botFloater{
+    height: 70px;
+    width: 1000px;
+    background: linear-gradient(to right, rgb(184, 85, 202), rgb(35, 144, 221));
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+        

@@ -1,0 +1,60 @@
+#logo{
+    background-image: url(Assets/logo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}
+
+.fa-magnifying-glass{
+    font-size: 25px;
+    margin: 20px;
+    margin-top: 25px;
+    color: grey;
+}
+
+#search{
+    all: unset;
+    cursor: text;
+    width: 40vw;
+}
+
+#vLine{
+    height: 40px;
+    width: 2px;
+    border-radius: 2px;
+    margin-top: 15px;
+    background-color: white;
+}
+
+#downloadImg{
+    width: 20px;
+    height: 60px;
+    background-image: url(Assets/download.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-right: 4px;
+}
+
+
+#LiberaryLogo{
+    filter: invert();
+    height: 32px;
+    margin: 10px;
+}
+
+#Login{
+    border-radius: 100px;
+    width: 100px;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 4px;
+}
+
+#addFolderImg{
+    filter: invert(1);
+    opacity: 0.75;
+    /* width: 10px; */
+}

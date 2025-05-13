@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="main-style.css">
+    <link rel="stylesheet" href="IdProps.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+</head>
+<body>
+
+
+<header>
+    <div id="logo"></div>
+    <h2>Spotify</h2>
+    <div class="searchDiv">
+        <div class="searchBox">
+            <i class="fa-solid fa-magnifying-glass"></i>
+            <input type="search" id="search" placeholder="Explore with your Search">
+        </div>
+    </div>
+        
+
+    <div class="profileSection">
+        <div id="vLine"></div>
+        <div style="display: flex;">
+            <div id="downloadImg"></div>
+            <h4>Install App</h4>
+        </div>
+        <h4>Sign up</h4>
+        <button id="Login" >Log in</button>
+    </div>
+</header>
+
+
+<main>
+    <div class="sideBar">
+        <svg id="LiberaryLogo" data-encore-id="icon" role="img" aria-hidden="true" class="e-91000-icon e-91000-baseline" viewBox="0 0 24 24"><path d="M15 15.5c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2"></path><path d="M1.513 9.37A1 1 0 0 1 2.291 9h19.418a1 1 0 0 1 .979 1.208l-2.339 11a1 1 0 0 1-.978.792H4.63a1 1 0 0 1-.978-.792l-2.339-11a1 1 0 0 1 .201-.837zM3.525 11l1.913 9h13.123l1.913-9zM4 2a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v4h-2V3H6v3H4z"></path></svg>
+        <h4>Liberary</h4>
+    </div>
+
+    <div class="explore">
+
+        <div id="gallery">
+            <div class="dropZone">
+                <label for="inputFolder" class="label-InputF">
+                    <img src="Assets/addfolder.png" id="addFolderImg" alt="Upload">
+                    <p>Drag & Drop files here or click to browse</p>
+                </label>
+                <input type="file" id="inputFolder" webkitdirectory multiple style="display: none;">
+            </div>
+        </div>
+
+    </div>
+
+        <!-- <div class="botFloater"></div> -->
+
+</main>
+
+
+<footer>
+
+</footer>
+
+    
+
+
+
+
+    <!-- JavaScript -->
+    <script src="main.js"></script>
+</body>
+</html>
