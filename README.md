@@ -12,3 +12,5 @@ The starting of the Gems, saving for the sake of Nostalgia and initial thought.
 #project-3 https://ad-gitspace.github.io/upstart/Project/TicTacToe
 
 #project-4 https://ad-gitspace.github.io/upstart/Project/Currency%20Converter%20API/
+
+#project-4 https://ad-gitspace.github.io/upstart/Project/Spotity
