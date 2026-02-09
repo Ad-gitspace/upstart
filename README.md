@@ -14,3 +14,5 @@ The starting of the Gems, saving for the sake of Nostalgia and initial thought.
 #project-4 https://ad-gitspace.github.io/upstart/Project/Currency%20Converter%20API/
 
 #project-5 https://ad-gitspace.github.io/upstart/Project/Spotity
+
+#project-6 https://ad-gitspace.github.io/upstart/Project/Finding%20Place%20lite
