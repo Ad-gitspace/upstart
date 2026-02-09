@@ -1,0 +1,1020 @@
+state,city,popular_destination,latitude,longitude,interest,google_rating,price_fare
+Delhi,Delhi,India Gate,28.612912,77.2295097,Cultural & Heritage Sites,4.6,0
+Delhi,Delhi,Humayun's Tomb,28.5932848,77.2507492,Cultural & Heritage Sites,4.5,30
+Delhi,Delhi,Akshardham Temple,28.6126735,77.2772619,Religious & Spiritual Pilgrimages,4.6,60
+Delhi,Delhi,Waste to Wonder Park,28.5926939,77.2569715,Adventure & Outdoor Activities,4.1,50
+Delhi,Delhi,Jantar Mantar,28.6270547,77.2166267,"Arts, Science & Literature Attractions",4.2,15
+Delhi,Delhi,Chandni Chowk,28.6505331,77.230337,Shopping & Markets,4.2,0
+Delhi,Delhi,Lotus Temple,28.553492,77.2588264,Religious & Spiritual Pilgrimages,4.5,0
+Delhi,Delhi,Red Fort,28.6561592,77.2410203,Cultural & Heritage Sites,4.5,35
+Delhi,Delhi,Agrasen ki Baoli,28.626062,77.2250369,Cultural & Heritage Sites,4.2,0
+Delhi,Delhi,Sunder Nursery,28.5956467,77.2451691,Natural Landscapes & Wildlife,4.6,0
+Delhi,Delhi,Garden of Five Senses,28.513403,77.1975227,Natural Landscapes & Wildlife,4.1,35
+Delhi,Delhi,Lodhi Garden,28.5936814,77.2218338,Natural Landscapes & Wildlife,4.5,0
+Delhi,Delhi,National Gallery of Modern Art,28.6101926,77.2344179,"Arts, Science & Literature Attractions",4.5,20
+Delhi,Delhi,National Zoological Park ,38.9296156,77.0497844,Natural Landscapes & Wildlife,4.1,80
+Delhi,Delhi,Qutub Minar,28.5244946,77.1855177,Cultural & Heritage Sites,4.5,35
+Delhi,Delhi,Shopping at Sarojini Nagar,28.5740324,77.1990669,Shopping & Markets,4.2,0
+Delhi,Delhi,National Science Centre,28.6127836,77.2455584,"Arts, Science & Literature Attractions",4.4,70
+Maharastra,Mumbai,Marine Drive,18.9432111,72.8229983,Sightseeing & Exploration,4.5,0
+Maharastra,Mumbai,Gateway of India,18.9219841,72.8346543,Cultural & Heritage Sites,4.6,0
+Maharastra,Mumbai,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,18.9269015,72.8326916,Cultural & Heritage Sites,4.6,500
+Maharastra,Mumbai,NCPA Tiger safari at Borivali,19.2307329,72.856673,Adventure & Outdoor Activities,4.3,50
+Maharastra,Mumbai,Shopping at Colaba Causeway,18.9246447,72.8321315,Shopping & Markets,4.2,0
+Maharastra,Mumbai,"Shopping at Linking road, Bandra",19.0642357,72.8349124,Shopping & Markets,4.2,0
+Maharastra,Mumbai,"Phoenix marketcity Mall, Kurla",19.0863795,72.8889774,Shopping & Markets,4.5,0
+Maharastra,Mumbai,"Jio world drive mall, BKC",19.0543152,72.8515712,"Arts, Science & Literature Attractions",4.6,0
+Maharastra,Mumbai,"Five gardens, Matunga",19.019747,72.854312,Sightseeing & Exploration,4.1,0
+Maharastra,Mumbai,Worli seaface,19.0091432,72.8157283,Religious & Spiritual Pilgrimages,4.5,0
+Maharastra,Mumbai,Siddhivinayak Temple,19.01699,72.8303997,Religious & Spiritual Pilgrimages,4.8,0
+Maharastra,Mumbai,Mahalaxmi Temple,18.9773,72.8066,Religious & Spiritual Pilgrimages,4.7,0
+Maharastra,Mumbai,Haji Ali Dargah,18.9828273,72.8088966,Religious & Spiritual Pilgrimages,4.4,0
+Maharastra,Mumbai,Chowpatty Beach,18.9518622,72.8165592,Natural Landscapes & Wildlife,4.3,0
+Maharastra,Mumbai,Essel World,19.230098,72.8013252,Adventure & Outdoor Activities,4.3,1149
+Maharastra,Mumbai,Elephanta Caves,18.9633474,72.9314864,Cultural & Heritage Sites,4.3,550
+Maharastra,Lonavala,Tiger’s Leap cliff top,18.6961,73.3852,Sightseeing & Exploration,4.4,0
+Maharastra,Lonavala,Duke's nose trail,18.7323921,73.3678196,Adventure & Outdoor Activities,4.3,0
+Maharastra,Lonavala,Adlabs Imagica,18.7679396,73.2823206,Adventure & Outdoor Activities,4,1149
+Maharastra,Lonavala,Bhushi dam,18.7224264,73.3962885,Natural Landscapes & Wildlife,4,0
+Maharastra,Lonavala,Sunset at Lion's point,18.608297,73.3864648,Sightseeing & Exploration,4,0
+Karnataka,Bangalore,Bangalore Palace,18.699917,73.3859496,Cultural & Heritage Sites,4.2,500
+Karnataka,Bangalore,Lalbagh Botanical Garden,13.0035068,77.5890953,Natural Landscapes & Wildlife,4.4,20
+Karnataka,Bangalore,Cubbon Park,12.9494158,77.5846805,Natural Landscapes & Wildlife,4.4,0
+Karnataka,Bangalore,Nehru Planetarium,12.9779291,77.5951549,"Arts, Science & Literature Attractions",4,35
+Karnataka,Bangalore,National Gallery of Modern Art,12.5923,77.3517,Cultural & Heritage Sites,4.3,20
+Karnataka,Bangalore,Church street,28.6101926,77.2344179,Sightseeing & Exploration,4.1,0
+Karnataka,Bangalore,MG Road,12.582568,77.364279,Sightseeing & Exploration,4.2,0
+Karnataka,Bangalore,Boating at Yediyur lake ,12.9747587,77.6093926,Adventure & Outdoor Activities,4.2,50
+Karnataka,Bangalore,Vidhana Soudha,12.93349,77.5766285,Cultural & Heritage Sites,4.6,0
+Karnataka,Bangalore,ISKCON Temple Bangalore,12.9796121,77.5908462,Religious & Spiritual Pilgrimages,4.6,0
+Telangana,Hyderabad,Charminar,13.0098328,77.5510964,Cultural & Heritage Sites,4.5,25
+Telangana,Hyderabad,Golconda Fort,17.3615636,78.4746645,Cultural & Heritage Sites,4.4,30
+Telangana,Hyderabad,Hussain Sagar Lake,17.383309,78.4010528,Natural Landscapes & Wildlife,4.3,0
+Telangana,Hyderabad,Ramoji Film City,17.4238798,78.4738215,"Arts, Science & Literature Attractions",4.4,1150
+Telangana,Hyderabad,Salar Jung Museum,17.221713,78.284925,"Arts, Science & Literature Attractions",4.4,20
+Telangana,Hyderabad,Qutb Shahi Tombs,17.3716084,78.4802439,Cultural & Heritage Sites,4.4,25
+Telangana,Hyderabad,Lad Bazaar ,17.3973706,78.4001141,Shopping & Markets,4,0
+Telangana,Hyderabad,Birla Mandir,17.3628791,78.4741288,Religious & Spiritual Pilgrimages,4.7,0
+Telangana,Hyderabad,Chowmahalla Palace,17.212781,78.281814,Cultural & Heritage Sites,4.4,80
+Telangana,Hyderabad,Nehru Zoological Park,17.3578233,78.4716897,Natural Landscapes & Wildlife,4.2,50
+Telangana,Hyderabad,Infinite adventure club,17.3483047,78.4425108,Adventure & Outdoor Activities,4.4,1000
+Telangana,Hyderabad,Lumbini Park,17.4458759,78.4186335,Natural Landscapes & Wildlife,4.1,20
+West Bengal,Kolkata,Victoria Memorial,17.4096811,78.4724344,Cultural & Heritage Sites,4.6,30
+West Bengal,Kolkata,Howrah Bridge,22.5448082,88.3425578,Cultural & Heritage Sites,4.6,0
+West Bengal,Kolkata,Indian Museum,22.5851433,88.3468005,"Arts, Science & Literature Attractions",4.6,50
+West Bengal,Kolkata,Ganga aarti,22.5578858,88.3511268,Religious & Spiritual Pilgrimages,4.6,0
+West Bengal,Kolkata,Birla Planetarium,27.40364009,83.00912405,"Arts, Science & Literature Attractions",4.4,100
+West Bengal,Kolkata,St.Pauls Cathedral,22.5455141,88.3473163,Religious & Spiritual Pilgrimages,4.2,0
+West Bengal,Kolkata,Tiretti Bazaar,22.57285,88.356,Shopping & Markets,4.1,0
+West Bengal,Kolkata,Princep Ghat,22.5739086,88.3555988,Cultural & Heritage Sites,4.3,0
+West Bengal,Kolkata,Kumartali potter's quarter,22.5552828,88.3311699,"Arts, Science & Literature Attractions",4.4,0
+West Bengal,Kolkata,Shopping at Chamba lama,22.6000017,88.3612679,Shopping & Markets,4.3,0
+West Bengal,Kolkata,Burra Bazaar,22.5599918,88.3531374,Shopping & Markets,4,0
+West Bengal,Kolkata,Dakshineswar Kali Temple,22.5817406,88.3543972,Religious & Spiritual Pilgrimages,4.7,0
+West Bengal,Kolkata,Kalighat Kali Temple,22.6549087,88.3575307,Religious & Spiritual Pilgrimages,4.4,0
+West Bengal,Kolkata,Eden Gardens,22.5202798,88.3420877,Sports & Recreation,4.1,2500
+West Bengal,Kolkata,Alipore Zoological Gardens,22.5646081,88.3432645,Natural Landscapes & Wildlife,4.3,25
+West Bengal,Kolkata,Science City Kolkata,22.5370343,88.3316697,"Arts, Science & Literature Attractions",4.4,60
+West Bengal,Kolkata,Belur Math,22.5401381,88.3960564,Religious & Spiritual Pilgrimages,4.7,0
+West Bengal,Kolkata,Marble Palace,22.6326565,88.3563815,Cultural & Heritage Sites,4.4,0
+Goa,Goa,Basilica of Bom Jesus,15.5008,73.9114,Religious & Spiritual Pilgrimages,4.5,0
+Goa,Goa,Fort Aguada,15.5008238,73.9114061,Cultural & Heritage Sites,4.2,0
+Goa,Goa,Dudhsagar Falls,15.4922519,73.7737462,Natural Landscapes & Wildlife,4.6,500
+Goa,Goa,Anjuna Beach,15.3144375,74.3143073,Adventure & Outdoor Activities,4.4,0
+Goa,Goa,Chapora Fort,15.5733497,73.7409781,Cultural & Heritage Sites,4.2,0
+Goa,Goa,Se Cathedral,15.6046375,73.7369631,Religious & Spiritual Pilgrimages,4.5,0
+Goa,Goa,Baga Beach,15.5038769,73.9121918,Natural Landscapes & Wildlife,4.5,0
+Goa,Goa,Candolim Beach,15.5552787,73.7517307,Natural Landscapes & Wildlife,4.4,0
+Goa,Panjim,Fontainhas colony,15.5179749,73.7626122,Cultural & Heritage Sites,4.2,0
+Goa,Panjim,Shopping at M.G.Road,15.4941033,73.8300775,Shopping & Markets,4.1,0
+Goa,Panjim,Gallery Gitanjali,12.9747587,77.6093926,"Arts, Science & Literature Attractions",4.5,0
+Goa,Panjim,Our Lady of Immaculate Conception Church,15.4986,73.8294,Religious & Spiritual Pilgrimages,4.4,0
+Goa,Goa,Old Goa,15.5014,73.9135,Cultural & Heritage Sites,4.5,0
+Goa,Goa,Arambol Beach,15.501984,73.9100068,Natural Landscapes & Wildlife,4.6,0
+Goa,Goa,Palolem Beach,15.6846886,73.7032836,Natural Landscapes & Wildlife,4.6,0
+Goa,Goa,Colva Beach,15.0099648,74.0232186,Natural Landscapes & Wildlife,4.3,0
+Goa,Goa,Miramar Beach,15.2805316,73.9119945,Natural Landscapes & Wildlife,4.2,0
+Goa,Goa,Dr. Salim Ali Bird Santuary,15.513,73.8704,Natural Landscapes & Wildlife,3.9,10
+Gujrat,Ahemdabad,Statue of Unity,10.1335031,76.6860267,Cultural & Heritage Sites,4.6,120
+Gujrat,Ahemdabad,Jhulta Minara,21.8380184,73.7190728,Cultural & Heritage Sites,4.1,0
+Gujrat,Ahemdabad,Auto World Vintage Car Museum,23.0236789,72.5998114,"Arts, Science & Literature Attractions",4.4,100
+Gujarat,Ahmedabad,Sabarmati Ashram,23.0572846,72.6872617,Cultural & Heritage Sites,4.6,0
+Gujrat,Dwarka,Dwarka Beach & Lighthouse,23.0358621,72.5701089,Natural Landscapes & Wildlife,4.6,0
+Gujrat,Dwarka,Rukmini Devi Mandir,22.2441975,68.9684562,Religious & Spiritual Pilgrimages,4.6,0
+Gujrat,Dwarka,Shri Nageshwar Jyotirling,22.2573143,68.9644191,Religious & Spiritual Pilgrimages,4.7,0
+Gujarat,Dwarka,Dwarkadhish Temple,22.3359636,69.0870088,Religious & Spiritual Pilgrimages,4.7,0
+Gujrat,Junagadh,Mahabat Maqbara Palace,22.2371082,68.9676255,Cultural & Heritage Sites,4.4,0
+Gujrat,Junagadh,Uparkot Fort,21.5275733,70.4599927,Cultural & Heritage Sites,4.3,5
+Gujrat,Junagadh,Sakkarbaug Zoological Park,21.5247475,70.4700532,Natural Landscapes & Wildlife,4.3,20
+Gujarat,Junagadh,Gir National Park,21.5418892,70.4646275,Natural Landscapes & Wildlife,4.5,3500
+Gujrat,Bhuj,Aina Mahal Palace,21.0842848,70.7944414,Cultural & Heritage Sites,4.2,20
+Gujrat,Bhuj,Bhuj Mandir,23.2553595,69.6685614,Religious & Spiritual Pilgrimages,4.7,0
+Gujrat,Bhuj,Chhatardi Bhuj,23.2419997,69.6669324,Cultural & Heritage Sites,4.4,0
+Gujrat,Bhuj,Vande Mataram Memorial,23.2457731,69.6581727,Cultural & Heritage Sites,4.6,100
+Gujarat,Bhuj,White Desert,23.2187507,69.73645,Natural Landscapes & Wildlife,4.6,0
+Gujrat,Vadodara,Sayaji Baug Zoo,22.3115,73.19,Natural Landscapes & Wildlife,4.4,20
+Gujrat,Vadodara,Inorbit Mall Vadodara,22.3114569,73.191386,Shopping & Markets,4.5,0
+Gujrat,Vadodara,Baroda Museum &Gallery,22.3223271,73.1655842,"Arts, Science & Literature Attractions",4.5,5
+Gujrat,Vadodara,BAPS Shri Swaminarayan Mandir,22.3117697,73.1887449,Religious & Spiritual Pilgrimages,4.5,0
+Gujrat,Vadodara,Mandvi Gate,22.3001,73.2106,Cultural & Heritage Sites,4.4,0
+Gujarat,Vadodara,Laxmi Vilas Palace,22.300138,73.2106478,Cultural & Heritage Sites,4.4,200
+Gujrat,Somnath,Somnath Beach,22.2935993,73.1919074,Religious & Spiritual Pilgrimages,4.5,0
+Gujarat,Somnath,Somnath Temple,20.8841837,70.405855,Religious & Spiritual Pilgrimages,4.8,0
+Gujrat,Gandhinagar,Adalaj Stepwell,20.8879899,70.4012569,Cultural & Heritage Sites,4.5,0
+Gujrat,Gandhinagar,Sarita Udyan,23.1667825,72.580464,Sightseeing & Exploration,4.4,0
+Gujrat,Gandhinagar,Swaminarayan Akshardham,23.2031524,72.6589384,Religious & Spiritual Pilgrimages,4.6,0
+Gujarat,Gandhinagar,Dandi Kutir,28.6126735,77.2772619,"Arts, Science & Literature Attractions",4.5,0
+Gujarat,Ahmedabad,Sabarmati Riverfront,23.2328758,72.6311938,Sightseeing & Exploration,4.6,0
+Gujarat,Ahmedabad,Manek Chowk,23.0234539,72.5766408,Shopping & Markets,4.4,0
+Gujarat,Ahmedabad,Kankaria Lake,23.0231887,72.5879093,Natural Landscapes & Wildlife,4.5,10
+Gujarat,Ahmedabad,Science City,23.0062573,72.6025503,"Arts, Science & Literature Attractions",4.4,500
+Rajasthan,Jaipur,Birla Mandir,23.0714235,72.5167854,Religious & Spiritual Pilgrimages,4.6,0
+Rajasthan,Jaipur,Shree Khole Ki Hanuman Mandir,26.907524,75.739639,Religious & Spiritual Pilgrimages,4.8,0
+Rajasthan,Jaipur,Cental Park,26.9049,75.8087,Natural Landscapes & Wildlife,4.6,0
+Rajasthan,Jaipur,Moti Dungri Ganesh Ji Temple,26.8947,75.8167,Religious & Spiritual Pilgrimages,4.8,0
+Rajasthan,Jaipur,Jantar Mantar,26.8946582,75.8167154,"Arts, Science & Literature Attractions",4.5,0
+Rajasthan,Jaipur,Amber Palace,28.6270547,77.2166267,Cultural & Heritage Sites,4.6,0
+Rajasthan,Jaipur,Hawa Mahal,26.9854865,75.8513454,Cultural & Heritage Sites,4.4,50
+Rajasthan,Udaipur ,Lake Pichola,26.9240458,75.8267144,Natural Landscapes & Wildlife,4.7,0
+Rajasthan,Udaipur,Jagdish Temple,24.572,73.679,Religious & Spiritual Pilgrimages,4.7,0
+Rajasthan,Udaipur,Ambrai Ghat,24.5796536,73.6836153,Sightseeing & Exploration,4.7,0
+Rajasthan,Udaipur,Saheliyon ki Bari,24.5775547,73.6799021,Natural Landscapes & Wildlife,4.4,50
+Rajasthan,Udaipur,Sajjangarh Monsoon Palace,24.6030064,73.6854901,Cultural & Heritage Sites,4.4,110
+Rajasthan,Udaipur,Bagore ki Haveli,24.5931853,73.6396056,Cultural & Heritage Sites,4.5,30
+Rajasthan,Udaipur,Karni Mata Temple,24.5800483,73.6822576,Religious & Spiritual Pilgrimages,4,0
+Rajasthan,Udaipur,City Palace,27.7909349,73.3408256,Cultural & Heritage Sites,4.4,300
+Rajasthan,Jaisalmer,Patwa Haweli,26.9164,70.9143,Cultural & Heritage Sites,4.3,40
+Rajasthan,Jaisalmer,Longewala War memorial,26.911661,70.922928,Cultural & Heritage Sites,4.8,50
+Rajasthan,Jaisalmer,Gadisar Lake,27.5229395,70.1564799,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4.4,0
+Rajasthan,Jaisalmer,Jaisalmer Fort,26.9085788,70.9231001,Cultural & Heritage Sites,4.4,50
+Rajasthan,Ranthambore,Trinetra Ganesh Temple,26.9124555,70.9126093,Religious & Spiritual Pilgrimages,4.7,0
+Rajasthan,Ranthambore,Ranthambore Fort,26.0174913,76.4532362,Cultural & Heritage Sites,4.5,0
+Rajasthan,Ranthambore,Ranthambore National Park,26.0207552,76.4549695,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4.6,500
+Rajasthan,Ajmer,Adhai Din ka Jhopra,25.9775867,76.5532869,Cultural & Heritage Sites,4.4,50
+Rajasthan,Ajmer,Anasagar Lake,26.455216,74.6251458,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4.5,0
+Rajasthan,Ajmer,Khwaja Gharib Nawaz Dargah ,26.4745925,74.6195474,Religious & Spiritual Pilgrimages,4.6,0
+Rajasthan,Jodhpur,Jaswant Thada,21.0105397,75.5520299,Cultural & Heritage Sites,4.4,30
+Rajasthan,Jodhpur,Umaid Bhawan Palace,26.3040998,73.0253613,Cultural & Heritage Sites,4.5,50
+Rajasthan,Jodhpur,Mehrangarh Fort,26.2810298,73.0473022,Cultural & Heritage Sites,4.6,100
+Rajasthan,Mount Abu,Nakki Lake,26.2978267,73.0180132,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4.4,0
+Rajasthan,Mount Abu,Sunset Point,24.5945112,72.7062297,"Natural Landscapes & Wildlife, Sightseeing & Exploration",0.4,0
+Rajasthan,Mount Abu,Dilwara Temples,24.6094,72.723,"Religious & Spiritual Pilgrimages, Cultural & Heritage Sites",4.6,0
+Rajasthan,Jaipur,Nahargarh Fort,24.609382,72.7229797,Cultural & Heritage Sites,4.6,100
+Rajasthan,Jaipur,Jaigarh Fort,26.9401659,75.8170373,Cultural & Heritage Sites,4.5,35
+Rajasthan,Udaipur,Lake Pichola,26.9816052,75.8447917,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4.6,0
+Punjab,Amritsar,Sadda Pind,31.63398,74.872261,Cultural & Heritage Sites,4.3,700
+Punjab,Amritsar,Gobind Garh Fort,31.644012,74.8131795,Cultural & Heritage Sites,4.3,250
+Punjab,Amritsar,Shri Durgiana Temple,31.6276227,74.8580233,Religious & Spiritual Pilgrimages,4.7,0
+Punjab,Amritsar,Shree Harminder Sahib Gurudwara,31.6271534,74.8673445,Religious & Spiritual Pilgrimages,4.9,0
+Punjab,Amritsar,The Partition Museum,31.6199803,74.8764849,"Arts, Science & Literature Attractions",4.6,50
+Punjab,Amritsar,Golden Temple (Harmandir Sahib),31.6256935,74.8790091,Religious & Spiritual Pilgrimages,4.9,0
+Punjab,Amritsar,Jallianwala Bagh,31.6199803,74.8764849,Cultural & Heritage Sites,4.8,0
+Punjab,Amritsar,Wagah Border,31.6207396,74.8801655,"Adventure & Outdoor Activities, Sightseeing & Exploration",4.8,0
+Punjab,Chandigarh, Japanese Garden,31.6048388,74.5740775,"Cultural & Heritage Sites, Natural Landscapes & Wildlife",4.3,0
+Punjab,Chandigarh,Sector 17 Market,30.7395,76.7825,Shopping & Markets,4.4,0
+Punjab,Chandigarh,ISKON temple,30.739471,76.7825333,Religious & Spiritual Pilgrimages,4.8,0
+Punjab,Chandigarh,Terraced garden,30.7144,76.7716,Natural Landscapes & Wildlife,4.5,0
+Punjab,Chandigarh,Government museum & Art gallery,30.445473,76.471285,"Arts, Science & Literature Attractions",4.4,60
+Punjab,Chandigarh,Sukhna Lake,13.0716298,80.2567955,Natural Landscapes & Wildlife,4.6,0
+Punjab,Chandigarh,Rock Garden,30.7421379,76.8187557,Sightseeing & Exploration,4.5,30
+Kerala,Alappuzha,Shree Krishna Swamy Temple,30.752535,76.8101038,Religious & Spiritual Pilgrimages,4.6,0
+Kerala,Alappuzha,Marari Beach,9.6008,76.2983,Natural Landscapes & Wildlife,4.5,0
+Kerala,Alappuzha,International Coi Museum,9.6007506,76.2982585,"Arts, Science & Literature Attractions",4.3,0
+Kerala,Alappuzha,Alleppey Backwater,9.5239,76.3568,Natural Landscapes & Wildlife,4.6,0
+Kerala,Alappuzha,Chakkulathukavu Sree Bhagwathi Temple,9.5238612,76.3567633,Religious & Spiritual Pilgrimages,4.3,0
+Kerala,Alappuzha,Mannarasala Sree Nagaraja Temple,9.3669421,76.5141883,Religious & Spiritual Pilgrimages,4.3,0
+Kerala,Alappuzha,St.Andrew's Basilica,9.2896809,76.4456832,Religious & Spiritual Pilgrimages,4.7,0
+Kerala,Alappuzha,Alappuzha Beach,9.6611287,76.3002896,Natural Landscapes & Wildlife,4.5,0
+Kerala,Munnar,Pothamedu View Point,9.4927482,76.3177759,Sightseeing & Exploration,4.2,0
+Kerala,Munnar,Eravikulam National Park,10.0596918,77.064076,Natural Landscapes & Wildlife,4.3,125
+Kerala,Munnar,Mattupetty Dam,10.1453912,77.0366346,Sightseeing & Exploration,4.2,0
+Kerala,Munnar,Munnar Tea Gardens,10.1063316,77.1238055,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4.3,0
+Kerala,Kochi,LuLu International Shopping Mall,10.0578407,77.0660813,Shopping & Markets,4.6,0
+Kerala,Kochi,National Shrine Basilica of our Lady of Ransom,10.0271483,76.3081856,Religious & Spiritual Pilgrimages,4.8,0
+Kerala ,Kochi,Mattancherry Palace,9.9583,76.2594,Cultural & Heritage Sites,4.2,2
+Kerala,Kochi,Marine Drive Kochi,9.9582773,76.2593508,Sightseeing & Exploration,4.3,0
+Kerala,Kochi,Chottanikara Bhagvathy Temple,9.9771685,76.2773228,Religious & Spiritual Pilgrimages,5,0
+Kerala,Kochi,Hill Palace Museum,9.9331743,76.3905714,Cultural & Heritage Sites,4.3,0
+Kerala,Kochi,Cherai Beach,9.952749,76.3638016,Natural Landscapes & Wildlife,4,0
+Kerala,Kochi,Fort Kochi,10.1415953,76.1782833,Cultural & Heritage Sites,4.4,0
+Kerala,Thiruvanthapuram,Attukal Bhagwathy Temple,9.9657787,76.2421147,Religious & Spiritual Pilgrimages,4.6,0
+Kerala,Thiruvanthapuram,Kovalam Beach,8.4698623,76.9554858,Natural Landscapes & Wildlife,4.4,0
+Kerala,Thiruvanthapuram,Thiruvanthapuram Zoological park,8.3837841,76.9804176,Natural Landscapes & Wildlife,4.2,200
+Kerala,Thiruvanthapuram,Kanakakkunnu Palace,8.5105939,76.9549377,Cultural & Heritage Sites,4.5,0
+Kerala,Thiruvanthapuram,Veli Lake Tourist Village,8.5107183,76.9581858,Sightseeing & Exploration,4.2,0
+Kerala,Thiruvanthapuram,Napier Museum,8.5080206,76.8886702,"Arts, Science & Literature Attractions",4.4,70
+Kerala,Thiruvananthapuram,Padmanabhaswamy Temple,8.5089657,76.955072,Religious & Spiritual Pilgrimages,4.7,0
+Kerala,Kozhikode,HiLITE mall,8.4827779,76.9435906,Shopping & Markets,4.2,0
+Kerala,Kozhikode,Mittayi Theravu -SM Street,11.2486583,75.833473,Shopping & Markets,4.5,0
+Kerala,Kozhikode,Tali Maha Shiva Kshetram,11.2507622,75.7815607,Religious & Spiritual Pilgrimages,4.7,0
+Kerala,Kozhikode,Sargaalaya Kerala Arts& Crafts village,11.2479375,75.7875625,"Arts, Science & Literature Attractions",4.3,50
+Kerala,Kozhikode,Kozhikode Beach,11.5601151,75.6058617,Natural Landscapes & Wildlife,3.9,0
+Kerala,Wayanad,Lakkidi View point,11.2626228,75.7673095,Sightseeing & Exploration,4.5,0
+Kerala,Wayanad,Edakkal Caves,11.5121995,76.0189339,Natural Landscapes & Wildlife,4.1,70
+Kerala,Wayanad,"Karapuzha Dam, adventure park, garden",11.6268407,76.234269,Adventure & Outdoor Activities,4.4,0
+Kerala,Wayanad,Wayanad Wildlife Sanctuary,11.6182901,76.1678346,Natural Landscapes & Wildlife,4.5,300
+Kerala,Kannur,Muzhappilangad Beach,11.6716011,76.3686564,Natural Landscapes & Wildlife,4.4,0
+Kerala,Kannur,Parassini Madappura Sree Muthappan Temple,11.7932037,75.4441073,Religious & Spiritual Pilgrimages,4.4,0
+Kerala,Kannur,St. Angelo Fort,11.9824702,75.402109,Cultural & Heritage Sites,4.4,20
+Kerala,Kochi,Kerala Folklore Museum,11.8541418,75.3714455,Cultural & Heritage Sites,4.4,100
+Kerala,Kochi,Wonderla Amusement Park,9.9330107,76.2989787,Adventure & Outdoor Activities,4.6,750
+Karnataka,Mysore,Shri Chamundeshwari Temple,12.8349095,77.4009409,Religious & Spiritual Pilgrimages,4.7,0
+Karnataka,Mysore,Chamundi Betta,12.2725036,76.6707154,Natural Landscapes & Wildlife,4.7,0
+Karanataka,Mysore,Lokaranjan Aqua World Underwater zoo,12.2731672,76.6707435,Natural Landscapes & Wildlife,4.6,200
+Karanataka,Mysore,Mysuru Railway museum,12.304807,76.6638086,"Arts, Science & Literature Attractions",4.4,50
+Karnataka,Mysore,"Karanji Lake, boating, bird sanctuary",12.3163393,76.643323,"Natural Landscapes & Wildlife, Adventure & Outdoor Activities",4,0
+Karnataka,Mysore,Mysore Palace,12.302778,76.673611,Cultural & Heritage Sites,4.6,25
+Karanataka,Hampi,Virupaksha Temple,12.305163,76.6551749,Religious & Spiritual Pilgrimages,4.7,0
+Karnataka,Hampi,Stone Chariot,15.3351333,76.4586529,Cultural & Heritage Sites,4.8,0
+Karanataka,Hampi,Mathanga Hill,15.3316,76.4682,Natural Landscapes & Wildlife,4.8,0
+Karnataka,Hampi,Shree Vijaya Vitthala Temple,15.3316387,76.4682381,Religious & Spiritual Pilgrimages,4.8,0
+Karnataka,Hampi,Group of monuments at Hampi,15.3423099,76.475235,Cultural & Heritage Sites,4.7,30
+Karnataka,Hampi,Lotus Mahal,15.3349769,76.4619233,Cultural & Heritage Sites,4.6,50
+Karnataka,Hampi,Ajanadri Hills,15.3202851,76.4713243,Adventure & Outdoor Activities,4.7,0
+Karnataka,Coorg,Raja's Seat garden,15.3548385,76.469264,Sightseeing & Exploration,4.4,0
+Karnataka,Coorg,Nagarhole Tiger Reserve,12.4145674,75.7371014,Natural Landscapes & Wildlife,4.4,150
+Karnataka,Coorg,Mallalli Falls,12.0734366,76.1510815,Natural Landscapes & Wildlife,4.6,0
+Karnataka,Coorg,Brahmagiri Wildlife Sanctuary,12.680643,75.723667,Natural Landscapes & Wildlife,4.4,25
+Karnataka,Coorg,Dubare Elephant camp and bathing spot,12.1726489,75.6440842,Natural Landscapes & Wildlife,4.1,20
+Karnataka,Coorg,Coorg river rafting Barapole,12.371192,75.9051197,Adventure & Outdoor Activities,4.1,0
+Karnataka,Coorg,Namdroling Monastery,12.3374942,75.8069082,"	Religious & Spiritual Pilgrimages",4.5,0
+Karnataka,Coorg,Iruppu Falls-Brahmagiri,12.430628,75.9669536,Natural Landscapes & Wildlife,4.1,0
+Karnataka,Chikmanglur,Bhadra wildlife sanctuary,11.9661026,75.9833292,Natural Landscapes & Wildlife,4.4,60
+Karnataka,Chikmanglur,Shri Jagadguru Shankaracharya Peeta,13.6948738,75.635227,Religious & Spiritual Pilgrimages,4.8,0
+Karnataka,Chikmanglur, Shri Annapurneshwari Devi Temple,13.4167132,75.2521434,Religious & Spiritual Pilgrimages,4.8,0
+Karanataka,Chikmanglur,Sri Sharadamba Temple ,9.8121201,77.1747471,Religious & Spiritual Pilgrimages,4.8,0
+Karnataka,Chikmanglur,Kallathigiri Falls,13.4161397,75.2512712,Natural Landscapes & Wildlife,4.2,0
+Karanataka,Chikmanglur,Baba Budan Giri hills,13.5486112,75.7891482,Natural Landscapes & Wildlife,4.5,0
+Karnataka,Chikmagalur,Mullayanagiri Betta,13.422865,75.7703876,Natural Landscapes & Wildlife,4.5,0
+Karnataka,Badami,Sri Bhootanaatha Gudi,13.3908855,75.7213295,Religious & Spiritual Pilgrimages,4.7,0
+Karnataka,Badami,Banashankari Devi Temple,15.9207886,75.6876704,Religious & Spiritual Pilgrimages,4.7,0
+Karnataka,Badami,Badami Cave Temples,15.9183365,75.6839686,Religious & Spiritual Pilgrimages,4.6,30
+Karnataka,Mangalore,Kadri Park,12.8889802,74.8562231,Sightseeing & Exploration,4.3,10
+Karnataka,Mangalore,City Center mall,12.8713,74.8428,Shopping & Markets,4.4,0
+Karnataka,Mangalore,Kukke Shree Subrahmanya Temple,12.6636275,75.6158479,Religious & Spiritual Pilgrimages,4.6,0
+Karnataka,Mangalore,Dharmasthala Temple,12.9503818,75.3804923,Religious & Spiritual Pilgrimages,4.8,0
+Karnataka,Mangalore,Pilikula Nisargadhama zoo,12.9272855,74.8991256,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4.4,80
+Karnataka,Mangalore,Panambur Beach,12.9530213,74.8011783,"	Natural Landscapes & Wildlife, Sightseeing & Exploration",4.5,0
+Karanataka,Bijapur,Fort Bijapur,16.8299689,75.7363025,Cultural & Heritage Sites,4.3,70
+Karnataka,Bijapur,Jamiya Masjid,16.8222732,75.7287785,"Cultural & Heritage Sites, Religious & Spiritual Pilgrimages",4.2,0
+Karnataka,Bijapur,Shivgiri Temple,16.817515,75.7563529,Religious & Spiritual Pilgrimages,4.5,0
+Karnataka,Bijapur,Bara Kaman,16.8303151,75.7182706,Cultural & Heritage Sites,4.2,0
+Karnataka,Bijapur,Gol Gumbaz museum,16.8288232,75.735884,"Cultural & Heritage Sites, Arts, Science & Literature Attractions",4.5,0
+Karnataka,Bijapur,Gol Gumbaz,16.8302623,75.7361152,Cultural & Heritage Sites,4.5,0
+Maharashtra,Pune,Phoenix Marketcity Pune,18.562254,73.9166943,Shopping & Markets,4.5,0
+Maharashtra,Pune,Chatushrungi Devi Temple,18.5393061,73.8290409,Religious & Spiritual Pilgrimages,4.6,0
+Maharashtra,Pune,Pune-Okayama Friendship Garden,18.4913813,73.8367603,Sightseeing & Exploration,4.5,0
+Maharashtra,Pune,Raja Dinkar Kelkar Museum,18.5106855,73.8544307,"Arts, Science & Literature Attractions",4.4,300
+Maharashtra,Pune,Sinhagad Fort,18.366277,73.7558777,Cultural & Heritage Sites,4.6,10
+Maharashtra,Pune,Rajiv Gandhi zoo,18.4524807,73.8607977,Natural Landscapes & Wildlife,4.1,40
+Maharashtra,Pune, Dagadusheth Halwai Ganapati temple,18.5164297,73.8561329,Religious & Spiritual Pilgrimages,4.8,0
+Maharastra,Pune,Shaniwar Wada,18.5194647,73.8553175,Cultural & Heritage Sites,4.4,50
+Maharashtra,Aurangabad,Prozone Mall,11.0547682,76.9941106,Shopping & Markets,4.3,0
+Maharashtra,Aurangabad,Bibi ka Maqbara ,19.9006246,75.319353,Cultural & Heritage Sites,4.2,0
+Maharashtra,Aurangabad,Ellora Caves,20.0267844,75.1770869,Cultural & Heritage Sites,4.7,40
+Maharashtra,Aurangabad,Daulatabad Fort,19.946133,75.221652,Cultural & Heritage Sites,4.8,10
+Maharastra,Aurangabad,Ajanta Caves,20.5514444,75.7018913,Cultural & Heritage Sites,4.6,30
+Maharashtra,Nashik,Trimbakeshwar Jyotirling Mandir,19.9322605,73.5307877,Religious & Spiritual Pilgrimages,4.6,0
+Maharashtra,Nashik,Pandav Leni caves,19.9412114,73.748555,Cultural & Heritage Sites,4.6,0
+Maharashtra,Alibaug,Water Sports in Alibaug,18.6583989,72.8773346,Adventure & Outdoor Activities,4.9,0
+Maharashtra,Alibaug,Kolaba Fort,18.6342019,72.8644532,Cultural & Heritage Sites,4.2,20
+Maharastra,Alibaug,Alibaug Beach,18.6391422,72.8720214,Natural Landscapes & Wildlife,4.2,0
+Maharashtra,Ratnagiri,Jaigad Fort,17.300493,73.221612,Cultural & Heritage Sites,4.1,0
+Maharahtra,Ratnagiri,Tilak Ali Museum,16.9952987,73.2904689,"Arts, Science & Literature Attractions",4.6,0
+Maharastra,Ratnagiri,Ganapatipule Temple,17.1449566,73.2662143,Religious & Spiritual Pilgrimages,4.7,0
+Maharashtra,Nagpur,Umred Karhandla Wildlife Sanctuary,20.8286613,79.5932651,Natural Landscapes & Wildlife,4.2,150
+Maharashtra,Nagpur,Tadoba Andhari Tiger Project,20.2717885,79.3875706,Natural Landscapes & Wildlife,4.5,25
+Maharashtra,Nagpur,Khindsi Lake water sports,21.404032,79.3634517,Adventure & Outdoor Activities,4,0
+Maharashtra,Nagpur,Khindsi Lake,21.404032,79.3634517,Natural Landscapes & Wildlife,4,0
+Maharashtra,Nagpur,Ambazari Lake & Garden,21.1292572,79.0489685,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4,0
+Maharashtra,Nagpur,Raman Science Centre,21.1459008,79.0941262,"Arts, Science & Literature Attractions",4.5,15
+Maharashtra,Nagpur,Krazy Castle Aqua Park,21.1282952,79.0462212,Adventure & Outdoor Activities,4,490
+Maharastra,Nagpur,Deekshabhoomi,21.128056,79.066944,Cultural & Heritage Sites,4.5,0
+Maharastra,Kolhapur,Chhatrapati Shahu Palace,16.7193627,74.231735,Cultural & Heritage Sites,4.5,25
+Maharastra,Kolhapur,Dajipur Wildlife Sanctuary,16.3837902,73.8633999,Natural Landscapes & Wildlife,4.4,50
+Maharastra,Kolhapur,Shri Ambabai Temple,16.416,74.135999,Religious & Spiritual Pilgrimages,4.8,0
+Maharastra,Lonavla,Della Adventure Park,18.7814023,73.38906,Adventure & Outdoor Activities,4.3,2000
+Maharastra,Lonavala,Karla Caves,18.7832762,73.4704426,Cultural & Heritage Sites,4.4,25
+Maharastra,Lonavala,Imagicaa amusement park,18.7679396,73.2823206,Adventure & Outdoor Activities,4.4,1000
+Maharastra,Lonavala,Lions Point ,18.6999,73.3859,Sightseeing & Exploration,4.4,0
+Maharastra,Lonavala,Ekvira Devi Temple,18.7832445,73.4702278,Religious & Spiritual Pilgrimages,4.7,0
+Maharashtra,Tarkarli,Tarkarli Beach,16.0136864,73.4898334,Natural Landscapes & Wildlife,4.6,0
+Maharashtra,Satara,Kaas Plateau,17.7208314,73.8237159,Natural Landscapes & Wildlife,4.4,300
+Maharashtra,Satara,Vasota Fort Jungle trekking and Camping,17.7338451,73.7590369,Adventure & Outdoor Activities,4.7,1200
+Maharashtra,Satara,Lodwick Point,17.9394677,73.6347687,Sightseeing & Exploration,4.4,0
+Maharashtra,Satara,Thoseghar Waterfall,17.5980965,73.8481534,Natural Landscapes & Wildlife,4.5,0
+Maharashtra,Satara,Ajinkyatara Fort,17.6723432,73.9904721,Cultural & Heritage Sites,4.5,0
+Maharashtra,Satara,Uttar Chidambaram Nataraj mandir,17.6852,74.0254,Religious & Spiritual Pilgrimages,4.6,0
+Maharashtra,Satara,Sajjangad Fort,17.6485126,73.9157886,Cultural & Heritage Sites,4.6,10
+Maharashtra,Satara,Pratapgad Fort,17.9372875,73.5783932,Cultural & Heritage Sites,4.5,0
+Maharashtra,Matheran,Echo Point,17.9786,73.6373,Sightseeing & Exploration,4.4,0
+Maharashtra,Matheran,Dodhani Waterfalls,18.988659,73.271179,Natural Landscapes & Wildlife,4.6,0
+Maharashtra,Matheran,Dodhani Waterfalls rappelling/trek,18.988659,73.271179,Adventure & Outdoor Activities,4.6,1100
+Maharashtra,Matheran,Chanderi Caves trek,19.0644,73.2452,Adventure & Outdoor Activities,4.5,500
+Maharashtra,Matheran,Irshalgad Fort,18.9351142,73.23246,Cultural & Heritage Sites,4.6,100
+Maharashtra,Matheran,Neral-Matheran Toy Train,19.0229668,73.3175272,Sightseeing & Exploration,4.5,100
+Maharashtra,Matheran,Kalavantin Pinnacle fortress and trek,18.9827969,73.2198064,Adventure & Outdoor Activities,4.7,50
+Maharashtra,Matheran,Ambarnath Shiv Temple,19.1825167,73.1926023,Religious & Spiritual Pilgrimages,4.2,0
+Maharashtra,Aurangabad,Ellora Caves,20.0267844,75.1770869,Cultural & Heritage Sites,4.7,30
+Madhya Pradesh,Khajuraho,Khajuraho Group of Monuments,24.8318452,79.9198549,Cultural & Heritage Sites,4.7,40
+Madhya Pradesh,Khajuraho,Kamasutra temples,24.512485,79.567993,Cultural & Heritage Sites,5,40
+Madhya Pradesh,Khajuraho,Raneh waterfall,24.8748466,80.0512626,Natural Landscapes & Wildlife,4.5,0
+Madhya Pradesh,Khajuraho,Panna Tiger Reserve,24.5904659,79.9416518,Natural Landscapes & Wildlife,4.2,1000
+Madhya Pradesh,Bhopal,Sanchi Stupa,23.4873393,77.7418238,Religious & Spiritual Pilgrimages,4.7,30
+Madhya Pradesh,Bhopal,Bhimbetka rock shelters,22.9395461,77.6124331,Cultural & Heritage Sites,4.6,25
+Madhya Pradesh,Bhopal,Bhojeshwar Mahadev temple,23.1002597,77.5795329,Religious & Spiritual Pilgrimages,4.7,0
+Madhya Pradesh,Bhopal,Van Vihar National park,23.232214,77.3664318,Natural Landscapes & Wildlife,4.3,20
+Madhya Pradesh,Bhopal,DB City Mall,23.232698,77.4298564,Shopping & Markets,4.9,0
+Madhya Pradesh,Bhopal,Tribal museum,23.23468,23.145,"Arts, Science & Literature Attractions",4.7,20
+Madhya Pradesh,Indore,Chappan Dukan,22.7240232,75.8842574,Shopping & Markets,4.5,0
+Madhya Pradesh,Indore,Sarafa Bazar,22.7175144,75.852306,Shopping & Markets,4.5,0
+Madhya Pradesh,Indore,Pipliyapala Regional Park,22.6771511,75.8564021,"Adventure & Outdoor Activities, Sightseeing & Exploration",4.2,25
+Madhya Pradesh,Indore,Khajrana Ganesh Mandir,22.731233,75.9081489,Religious & Spiritual Pilgrimages,4.8,0
+Madhya Pradesh,Indore,TI Mall,22.7217,75.8786,Shopping & Markets,4.3,0
+Madhya Pradesh,Indore,Phoenix Citadel,22.7462625,75.9353073,Shopping & Markets,4.5,0
+Madhya Pradesh,Indore,Rajwada Palace,22.7184419,75.855067,Cultural & Heritage Sites,4.4,10
+Madhya Pradesh,Gwalior,Gwalior Fort,26.2313245,78.1694957,Cultural & Heritage Sites,4.5,75
+Madhya Pradesh,Gwalior,Jai Vilas Palace,26.2042028,78.1684674,Cultural & Heritage Sites,4.3,150
+Madhya Pradesh,Gwalior,Teli ka Mandir,26.2203984,78.1656988,"Religious & Spiritual Pilgrimages, Cultural & Heritage Sites",4.3,0
+Madhya Pradesh,Gwalior,Sas Bahu Temple,24.7351945,73.7162806,"Religious & Spiritual Pilgrimages, Cultural & Heritage Sites",4.5,0
+Madhya Pradesh,Gwalior,Gopachal Parvat jain temple,26.214536,78.168605,"Religious & Spiritual Pilgrimages, Cultural & Heritage Sites",4.6,0
+Madhya Pradesh,Gwalior,National Chambal Ghariyal Wildlife Sanctuary,26.7659469,78.6448794,Natural Landscapes & Wildlife,4.3,1800
+Madhya Pradesh,Gwalior,Pagara Dam,26.2597748,77.8581672,Sightseeing & Exploration,3.9,0
+Madhya Pradesh,Gwalior,Sarafa Bazar,22.7175144,75.852306,Shopping & Markets,4,0
+Madhya Pradesh,Gwalior,Dindayal mall,26.2094362,78.16624,Shopping & Markets,4.1,0
+Madhya Pradesh,Gwalior,Patankar bazaar,26.2024846,78.157517,Shopping & Markets,4,0
+Madhya Pradesh,Ujjain,Mahakaleshwar Jyotirlinga,23.182905,75.768291,"Religious & Spiritual Pilgrimages, Cultural & Heritage Sites",4.8,0
+Madhya Pradesh,Ujjain,Kal Bhairava Temple,18.437535,73.6399395,Religious & Spiritual Pilgrimages,4.7,0
+Madhya Pradesh,Ujjain,Ram Ghat,23.1871,75.7644,Sightseeing & Exploration,4.6,0
+Madhya Pradesh,Ujjain,ISKCON Temple Ujjain,23.1611713,75.7997229,Religious & Spiritual Pilgrimages,4.7,0
+Madhya Pradesh,Ujjain,Kaliadeh Palace,23.2490716,75.7779662,Cultural & Heritage Sites,4,15
+Madhya Pradesh,Ujjain,Rumi ka Mazaar,23.1793,75.784912,Cultural & Heritage Sites,5,0
+Madhya Pradesh,Ujjain,Mahakal Lok,23.177785,75.7693919,Sightseeing & Exploration,4.8,0
+Madhya Pradesh,Ujjain,Harsiddhi Mata Temple,21.8397452,69.3690301,Religious & Spiritual Pilgrimages,4.7,0
+Madhya Pradesh,Jabalpur,Dhuandhar Falls,23.1262738,79.8075411,Natural Landscapes & Wildlife,4.5,0
+Madhya Pradesh,Jabalpur,Marble rocks at Bedhaghat,23.1299297,79.795454,Natural Landscapes & Wildlife,4.5,30
+Madhya Pradesh,Jabalpur,Narmada aarti,22.3335261,77.12592748,Religious & Spiritual Pilgrimages,4.5,0
+Madhya Pradesh,Jabalpur,Balancing Rock formations,23.855,79.544,Natural Landscapes & Wildlife,4.3,100
+Madhya Pradesh,Jabalpur,Rani Durgavati fort,23.1483266,79.9016574,Natural Landscapes & Wildlife,4.2,0
+Madhya Pradesh,Jabalpur,Chausath Yogini temple,26.4368173,78.2352216,Religious & Spiritual Pilgrimages,4.6,0
+Madhya Pradesh,Jabalpur,Dumna Nature Reserve Park,23.16949,80.012698,Natural Landscapes & Wildlife,4.1,20
+Madhya Pradesh,Jabalpur,Madan Mahal Fort,23.1484693,79.9016654,Cultural & Heritage Sites,4.2,0
+Madhya Pradesh,Jabalpur,South Avenue malls,23.124094,79.927194,Shopping & Markets,4.1,0
+Madhya Pradesh,Jabalpur,Sadar bazaar,28.6585105,77.2127305,Shopping & Markets,4,0
+Madhya Pradesh,Jabalpur,Kanha National Park,22.2994956,80.5864278,Natural Landscapes & Wildlife,4.5,100
+Himachal Pradesh,Shimla,Mall road,31.1035,77.1702,Shopping & Markets,4.7,0
+Himachal Pradesh,Shimla,Annandale  view,31.1116129,77.1593012,Sightseeing & Exploration,3.8,0
+Himachal Pradesh,Shimla,Chadwick falls,31.1196351,77.1389365,Natural Landscapes & Wildlife,3.6,0
+Himachal Pradesh,Shimla,Himalayan bird park,31.102875,77.147654,Natural Landscapes & Wildlife,3.9,20
+Himachal Pradesh,Shimla,Naldhera and Shaily peak,31.1811641,77.1858995,Natural Landscapes & Wildlife,4.5,0
+Himachal Pradesh,Shimla,Kufri Fun World,31.0941261,77.278049,Adventure & Outdoor Activities,3.8,20
+Himachal Pradesh,Shimla,Scandal point,31.1052,77.1724,Sightseeing & Exploration,4.5,0
+Himachal Pradesh,Shimla,Kalka-Shimla Toy train,30.518,76.5615,Sightseeing & Exploration,4.5,320
+Himachal Pradesh,Shimla,Lakkar bazaar,31.1058233,77.1787114,Shopping & Markets,4,0
+Himachal Pradesh,Shimla,Rafting at Tattapani,31.2487896,77.0895421,Adventure & Outdoor Activities,4.1,1050
+Himachal Pradesh,Shimla,Kuthar Fort,30.9730901,76.9671865,Cultural & Heritage Sites,4.3,10
+Himachal Pradesh,Shimla,Tara Devi Temple,31.046256,77.1342842,Religious & Spiritual Pilgrimages,4.8,0
+Himachal Pradesh,Shimla,Christ Church,31.0614,77.1034,Cultural & Heritage Sites,4.6,0
+Himachal Pradesh,Shimla,Jakhoo hill ,31.1013414,77.1835041,Natural Landscapes & Wildlife,4.6,0
+Himachal Pradesh,Manali,Solang Valley,32.316,77.157,Natural Landscapes & Wildlife,4.1,0
+Himachal Pradesh,Manali,Hidimba Devi Temple,32.2483526,77.1815727,Religious & Spiritual Pilgrimages,4.6,0
+Himachal Pradesh,Manali,Beas kund,32.3664466,77.0854956,Natural Landscapes & Wildlife,4.6,0
+Himachal Pradesh,Manali,Vashisht baths,32.2810061,77.2290193,Adventure & Outdoor Activities,4,0
+Himachal Pradesh,Manali,Rohtang Pass,32.3716426,77.2466221,Adventure & Outdoor Activities,4.5,0
+Himachal Pradesh,Manali,Gulaba viewpoint,32.3179031,77.1893396,Sightseeing & Exploration,4.5,0
+Himachal Pradesh,Dalhousie,Panch Pulla Waterfall,32.5288,75.9908,Natural Landscapes & Wildlife,3.9,0
+Himachal Pradesh,Dalhousie,Boat riding in Chamera lake,32.6199739,76.00774,Adventure & Outdoor Activities,4.4,400
+Himachal Pradesh,Dalhousie,Kalatop Wildlife sanctuary,32.5529086,76.0174406,Natural Landscapes & Wildlife,4.6,115
+Himachal Pradesh,Dalhousie,Shop at Tibetan Handicrafts market,32.5364,75.9767,Shopping & Markets,3.8,0
+Himachal Pradesh,Dalhousie,Subhash Baoli spring,32.5402571,75.9844002,Religious & Spiritual Pilgrimages,3.3,0
+Himachal Pradesh,Dalhousie,Trek to Dainkund Peak,32.5196627,76.0353738,Adventure & Outdoor Activities,4.8,1200
+Himachal Pradesh,Dalhousie,Trek to Ganji Pahari,32.5164533,75.9935243,Adventure & Outdoor Activities,4,5000
+Himachal Pradesh,Dalhousie,Dalai Lama Temple,32.2315734,76.3237994,Religious & Spiritual Pilgrimages,4.7,0
+Himachal Pradesh,Dalhousie,Khajjiar Lake,32.546218,76.0580811,Natural Landscapes & Wildlife,4.5,0
+Himachal Pradesh,Kullu,Hot springs at Manikaran,32.0267951,77.3511063,Adventure & Outdoor Activities,4.7,30
+Himachal Pradesh,Kullu,Vaishno Devi Temple,31.9834,77.1262,Religious & Spiritual Pilgrimages,4.6,0
+Himachal Pradesh,Kullu,Hamta Pass,32.2703698,77.3465824,Adventure & Outdoor Activities,4.5,0
+Himachal Pradesh,Kullu,Tirthan valley,31.6263301,77.4221267,Natural Landscapes & Wildlife,4.7,0
+Himachal Pradesh,Kullu,Chandrakhani Pass,32.0695132,77.2407744,Adventure & Outdoor Activities,4.3,0
+Himachal Pradesh,Kullu,Lama Dugh Hike,32.2489026,77.1750129,Adventure & Outdoor Activities,4.7,1200
+Himachal Pradesh,Kullu,Cycling from Manu Temple,32.257042,77.1760523,Adventure & Outdoor Activities,4.6,0
+Himachal Pradesh,Kullu,Rafting in river Beas,31.75917566,76.09238692,Adventure & Outdoor Activities,4.5,450
+Himachal Pradesh,Kullu,Paragliding in Kullu hills,31.959205,77.1089377,Adventure & Outdoor Activities,4.7,2500
+Himachal Pradesh,Kullu,Great Himalayan National Park,31.7985414,77.5160134,Natural Landscapes & Wildlife,4.5,50
+Uttarakhand,Nainital,Naini Lake,29.3868622,79.459841,Natural Landscapes & Wildlife,4.2,0
+Uttarakhand,Nainital,Sunrise at Tiffin top,29.3836288,79.4505608,Natural Landscapes & Wildlife,4.5,0
+Uttarakhand,Nainital,Shop at Tibetan  market,29.3893,79.4539,Shopping & Markets,4.2,0
+Uttarakhand,Nainital,Corbett National Park,29.5521551,78.8832107,Natural Landscapes & Wildlife,4.4,560
+Uttarakhand,Nainital,Cave garden,29.39215,79.44534,Natural Landscapes & Wildlife,4.3,60
+Uttarakhand,Nainital,Nainital zoo,29.3807621,79.4686432,Natural Landscapes & Wildlife,4.3,50
+Uttarakhand,Nainital,Shop at Mall road,29.387912,79.42225,Shopping & Markets,4.5,0
+Uttarakhand,Nainital,Naina Devi temple,31.3064166,76.5358173,Religious & Spiritual Pilgrimages,4.6,0
+Uttarakhand,Nainital,Pangot and Kilbury bird sanctuary,29.4183001,79.4465006,Natural Landscapes & Wildlife,4.2,0
+Uttarakhand,Nainital,Raj Bhawan Royal Palace,29.3742,79.4571,Cultural & Heritage Sites,4.6,450
+Uttarakhand,Nainital,Cheena peak,29.4082133,79.4376161,Adventure & Outdoor Activities,4.7,0
+Uttarakhand,Nainital,Nainital ropeway,29.3925989,79.4551239,Adventure & Outdoor Activities,4.7,54
+Uttarakhand,Rishikesh,Laxman Jhula,30.1259072,78.3308815,"Adventure & Outdoor Activities, Sightseeing & Exploration",4.4,0
+Uttarakhand,Rishikesh,Triveni Ghat,30.1038807,78.2990999,Religious & Spiritual Pilgrimages,4.3,0
+Uttarakhand,Rishikesh,Vashishta Gufa,30.1142698,78.4320327,Religious & Spiritual Pilgrimages,4.2,0
+Uttarakhand,Rishikesh,Kunjapuri Devi Temple and camps,30.1142698,78.4320327,Religious & Spiritual Pilgrimages,4.9,0
+Uttarakhand,Rishikesh,Neer Garh waterfall,30.1409843,78.3453658,Natural Landscapes & Wildlife,4.4,0
+Uttarakhand,Rishikesh,Beatles Ashram,30.1127675,78.3121592,"Arts, Science & Literature Attractions",4.4,0
+Uttarakhand,Rishikesh,Giant swing or zip lining,30.1127675,78.3121592,Adventure & Outdoor Activities,4.8,1800
+Uttarakhand,Rishikesh,Camp on banks of Ganges,27.40364009,83.00912405,Adventure & Outdoor Activities,4.7,0
+Uttarakhand,Rishikesh,Ram Jhula,30.1237975,78.3141327,Religious & Spiritual Pilgrimages,4.6,0
+Uttarakhand,Rishikesh,Neelkantha Mahadeva Temple,30.081059,78.340565,Religious & Spiritual Pilgrimages,4.5,0
+Uttarakhand,Rishikesh,Bharat Mandir,20.593684,78.96288,"Religious & Spiritual Pilgrimages, Cultural & Heritage Sites",3.8,0
+Uttarakhand,Rishikesh,Kunjapuri Devi,30.10271,78.185053,Religious & Spiritual Pilgrimages,5,0
+Uttarakhand,Rishikesh,Bhootnath Temple,30.1166,78.3181,"Religious & Spiritual Pilgrimages, Cultural & Heritage Sites",4.5,0
+Uttarakhand,Rishikesh,Devprayag Sightseeing ,30.1459471,78.5992925,Sightseeing & Exploration,4.1,0
+Uttarakhand,Haridwar, dip in Bramhakund,29.957,78.1711,Religious & Spiritual Pilgrimages,4.8,0
+Uttarakhand,Haridwar,Ganga arti at Har-ki-Pauri ghat,29.9573607,78.1749687,"Religious & Spiritual Pilgrimages, Sightseeing & Exploration",4.6,0
+Uttarakhand,Haridwar,Neel Dhara Pakshi Vihar,29.96,78.16,Natural Landscapes & Wildlife,4,0
+Uttarakhand,Haridwar,Rajaji National Park ,30.01542,78.1523984,Natural Landscapes & Wildlife,4.3,150
+Uttarakhand,Haridwar,Moti Bazar,33.6136521,73.0590799,Shopping & Markets,4.3,0
+Uttarakhand,Haridwar,Jwalapur Bazar ,29.9267729,78.1071057,Shopping & Markets,4.1,0
+Uttarakhand,Haridwar,Bara Bazar ,22.5817406,88.3543972,Shopping & Markets,4.5,0
+Uttarakhand,Haridwar, Kankhal Bazar,29.9270808,78.1437257,Shopping & Markets,3.8,0
+Uttarakhand,Haridwar,Har Ki Pauri,29.9573607,78.1749687,"Religious & Spiritual Pilgrimages, Sightseeing & Exploration",4.5,0
+Uttarakhand,Haridwar,Tungnath Chandrashila trekk,30.4862688,79.2212453,Adventure & Outdoor Activities,4.2,250
+Uttarakhand,Haridwar,Chandi Devi Temple,29.9337646,78.1805466,Religious & Spiritual Pilgrimages,4.4,0
+Uttarakhand,Dehradun,Malsi Deer park,30.3883325,78.0756051,Natural Landscapes & Wildlife,4.3,20
+Uttarakhand,Dehradun,Shiv Mandir,30.408,78.0867,Religious & Spiritual Pilgrimages,4.5,0
+Uttarakhand,Dehradun,Mindrolling monastery,30.2615418,77.99771,Cultural & Heritage,4.3,0
+Uttarakhand,Dehradun,Nag Tibba trek,30.5861111,78.1513889,Adventure & Outdoor,4.8,1299
+Uttarakhand,Dehradun,Mall road,30.20117924,78.236708,Shopping & Markets,4.7,0
+Uttarakhand,Dehradun,Lakshman jhila bridge,30.1263798,78.3300576,Sightseeing & Exploration,4,0
+Uttarakhand,Dehradun,Rajaji National Park ,30.01542,78.1523984,Natural Landscapes & Wildlife,4.6,0
+Uttarakhand,Dehradun,Santala Devi temple,30.3717801,78.0163764,Religious & Spiritual Pilgrimages,3.8,0
+Uttarakhand,Dehradun,Indira market,30.325,78.0436,Shopping & Markets,4.7,0
+Uttarakhand,Dehradun,Pacific mall,43.8263024,79.3062592,Shopping & Markets,4.9,0
+Uttarakhand,Dehradun,Paltan Bazaar ,26.1792286,91.7532732,Shopping & Markets,3.7,0
+Uttarakhand,Dehradun,Lachhiwala nature park,30.1991577,78.1261028,Natural Landscapes & Wildlife,4.2,20
+Uttarakhand,Dehradun,Fun n Food Kingdom ,30.348544,77.959572,Adventure & Outdoor Activities,4.3,1000
+Uttarakhand,Dehradun,Robber's Cave,30.3754,78.0598,Adventure & Outdoor Activities,4.5,25
+Uttarakhand,Mussoorie,Kempty Falls,30.4878,78.0367,Natural Landscapes & Wildlife,4.2,15
+Uttarakhand,Mussoorie,Camel's back road,30.4603685,78.0728065,Sightseeing & Exploration,4.6,0
+Uttarakhand,Mussoorie,Jabarkhet nature reserve,30.4542004,78.1160948,Natural Landscapes & Wildlife,4.3,0
+Uttarakhand,Mussoorie,Bhadraj Temple trek,30.4792968,77.9536697,Religious & Spiritual Pilgrimages,4.7,0
+Uttarakhand,Mussoorie,Har ki dun trek,31.1505598,78.4290807,Adventure & Outdoor Activities,4.1,500
+Uttarakhand,Mussoorie,Dodital trek,30.8429257,78.4685557,Adventure & Outdoor Activities,4.2,12500
+Uttarakhand,Mussoorie,Walking towards the Happy Valley from Library Head,30.4597892,78.0643723,Sightseeing & Exploration,5,0
+Uttarakhand,Mussoorie,"Skywalk ,zipswings in Mussoorie",30.4597892,78.0643723,Adventure & Outdoor Activities,4.9,0
+Uttarakhand,Mussoorie,Disco Skating Rink,30.4565771,78.0803029,Adventure & Outdoor Activities,3.6,50
+Uttarakhand,Mussoorie,Library Bazaar,30.4602549,78.063945,Shopping & Markets,3.9,0
+Uttarakhand,Mussoorie,Kulri Bazaar,30.4554364,78.0788535,Shopping & Markets,3.8,0
+Uttarakhand,Mussoorie,Mall road,30.459821,78.0645353,Shopping & Markets,4.7,0
+Uttarakhand,Mussoorie,Mussoorie lake,30.4597892,78.0643723,Natural Landscapes & Wildlife,4.8,0
+Uttarakhand,Mussoorie,Classic Emporium,30.4556286,78.0783262,"Shopping & Markets, Arts, Science & Literature Attractions",4.6,100
+Uttarakhand,Auli,Auli Gorson Trek,30.066753,79.0192997,Adventure & Outdoor Activities,4.4,0
+Uttarakhand,Auli,Nanda Devi Biosphere Reserve,30.6587637,79.8386542,Natural Landscapes & Wildlife,4.4,50
+Uttarakhand,Auli,Chattrakund Lake ,30.066753,79.0192997,Natural Landscapes & Wildlife,4.3,0
+Uttarakhand,Auli,Trishul Peak,30.3116666,79.7766666,Natural Landscapes & Wildlife,4.4,0
+Uttarakhand,Auli,Joshimath Market,30.5561089,79.5616759,Shopping & Markets,3.8,0
+Uttarakhand,Auli,Auli Ski Resort,30.5308872,79.5615124,Adventure & Outdoor Activities,4.5,0
+Uttarakhand,Ranikhet,Bhalu dam,29.6204144,79.4775733,Natural Landscapes & Wildlife,4.3,0
+Uttarakhand,Ranikhet,Jhula Devi temple,29.6181375,79.4440156,Religious & Spiritual Pilgrimages,4.2,0
+Uttarakhand,Ranikhet,Chaubatia Gardens,29.6197419,79.4610397,Sightseeing & Exploration,4,50
+Uttarakhand,Ranikhet,Joshimath Market,30.5561089,79.5616759,Shopping & Markets,4.8,0
+Uttarakhand,Ranikhet,Sadar bazaar,28.6585105,77.2127305,Shopping & Markets,4.4,0
+Uttarakhand,Ranikhet,Binsar Mahadev Mandir,30.0166279,79.1620873,Religious & Spiritual Pilgrimages,4,0
+Uttarakhand,Ranikhet,Rani Jheel,29.6397889,79.4301009,Natural Landscapes & Wildlife,3.8,0
+Uttarakhand,Uttarkashi,Gangotri Temple,30.9944091,78.9411825,Religious & Spiritual Pilgrimages,4.8,0
+Uttarakhand,Uttarkashi,Yamunotri,31.0139859,78.4599555,Religious & Spiritual Pilgrimages,4.2,0
+Uttarakhand,Uttarkashi,Kedar Tal,30.9098968,78.9581673,Adventure & Outdoor Activities,4.6,0
+Uttarakhand,Uttarkashi,Harsil,31.0383069,78.7377016,Natural Landscapes & Wildlife,4.2,0
+Uttarakhand,Uttarkashi,Jalmanga Shivling,30.876944,79.065556,Religious & Spiritual Pilgrimages,4.7,0
+Uttarakhand,Uttarkashi,Vishwanath temple,30.7288877,78.4413948,Religious & Spiritual Pilgrimages,4.7,0
+Uttarakhand,Uttarkashi,Gaumukh glacier,30.8712743,79.1015736,Natural Landscapes & Wildlife,4.6,0
+Uttarakhand,Uttarkashi,Nachiketa lake,30.6447151,78.4708143,Natural Landscapes & Wildlife,4.4,0
+Uttarakhand,Uttarkashi,Nehru Institute of Mountaineering,30.7213645,78.4330598,Adventure & Outdoor Activities,4.7,70
+Uttarakhand,Uttarkashi,Dayara Bugyal  trekking and camping,30.7311363,78.4438565,Adventure & Outdoor Activities,4.8,0
+Uttarakhand,Uttarkashi,Shakti temple,30.7289819,78.4416864,Religious & Spiritual Pilgrimages,5,0
+Uttarakhand,Uttarkashi,Dodital lake,30.8980456,78.5249391,"Natural Landscapes & Wildlife, Adventure & Outdoor Activities",4.6,0
+Uttarakhand,Uttarkashi,Maneri dam,30.739167,78.528611,Sightseeing & Exploration,4.8,0
+Uttar Pradesh,Agra,Taj Mahal,27.1751448,78.0421422,Cultural & Heritage Sites,4.4,50
+Uttar Pradesh,Agra,Agra fort,27.1795328,78.021112,Cultural & Heritage Sites,4.3,50
+Uttar Pradesh,Agra,Fatehpur Sikri,27.0945291,77.6679292,Cultural & Heritage Sites,4.6,0
+Uttar Pradesh,Agra,Jahangir Mahal,27.1777367,78.0231589,Cultural & Heritage Sites,4.5,50
+Uttar Pradesh,Agra,Jama Masjid,28.6506792,77.2334421,Religious & Spiritual Pilgrimages,4.8,0
+Uttar Pradesh,Agra,Humayun's Mosque,27.1824852,78.0393755,Religious & Spiritual Pilgrimages,4.8,0
+Uttar Pradesh,Agra,Kinari bazar,28.6549795,77.2308333,Shopping & Markets,4.4,0
+Uttar Pradesh,Agra,Sadar bazaar,28.6585105,77.2127305,Shopping & Markets,4.7,0
+Uttar Pradesh,Agra,Shah market,27.2044073,78.0053732,Shopping & Markets,4.6,0
+Uttar Pradesh,Agra,TDI mall,28.6508395,77.1206205,Shopping & Markets,4.5,0
+Uttar Pradesh,Agra,Subhash bazzar,28.9764772,77.7063965,Shopping & Markets,4.8,0
+Uttar Pradesh,Agra,Sheesh Mahal,31.5899396,74.3131807,Cultural & Heritage Sites,4,10
+Uttar Pradesh,Varanasi,Kashi Vishwanath Temple,25.3108532,83.0106783,Religious & Spiritual Pilgrimages,4.7,0
+Uttar Pradesh,Varanasi,Ramnagar Fort,25.2695094,83.0250876,Cultural & Heritage Sites,4.1,25
+Uttar Pradesh,Varanasi,Dashashwamedh Ghat ,25.3061863,83.0102857,Religious & Spiritual Pilgrimages,4.4,0
+Uttar Pradesh,Varanasi,Sunset Boat Ride on the Ganges,27.40364009,83.00912405,Sightseeing & Exploration,4.2,0
+Uttar Pradesh,Varanasi,Sarnath pilgrim spot,25.3715564,83.0252136,Religious & Spiritual Pilgrimages,4,0
+Uttar Pradesh,Varanasi,Puran Das Road,25.3176452,82.9739144,Sightseeing & Exploration,4.6,0
+Uttar Pradesh,Varanasi,Gol Ganj,25.3176452,82.9739144,Cultural & Heritage Sites,4.3,0
+Uttar Pradesh,Varanasi,Mandir Gali,25.3141329,83.0119239,Cultural & Heritage Sites,4.4,0
+Uttar Pradesh,Varanasi,Assi Ghat,25.2886478,83.0067619,Religious & Spiritual Pilgrimages,4.3,0
+Uttar Pradesh,Varanasi,Godowlia market,25.3100747,83.0096485,Shopping & Markets,4.5,0
+Uttar Pradesh,Varanasi,The Banarasi Silk Emporium,25.315424,82.9975498,Shopping & Markets,4.7,0
+Uttar Pradesh,Lucknow,Bara Imambara,26.8685168,80.9127127,"	Cultural & Heritage Sites",4.4,50
+Uttar Pradesh,Lucknow,Chhota Imambara,26.8742913,80.9046688,"	Cultural & Heritage Sites",4.8,30
+Uttar Pradesh,Lucknow,Hazratganj market,26.8541536,80.9447827,Shopping & Markets,4.9,0
+Uttar Pradesh,Lucknow,British Residency,26.8606372,80.9267863,Cultural & Heritage Sites,4.5,0
+Uttar Pradesh,Lucknow,Marine Drive,18.9432111,72.8229983,Sightseeing & Exploration,4.3,0
+Uttar Pradesh,Lucknow,Chowk market,26.8658585,80.9112496,Shopping & Markets,4.3,0
+Uttar Pradesh,Lucknow,Phoenix United mall,26.798631,80.8969707,Shopping & Markets,4.3,0
+Uttar Pradesh,Mathura,Kusum Sarovar,27.511932,77.4786939,Natural Landscapes & Wildlife,4.4,0
+Uttar Pradesh,Mathura,Govardhan hills trekking,27.473,77.444,Adventure & Outdoor Activities,4.7,0
+Uttar Pradesh,Mathura," Dwarkadhish Temple,",22.2371082,68.9676255,"	Religious & Spiritual Pilgrimages, Cultural & Heritage Sites",4.8,0
+Uttar Pradesh,Mathura,Vishram ghat,27.5025614,77.6890687,"	Religious & Spiritual Pilgrimages, Natural Landscapes & Wildlife",4.3,0
+Uttar Pradesh,Mathura,Tilak Dwar market,27.4990503,77.6847491,Shopping & Markets,4.5,0
+Uttar Pradesh,Mathura,Krishna Nagar market,28.6509821,77.286333,Shopping & Markets,4.3,0
+Uttar Pradesh,Mathura,Krishna Janmabhoomi temple,27.5048884,77.66978,"Religious & Spiritual Pilgrimages, Cultural & Heritage Sites",4.7,0
+Uttar Pradesh,Ayodhya,Sita ki rasoi,26.7921605,82.1997954,Religious & Spiritual Pilgrimages,4,300
+Uttar Pradesh,Ayodhya,Treta-ke-Thakur,26.7921605,82.1997954,Religious & Spiritual Pilgrimages,4.6,80
+Uttar Pradesh,Ayodhya,Gulab bari,26.7798857,82.1575316,Natural Landscapes & Wildlife,4.3,0
+Uttar Pradesh,Ayodhya, Kanak Bhawan ,26.7980174,82.1992155,Religious & Spiritual Pilgrimages,4.5,0
+Uttar Pradesh,Ayodhya, Nageshwarnath Temple,26.808995,82.2056474,Religious & Spiritual Pilgrimages,4.7,0
+Uttar Pradesh,Ayodhya,Hanuman Garhi,26.7952876,82.2016429,Religious & Spiritual Pilgrimages,4.5,0
+Uttar Pradesh,Ayodhya,Ram Janmabhoomi,26.795688,82.194431,"Religious & Spiritual Pilgrimages, Cultural & Heritage Sites",4.8,0
+Uttar Pradesh,Vrindavan,Govind Devji Temple,26.9288341,75.8240701,Religious & Spiritual Pilgrimages,4.9,0
+Uttar Pradesh,Vrindavan,Nidhivan,27.5842125,77.6979595,Natural Landscapes & Wildlife,4.7,0
+Uttar Pradesh,Vrindavan,Prem Mandir ,27.5718524,77.6720096,Religious & Spiritual Pilgrimages,4.6,0
+Uttar Pradesh,Vrindavan,ISKCON temple.,27.5621036,77.6324313,Religious & Spiritual Pilgrimages,4.3,0
+Uttar Pradesh,Vrindavan,Banke Bihari Temple,27.580148,77.7010816,Religious & Spiritual Pilgrimages,4.8,0
+Uttar Pradesh,Allahabad,Triveni Sangam,25.4232879,81.8896873,"	Natural Landscapes & Wildlife, Religious & Spiritual Pilgrimages",4.5,0
+Uttar Pradesh,Allahabad,Khusro Bagh,25.4422713,81.8210388,Natural Landscapes & Wildlife,4.6,0
+Uttar Pradesh,Allahabad,Anand Bhawan,25.4605342,81.8598312,"Arts, Science & Literature Attractions",4.6,0
+Uttar Pradesh,Allahabad,Allahabad museum,25.4568486,81.8489522,"	Arts, Science & Literature Attractions",4.4,10
+Uttar Pradesh,Allahabad,Allahabad Fort ,25.4295339,81.8768401,Cultural & Heritage Sites,4.7,0
+Uttar Pradesh,Allahabad,Allahabad Pillar,25.431335,81.8750618,Cultural & Heritage Sites,4.7,0
+Uttar Pradesh,Allahabad,New Yamuna Bridge,27.1152336,78.3686219,"	Sightseeing & Exploration",3.6,0
+Uttar Pradesh,Allahabad,All Saints Cathedral,25.27432,81.493504,Religious & Spiritual Pilgrimages,4,0
+Uttar Pradesh,Allahabad, Katra Shopping area,25.46962455,81.85626501,Shopping & Markets,4.6,0
+Uttar Pradesh,Allahabad,Chowk market,25.4365576,81.8342194,Shopping & Markets,4.2,0
+Uttar Pradesh,Allahabad,Civil Lines shopping area,25.4529334,81.8348882,Shopping & Markets,4.2,0
+Uttar Pradesh,Allahabad,Ganga Ghat and baandh wale Hanuman ji,25.4290451,81.8850269,Religious & Spiritual Pilgrimages,4.3,0
+Uttar Pradesh,Noida,Brahmaputra Market ,28.5698995,77.3328421,Shopping & Markets,4.7,0
+Uttar Pradesh,Noida,Grand Venice Mall,28.4525346,77.5263114,Shopping & Markets,4.8,0
+Uttar Pradesh,Noida,Stupa 18 Art Gallery,28.5403868,77.3678857,"Arts, Science & Literature Attractions",4.6,25
+Uttar Pradesh,Noida,Botanical Gardens of Noida,28.5355161,77.3910265,Natural Landscapes & Wildlife,4.2,50
+Uttar Pradesh,Noida,DLF Mall of India,28.5673409,77.3211303,Shopping & Markets,4.8,0
+Uttar Pradesh,Noida,Rashtriya Dalit Prerna Sthal and Green Garden,28.5678724,77.3113144,Cultural & Heritage Sites,4.2,0
+Uttar Pradesh,Noida,Snow World ,28.5670716,77.321134,Adventure & Outdoor Activities,4.4,600
+Uttar Pradesh,Noida,KidZania,28.5647843,77.3220308,Adventure & Outdoor Activities,4.6,700
+Uttar Pradesh,Noida,ISKON temple,28.5891805,77.3532039,Religious & Spiritual Pilgrimages,4.5,0
+Uttar Pradesh,Noida,Okhla Bird Sanctuary,28.5593695,77.309886,Natural Landscapes & Wildlife,4.3,30
+Uttar Pradesh,Aligarh,Aligarh Fort,27.9305608,78.0630535,Cultural & Heritage Sites,4.1,20
+Uttar Pradesh,Aligarh,Aligarh's clock tower,27.8955566,78.0739677,Cultural & Heritage Sites,4.2,0
+Uttar Pradesh,Aligarh,Chacha Nehru Gyan Pushp museum,27.9112617,78.0673061,Cultural & Heritage Sites,3.6,50
+Uttar Pradesh,Aligarh,Rajmangal Publishers ,27.9088506,78.1070889,"Arts, Science & Literature Attractions",4.6,0
+Uttar Pradesh,Aligarh,Maulana Azad Library,27.9119918,78.0751391,"Cultural & Heritage Sites, Arts, Science & Literature Attractions",4.7,0
+Uttar Pradesh,Aligarh,Jama Masjid ,27.9074375,78.0721875,Religious & Spiritual Pilgrimages,3.8,0
+Uttar Pradesh,Aligarh,Khereshwar Temple,27.8974327,78.0880665,Religious & Spiritual Pilgrimages,4.7,0
+Uttar Pradesh,Aligarh,Naqvi Park ,27.9025224,78.0735455,Natural Landscapes & Wildlife,4.5,0
+Uttar Pradesh,Aligarh,Sky High sky-diving drop zone,27.8973944,78.0880129,Adventure & Outdoor Activities,4.4,0
+Uttar Pradesh,Meerut,Augarnath Temple,28.9968175,77.6911618,Religious & Spiritual Pilgrimages,4.8,0
+Uttar Pradesh,Meerut,Hastinapur,29.1568812,77.9938497,"Sightseeing & Exploration, Cultural & Heritage Sites",4.5,0
+Uttar Pradesh,Meerut,Digambar Jain Temple,29.1520696,77.7790471,Religious & Spiritual Pilgrimages,4.4,0
+Uttar Pradesh,Meerut,Gandhi Bagh,29.0073395,77.7027737,Sightseeing & Exploration,4.3,20
+Uttar Pradesh,Meerut,Mustafa Castle,28.9966751,77.6958551,Cultural & Heritage Sites,4.7,80
+Uttar Pradesh,Meerut,Saint John's Church,29.0127484,77.7085277,Religious & Spiritual Pilgrimages,4.7,0
+Uttar Pradesh,Meerut,Abu Lane market,28.9963119,77.7020502,Shopping & Markets,4.4,0
+Uttar Pradesh,Meerut,Sadar market,28.9940471,77.7008509,Shopping & Markets,3.6,0
+Uttar Pradesh,Meerut,The Shopprix mall,28.9484829,77.6753675,Shopping & Markets,3.8,0
+Uttar Pradesh,Meerut,Shapir ki Dargah,28.9844618,77.7064137,Religious & Spiritual Pilgrimages,4,0
+Uttar Pradesh,Meerut,Suraj Kund Temple,28.9770744,77.7148038,Religious & Spiritual Pilgrimages,4.8,0
+Uttar Pradesh,Kanpur,Allen Forest Zoo,26.5028694,80.3031232,Natural Landscapes & Wildlife,4.7,0
+Uttar Pradesh,Kanpur,Ram Janki Mandir,26.449923,80.3318736,Religious & Spiritual Pilgrimages,4.7,0
+Uttar Pradesh,Kanpur,Sisamau Bazaar,26.4686173,80.3247923,Shopping & Markets,4.7,0
+Uttar Pradesh,Kanpur,Kanpur Sangrahalaya museum,26.4715334,80.3610849,"Arts, Science & Literature Attractions",4.6,5
+Uttar Pradesh,Kanpur,Becon Ganj,26.4679038,80.3411542,Shopping & Markets,4.4,0
+Uttar Pradesh,Kanpur,ISKON temple,26.5392422,80.2618033,Religious & Spiritual Pilgrimages,4.4,0
+Uttar Pradesh,Kanpur,Jain Glass Temple,26.4672925,80.352937,Religious & Spiritual Pilgrimages,4.8,0
+Uttar Pradesh,Kanpur,Valmiki Ashram temple,26.5969791,80.2709045,Religious & Spiritual Pilgrimages,4.6,0
+Uttar Pradesh,Kanpur,PPN market,26.4748119,80.3434167,Shopping & Markets,4.8,0
+Uttar Pradesh,Kanpur,Moti Mall,26.4812268,80.2999996,Shopping & Markets,4.3,0
+Uttar Pradesh,Kanpur,sweets at Civil Lines,26.4750346,80.3532749,Shopping & Markets,4.2,0
+Uttar Pradesh,Kanpur,Z-Square mall,26.4732721,80.352673,Shopping & Markets,4.4,0
+Jammu and Kashmir,Srinagar,Dal Lake,34.1105857,74.8682569,Natural Landscapes & Wildlife,4.6,0
+Jammu and Kashmir,Srinagar,Shankaracharya Temple,34.0789218,74.8437241,"	Religious & Spiritual Pilgrimages",4.8,0
+Jammu and Kashmir,Srinagar,Shopping at Lal Chowk,34.0713272,74.8106242,Shopping & Markets,4.4,0
+Jammu and Kashmir,Srinagar,Shopping at Badshah Chowk,34.0725231,74.8090733,Shopping & Markets,4.4,0
+Jammu and Kashmir,Srinagar,Indira Gandhi Memorial Tulip Garden,34.0960382,74.8784422,Natural Landscapes & Wildlife,4.7,0
+Jammu and Kashmir,Srinagar,Manasabal Lake,34.2471776,74.6707823,Natural Landscapes & Wildlife,4.7,0
+Jammu and Kashmir,Srinagar,Hazratbal Mosque,34.1289329,74.8424909,"	Religious & Spiritual Pilgrimages",4.4,0
+Jammu and Kashmir,Srinagar,"Rafting , Gondola ride at Sonmarg",34.3031616,75.293111,Adventure & Outdoor Activities,4.8,0
+Jammu and Kashmir,Srinagar,Skiing in Gulmarg,34.0483704,74.3804791,Adventure & Outdoor Activities,4.5,370
+Jammu and Kashmir,Srinagar,Chashme Shahi Garden,34.0860292,74.8877689,Natural Landscapes & Wildlife,4,0
+Jammu and Kashmir,Srinagar,Shalimar Bagh,34.1495248,74.8729246,Natural Landscapes & Wildlife,4,0
+Jammu and Kashmir,Srinagar,Dachigam National Park,34.1371836,75.03775,Natural Landscapes & Wildlife,3.8,250
+Jammu and Kashmir,Srinagar,Betaab Valley ,34.0540604,75.3638888,Natural Landscapes & Wildlife,3.8,0
+Jammu and Kashmir,Srinagar,Aru Valley – For daring expeditions ,34.0921618,75.2632189,Adventure & Outdoor Activities,3.7,0
+Jammu and Kashmir,Srinagar,Sinthan top,33.5811029,75.5102349,Natural Landscapes & Wildlife,4.7,0
+Jammu and Kashmir,Srinagar,Pari mahal,34.0811939,74.877152,Natural Landscapes & Wildlife,4.8,40
+Jammu and Kashmir,Srinagar,Doodh Pathri,33.8508928,74.5630486,Natural Landscapes & Wildlife,4.5,0
+Jammu and Kashmir,Srinagar, Jamia Masjid Mosque ,53.3574109,-1.4819864,Religious & Spiritual Pilgrimages,4.4,0
+Jammu and Kashmir,Srinagar,Chandanwari,34.0144741,75.3186241,"	Adventure & Outdoor Activities",4.2,0
+Jammu and Kashmir,Jammu,Vaishno Devi,33.0308295,74.9490416,Religious & Spiritual Pilgrimages,4.7,0
+Ladakh,Leh,Pangong Tso,33.7595131,78.6674404,Natural Landscapes & Wildlife,4.9,20
+Ladakh,Leh,Hemis National Park,33.7187211,77.3882224,Natural Landscapes & Wildlife,4.5,0
+Ladakh,Leh,Hunder – Try Bactrian Camel Safari,34.5752836,77.4988753,Adventure & Outdoor Activities,4.7,0
+Ladakh,Leh,Khardungla Pass – Visit Highest Cafeteria In The World,34.2787271,77.6046756,Adventure & Outdoor Activities,4.7,0
+Ladakh,Leh,Zanskar Valley Tour,33.562562,76.987755,Natural Landscapes & Wildlife,4,0
+Ladakh,Leh,Spituk Gompa Trek,34.1260631,77.5258614,Religious & Spiritual Pilgrimages,4,0
+Ladakh,Leh,Lamayuru – For Stargazing,34.1525864,77.5770535,Sightseeing & Exploration,4,0
+Ladakh,Leh,Chadar Trek ,34.1448306,77.5643291,Adventure & Outdoor Activities,3.5,0
+Ladakh,Leh,Drang Drung Glacier ,34.1525864,77.5770535,Natural Landscapes & Wildlife,3.8,0
+Ladakh,Leh,Main Bazaar ,34.163644,77.5855065,Shopping & Markets,4.7,0
+Ladakh,Leh,Shanti Stupa,34.1736196,77.5749988,"	Religious & Spiritual Pilgrimages",4.7,0
+Ladakh,Leh,Main Bazaar ,34.163644,77.5855065,Shopping & Markets,4.6,0
+Ladakh,Leh,Zorawar Fort,34.1581389,77.5698889,Cultural & Heritage Sites,4.6,225
+Ladakh,Leh,Changthang Wildlife Sanctuary,34.1525864,77.5770535,Natural Landscapes & Wildlife,4,20
+Ladakh,Leh,Hall Of Fame,34.09,77.35,"Arts, Science & Literature Attractions",4.8,0
+Ladakh,Leh,Stok Palace Museum,34.0730019,77.5486221,"Arts, Science & Literature Attractions",4.7,50
+Ladakh,Leh,Nubra Valley,34.6863146,77.567288,Natural Landscapes & Wildlife,4,0
+Ladakh,Leh,Tso Moriri lake,32.9112291,78.3159411,Natural Landscapes & Wildlife,4,0
+Ladakh,Leh,Magnetic hill,46.134658,-64.888516,Natural Landscapes & Wildlife,4.2,0
+Ladakh,Leh,Chemrey Monastery,33.9590905,77.7890953,Religious & Spiritual Pilgrimages,4.3,0
+Ladakh,Leh,Namgyal Tsemo Monastery,34.1672727,77.590485,Religious & Spiritual Pilgrimages,4.7,0
+Ladakh,Leh,Thiksey Monastery,34.0559137,77.6677625,Religious & Spiritual Pilgrimages,4.7,20
+Ladakh,Kargil,Drass Valley,34.4100265,75.6602598,Natural Landscapes & Wildlife,4.9,0
+Ladakh,Kargil,Kargil War Memorial,34.4340036,75.8076814,Cultural & Heritage Sites,4.8,0
+Ladakh,Diskit,Yarab Tso,34.1514265,77.572562,Natural Landscapes & Wildlife,4.5,0
+Ladakh,Diskit,Panamik village,34.7983858,77.5246795,Sightseeing & Exploration,4.6,0
+Ladakh,Diskit,Samstanling Monastery,34.36,77.42,Religious & Spiritual Pilgrimages,4.9,0
+Ladakh,Diskit,Diskit Monastery,34.5409579,77.5606881,Religious & Spiritual Pilgrimages,4.7,20
+West Bengal,Darjeeling,Tiger Hill,26.9966667,88.2944444,Natural Landscapes & Wildlife,4.5,0
+West Bengal,Darjeeling,Darjeeling Toy Train,27.0410218,88.2662745,"Adventure & Outdoor Activities,Sightseeing & Exploration",4.8,360
+West Bengal,Darjeeling,Darjeeling Ropeway ,27.0614867,88.2537138,"Adventure & Outdoor Activities,Sightseeing & Exploration",5,175
+West Bengal,Darjeeling,Chowk Bazaar,23.2587841,77.4016401,Shopping & Markets,4.8,0
+West Bengal,Darjeeling,"Himalayan Mountaineering Institute(Museum, Library, Souvenir shop)",27.330132,88.15141804,"Arts, Science & Literature Attractions",4.9,1650
+West Bengal,Darjeeling,Darjeeling Rock garden,27.0262862,88.236347,Natural Landscapes & Wildlife,5,10
+West Bengal,Darjeeling,"Singalila National Park(camping, bird watching)",27.0371351,88.0762233,Natural Landscapes & Wildlife,4.7,0
+West Bengal,Darjeeling,Kanchenjunga peak,27.7024914,88.147535,Natural Landscapes & Wildlife,4.9,20
+West Bengal,Darjeeling,Sandakphu trek,26.9930536,88.1203558,"	Adventure & Outdoor Activities",4.4,500
+West Bengal,Darjeeling,Teesta river(rafting),26.57695557,89.01279803,"Adventure & Outdoor Activities, Natural Landscapes & Wildlife",5,500
+West Bengal,Darjeeling,Happy valley tea estate,27.051391,88.258613,Sightseeing & Exploration,4.9,100
+West Bengal,Darjeeling,Lamhatta Eco Park,27.0548913,88.3526049,Natural Landscapes & Wildlife,4.7,0
+West Bengal,Darjeeling,Lepchajagat village,27.0127838,88.1992421,Sightseeing & Exploration,4.2,0
+West Bengal,Darjeeling,Mahakal temple,23.182905,75.768291,Religious & Spiritual Pilgrimages,4.8,0
+West Bengal,Darjeeling,Everest museum,27.9881206,86.9249751,"Arts, Science & Literature Attractions",4.9,0
+West Bengal,Darjeeling,Ring Mall,27.0397,88.2648,Shopping & Markets,4.5,0
+West Bengal,Darjeeling,Padmaja Naidu zoological park,27.0586099,88.254405,Natural Landscapes & Wildlife,4.5,110
+West Bengal,Darjeeling,Nightingale park,27.0537,88.2601,Sightseeing & Exploration,4.9,20
+West Bengal,Darjeeling,Dali Monastery,27.0237303,88.2547445,Religious & Spiritual Pilgrimages,4.3,0
+West Bengal,Darjeeling,Ghoom monastery market,27.0008384,88.2436844,Shopping & Markets,4.4,0
+West Bengal,Darjeeling,Teesta bazaar,27.0662177,88.4246364,Shopping & Markets,4.4,0
+West Bengal,Darjeeling,Mall road,27.2,88.15,Shopping & Markets,4.9,0
+West Bengal,Siliguri,Jaldapara National Park,26.6905136,89.2805351,Natural Landscapes & Wildlife,4.4,250
+West Bengal,Siliguri,Salugara monastery,26.7670442,88.4452226,Religious & Spiritual Pilgrimages,4.6,0
+West Bengal,Siliguri,ISKON temple,26.729,88.4433,Religious & Spiritual Pilgrimages,4.4,0
+West Bengal,Siliguri,Mahananda Wildlife Sanctuary,26.7961932,88.3630076,Natural Landscapes & Wildlife,4.4,500
+West Bengal,Siliguri,Hong Kong market,22.3193039,114.1693611,Shopping & Markets,4.4,0
+West Bengal,Siliguri,North Bengal Science centre,26.7230488,88.3868987,"Arts, Science & Literature Attractions",4.3,50
+West Bengal,Siliguri,Sepoy Dhura Tea garden,26.8372379,88.3457906,Sightseeing & Exploration,4.2,25
+West Bengal,Sundarbans,Sundarbans National Park,21.8842354,88.8853765,Natural Landscapes & Wildlife,4.4,60
+West Bengal,Sundarbans,Burirdabri Forest camp,22.077495,89.0293676,Adventure & Outdoor Activities,3.4,600
+West Bengal,Sundarbans,Sajnekhali Wildlife Sanctuary,22.1237762,88.8313005,Natural Landscapes & Wildlife,4.4,550
+West Bengal,Sundarbans,Kotka beach,21.8449338,89.7960898,Natural Landscapes & Wildlife,4.4,0
+West Bengal,Sundarbans,Hiron point,21.8162132,89.4626047,Natural Landscapes & Wildlife,4.2,0
+West Bengal,Sundarbans,Dublar Char island,21.7728061,89.5591963,Natural Landscapes & Wildlife,4.4,0
+West Bengal,Sundarbans,Bhagatpur crocodile project,21.46,88.18,Natural Landscapes & Wildlife,4.4,50
+West Bengal,Murshidabad,Katra Masjid,24.184853,88.288056,Cultural & Heritage Sites,4.5,0
+West Bengal,Murshidabad,Hazarduari Palace,24.1863376,88.2876731,Cultural & Heritage Sites,4.4,5
+West Bengal,Murshidabad,Jahan Kosha cannon,24.1782162,88.2687913,Cultural & Heritage Sites,4.5,0
+West Bengal,Murshidabad,Murshidabad District museum,24.1759039,88.2933334,Cultural & Heritage Sites,4.4,0
+Odisha,Puri,Jagannath Temple,19.8049379,88.2801785,"	Religious & Spiritual Pilgrimages",4.7,0
+Odisha,Puri,Puri beach,19.794749,85.8179386,Natural Landscapes & Wildlife,4.6,0
+Odisha,Puri,Raghurajpur Artist village,19.8855117,85.8252882,"Arts, Science & Literature Attractions",4.4,0
+Odisha,Puri,Chilika lake,19.8449627,85.8257455,Natural Landscapes & Wildlife,4.4,0
+Odisha,Konark,Konark Sun Temple,19.8875953,85.4788065,Religious & Spiritual Pilgrimages,3.9,40
+Odisha,Konark,Chandrabhaga beach,19.8920686,86.0945364,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4.2,0
+Odisha,Konark,Lingaraj Temple,20.2384519,86.091184,"Cultural & Heritage Sites, Religious & Spiritual Pilgrimages",4.9,0
+Odisha,Konark,ASI Museum,19.8920686,85.8337767,"Arts, Science & Literature Attractions",4.9,850
+Odisha,Konark,Ramchandi beach and water sports,19.8920686,86.091184,"	Natural Landscapes & Wildlife, Adventure & Outdoor Activities",4.2,0
+Odisha,Rourkela,Jagannath Temple,22.2478283,86.091184,Religious & Spiritual Pilgrimages,3.9,0
+Odisha,Rourkela,Indira Gandhi Park,22.2402062,84.8777569,Sightseeing & Exploration,4,0
+Odisha,Rourkela,Pitamahal dam,22.2273546,84.8747082,Natural Landscapes & Wildlife,3.6,0
+Odisha,Rourkela,VIP market,22.2477991,84.7472931,Shopping & Markets,4,0
+Odisha,Rourkela,Hanuman Vatika garden,22.2217242,84.867526,Sightseeing & Exploration,4.9,0
+Odisha,Rourkela,Khandadhar Waterfall,22.260423,84.8315341,"	Natural Landscapes & Wildlife, Adventure & Outdoor Activities",4.5,0
+Odisha,Cuttack,Odisha State Maritime museum,20.4789263,84.8535844,"Arts, Science & Literature Attractions",4.2,0
+Odisha,Cuttack,Bhitarkanika Wildlife Sanctuary,20.462521,85.8961823,Natural Landscapes & Wildlife,4.6,20
+Odisha,Cuttack,State Botanical garden,20.462521,85.8829895,Natural Landscapes & Wildlife,4.2,50
+Odisha,Cuttack,Deer Park,20.4883078,85.8829895,Natural Landscapes & Wildlife,4.9,25
+Odisha,Cuttack,Netaji museum,20.4700673,85.8619087,"Arts, Science & Literature Attractions",4.8,0
+Odisha,Cuttack,Dhabaleshwar Island,20.462521,85.8668001,Sightseeing & Exploration,4.5,0
+Odisha,Cuttack,Barabati Fort,20.4845311,85.8829895,Cultural & Heritage Sites,4.5,0
+Odisha,Sambalpur,Hirakud Dam,21.5305898,85.8651767,Natural Landscapes & Wildlife,4.5,0
+Odisha,Sambalpur,Debrigarh Wildlife Sanctuary,21.4668716,83.8704949,Natural Landscapes & Wildlife,4.8,40
+Odisha,Sambalpur,Ghanteswari temple,21.3546732,83.9811665,"	Religious & Spiritual Pilgrimages",4,0
+Odisha,Sambalpur,Gudguda waterfall,21.4668716,83.9192152,"Natural Landscapes & Wildlife, Adventure & Outdoor Activities",4.7,0
+Odisha,Berhampur,Khasada waterfall,19.2558881,83.9811665,"Natural Landscapes & Wildlife, Adventure & Outdoor Activities",4.4,0
+Odisha,Berhampur,Aryapalli beach,19.3149618,84.2332104,Natural Landscapes & Wildlife,4.9,0
+Odisha,Berhampur,Bada bazaar,19.3149618,84.7940911,Shopping & Markets,4.1,0
+Odisha,Berhampur,Sana bazaar,19.3156111,84.7940911,Shopping & Markets,3.9,0
+Odisha,Berhampur,Gopalpur Beach,19.3149618,84.780999,Natural Landscapes & Wildlife,4,0
+Odisha,Berhampur,Tara Tarini Temple,19.3149618,84.7940911,Religious & Spiritual Pilgrimages,4.6,0
+Odisha,Keonjhar,Hadargarh reservoir,21.628933,84.7940911,Natural Landscapes & Wildlife,3.9,10
+Odisha,Keonjhar,Gundichaghagi waterfall,21.3482992,85.5816847,"Natural Landscapes & Wildlife, Adventure & Outdoor Activities",4.3,0
+Odisha,Keonjhar,Sitabinji Fresco painting and rock inscription,21.5024021,85.8221225,Cultural & Heritage Sites,4.9,0
+Odisha,Keonjhar,Sanaghagara Waterfall,21.632772,85.7692277,"Natural Landscapes & Wildlife, Adventure & Outdoor Activities",4.3,0
+Odisha,Balasore,Kshirachora Gopinatha Temple,21.5378777,85.5569556,Religious & Spiritual Pilgrimages,4.2,0
+Odisha,Balasore,Balaramgadi beach,21.4727,86.8798117,"Natural Landscapes & Wildlife,Adventure & Outdoor Activities,  Sightseeing & Exploration",4.4,0
+Odisha,Balasore,Kuldiha Wildlife sanctuary,21.4092041,86.18,Natural Landscapes & Wildlife,4.9,40
+Odisha,Balasore,Chandipur Beach,21.4518786,86.7301665,"Natural Landscapes & Wildlife, Adventure & Outdoor Activities",4.2,0
+Tamil Nadu,Chennai,Marina Beach,13.0499526,87.0406081,"Natural Landscapes & Wildlife, Adventure & Outdoor Activities",3.9,0
+Tamil Nadu,Chennai,Mahabalipuram,12.6207821,80.2824026,Cultural & Heritage Sites,4.8,0
+Tamil Nadu,Chennai,Water activities at Muttukadu,12.8270232,80.1944915,Adventure & Outdoor Activities,4.6,130
+Tamil Nadu,Chennai,Queensland amusement park,13.0300355,80.240321,"Adventure & Outdoor Activities, Sightseeing & Exploration",5,550
+Tamil Nadu,Chennai,Pondy bazaar,13.0398891,80.0276134,Shopping & Markets,4,0
+Tamil Nadu,Chennai,Birla Planetarium,22.5455141,80.2368745,"Arts, Science & Literature Attractions",4.8,45
+Tamil Nadu,Chennai,National Art gallery,13.0696912,88.3473163,"Arts, Science & Literature Attractions",4.2,15
+Tamil Nadu,Chennai,Ubbalamadugu falls,13.6041974,80.2561119,Natural Landscapes & Wildlife,4.4,0
+Tamil Nadu,Chennai,Pulicat lake,13.0826802,79.84384101,Natural Landscapes & Wildlife,4.7,0
+Tamil Nadu,Chennai,Barracuda bay(fishing),13.0826802,80.2707184,"Adventure & Outdoor Activities, Natural Landscapes & Wildlife",4.9,0
+Tamil Nadu,Chennai,Scuba diving at Covelong beach,12.7870019,80.2707184,Adventure & Outdoor Activities,4.6,6000
+Tamil Nadu,Chennai,Adventure sports at Covelong beach,12.7870019,80.2504447,Adventure & Outdoor Activities,4.9,2000
+Tamil Nadu,Chennai,Arignar Anna Zoological park,12.8797685,80.2504447,Natural Landscapes & Wildlife,4.3,50
+Tamil Nadu,Chennai,Dakshinachitra museum,13.0038421,80.0808294,Cultural & Heritage Sites,3.9,110
+Tamil Nadu,Chennai,MGR Film city,12.991932,80.2704729,"	Arts, Science & Literature Attractions",4.7,600
+Tamil Nadu,Madurai,Thiruparankundram temple,13.0826802,80.2474329,Religious & Spiritual Pilgrimages,4.1,27
+Tamil Nadu,Madurai,Meghamalai,9.8821748,80.2707184,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4.1,0
+Tamil Nadu,Madurai,Alagar Kovil temple,9.9395002,78.071976,Religious & Spiritual Pilgrimages,3.8,10
+Tamil Nadu,Madurai,Vaigai dam,9.9252007,78.1187073,Sightseeing & Exploration,4.1,0
+Tamil Nadu,Madurai,Gandhi memorial museum,10.0536633,78.1197754,Cultural & Heritage Sites,3.9,0
+Tamil Nadu,Madurai,Banana market,9.9297856,77.5897123,"Culinary & Food Experiences, Shopping & Markets",4,50
+Tamil Nadu,Madurai,Jain caves,9.9211183,78.1381094,"Cultural & Heritage Sites, Sightseeing & Exploration",4.8,0
+Tamil Nadu,Madurai, Thirumalai Nayak palace,9.8780384,78.1243023,Cultural & Heritage Sites,4.9,200
+Tamil Nadu,Madurai,St. Mary's cathedral,9.9150904,78.0672102,Religious & Spiritual Pilgrimages,4.9,10
+Tamil Nadu,Madurai,Shopping at Puthu Mandapam,9.9126199,78.1237483,Shopping & Markets,4,0
+Tamil Nadu,Madurai,Meenakshi Amman Temple,9.9201457,78.1253966,Religious & Spiritual Pilgrimages,3.9,0
+Tamil Nadu,Rameswaram,Sea world aquarium,9.9195045,78.1212534,"Sightseeing & Exploration, Natural Landscapes & Wildlife",4.7,0
+Tamil Nadu,Rameswaram,Rameswaram lighthouse,9.2875837,78.1193418,Sightseeing & Exploration,4.1,0
+Tamil Nadu,Rameswaram,Kalam national memorial,9.3175826,79.3129488,Cultural & Heritage Sites,4.7,10
+Tamil Nadu,Rameswaram,Water bird Sanctuary,9.2881317,79.3306887,Natural Landscapes & Wildlife,4.2,0
+Tamil Nadu,Rameswaram,Adam's bridge,9.2875837,79.2709097,Cultural & Heritage Sites,2,0
+Tamil Nadu,Rameswaram,Ariyaman beach,9.0864914,79.3129488,Adventure & Outdoor Activities,4.5,0
+Tamil Nadu,Rameswaram,Agni teertham sacred bath,9.2968404,79.5685186,Religious & Spiritual Pilgrimages,4.8,0
+Tamil Nadu,Rameswaram,Kothandaramaswamy Temple,9.2886164,79.0680317,Religious & Spiritual Pilgrimages,4,0
+Tamil Nadu,Rameswaram,Ramanathaswamy Temple,9.2331475,79.3213819,Religious & Spiritual Pilgrimages,3.9,0
+Tamil Nadu,Kanyakumari,Vivekananda Rock Memorial,9.2881136,79.3480474,Cultural & Heritage Sites,4.6,0
+Tamil Nadu,Kanyakumari,Thiruvalluvar Statue,8.0778853,79.3173919,Cultural & Heritage Sites,4.6,20
+Tamil Nadu,Kanyakumari,Padmanabhapuram palace,8.0778074,77.5558698,Cultural & Heritage Sites,4.1,10
+Tamil Nadu,Kanyakumari,Triveni Sangam,8.2507431,77.5540357,Cultural & Heritage Sites,4.7,0
+Tamil Nadu,Kanyakumari,Sannathi Street shopping,8.0780746,77.3266987,Shopping & Markets,3.9,0
+Tamil Nadu,Kanyakumari,Courtallam falls,8.0809502,77.5508165,Natural Landscapes & Wildlife,4.8,0
+Tamil Nadu,Kanyakumari,Vattakottai fort,8.9341102,77.5508198,Cultural & Heritage Sites,4.6,40
+Tamil Nadu,Kanyakumari,St.Xavier Church,8.125627,77.277938,Religious & Spiritual Pilgrimages,4.2,0
+Tamil Nadu,Kanyakumari,Kumari Amman temple,8.1748264,77.564996,Religious & Spiritual Pilgrimages,4.6,0
+Tamil Nadu,Kanyakumari,Ooty Lake,8.0793037,77.4385005,"Sightseeing & Exploration, Natural Landscapes & Wildlife",4.7,0
+Tamil Nadu,Coimbatore,Marudamalai Temple,11.4102038,77.5509774,Religious & Spiritual Pilgrimages,4.7,0
+Tamil Nadu,Coimbatore,Trek to Dhoni hills,11.046568,76.6950324,Adventure & Outdoor Activities,4.5,0
+Tamil Nadu,Coimbatore,Trek to Perumal peak,11.0168445,76.8517068,Adventure & Outdoor Activities,4.7,0
+Tamil Nadu,Coimbatore,Trek to Thalaiyar falls,11.0168445,76.9558321,Adventure & Outdoor Activities,4.3,0
+Tamil Nadu,Coimbatore,Black Thunder amusement park,11.0168445,76.9558321,Adventure & Outdoor Activities,4.6,0
+Tamil Nadu,Coimbatore,Brookefields mall,11.3264548,76.9558321,Shopping & Markets,4.4,65
+Tamil Nadu,Coimbatore,Adiyogi Shiva Statue ,11.0092555,76.9127039,Religious & Spiritual Pilgrimages,4.7,0
+Tamil Nadu,Coimbatore,Racing events at Chettipalayam,10.9724897,76.9590555,Adventure & Outdoor Activities,4.4,10
+Tamil Nadu,Coimbatore,GeDee Car museum tour,10.9132206,76.7404437,"Arts, Science & Literature Attractions, Cultural & Heritage Sites",4.5,0
+Tamil Nadu,Coimbatore,Textile museum tour ,11.0066289,77.036902,"Arts, Science & Literature Attractions",4.7,0
+Tamil Nadu,Coimbatore,Anamalai Wildlife Sanctuary,11.0347344,76.9779209,Natural Landscapes & Wildlife,4.7,0
+Tamil Nadu,Coimbatore,Valankulam lake,10.4059862,77.0324697,Sightseeing & Exploration,4.5,0
+Tamil Nadu,Coimbatore,Velliangiri hills,10.991694,77.1294933,Adventure & Outdoor Activities,4.6,40
+Tamil Nadu,Coimbatore,TNAU Botanical gardens,10.983279,76.972167,Sightseeing & Exploration,4.5,60
+Tamil Nadu,Coimbatore,Nilgiri Biosphere Nature Park ,11.0147932,76.6926714,Natural Landscapes & Wildlife,4.6,0
+Tamil Nadu,Coimbatore,Maryoor hilly getaway,11.02638,76.9315362,Sightseeing & Exploration,4.1,20
+Tamil Nadu,Kodaikanal,Kodaikanal Lake,11.0168445,77.0032888,Sightseeing & Exploration,3.8,20
+Tamil Nadu,Kodaikanal,Night Safari,10.2343586,76.9558321,Adventure & Outdoor Activities,4.3,10
+Tamil Nadu,Kodaikanal,Stroll at Coaker's Walk,10.2391086,77.4863295,Sightseeing & Exploration,4.3,20
+Tamil Nadu,Kodaikanal,Dolphin's Nose,10.2300175,77.4977456,"Sightseeing & Exploration, Natural Landscapes & Wildlife",4.6,20
+Tamil Nadu,Kodaikanal,Caps valley viewpoint,10.2166621,77.4937172,"Sightseeing & Exploration, Natural Landscapes & Wildlife",4.7,50
+Tamil Nadu,Kodaikanal,Bear Shola falls,10.1807628,77.4863964,"Sightseeing & Exploration, Natural Landscapes & Wildlife",4.6,10
+Tamil Nadu,Kodaikanal,Bryant park,10.2396614,77.4175698,Sightseeing & Exploration,4.8,50
+Tamil Nadu,Kodaikanal,Berijam lake,10.2310165,77.4785336,"Sightseeing & Exploration, Natural Landscapes & Wildlife",4.7,0
+Tamil Nadu,Kodaikanal,Guna caves,10.1841444,77.4918904,Adventure & Outdoor Activities,4.5,0
+Tamil Nadu,Kodaikanal,La Saleth Church,10.2103444,77.3959592,Religious & Spiritual Pilgrimages,4.6,0
+Tamil Nadu,Kodaikanal,Hike to Pillars of Nature,10.2235459,77.4617799,Adventure & Outdoor Activities,4.5,650
+Tamil Nadu,Thanjavur,Brihadeeswarar Temple,10.2391086,77.4854759,Religious & Spiritual Pilgrimages,4.1,0
+Tamil Nadu,Thanjavur,Gangaikonda Cholapuram,10.7826954,77.4977456,Cultural & Heritage Sites,4.7,0
+Tamil Nadu,Thanjavur,Shiva Ganga Garden ,11.2075881,79.1314587,Sightseeing & Exploration,4.7,0
+Tamil Nadu,Thanjavur,Vijaynagar fort,10.1841413,79.4513858,Cultural & Heritage Sites,4.6,500
+Tamil Nadu,Thanjavur,Thanjavur Royal Palace and Art Gallery,10.7929397,79.1961043,Cultural & Heritage Sites,4.5,0
+Tamil Nadu,Mahabalipuram,Shore Temple,12.6164515,79.1376311,Religious & Spiritual Pilgrimages,4.4,500
+Tamil Nadu,Mahabalipuram,Pancha Ratha,12.608893,80.189613,Cultural & Heritage Sites,4.7,0
+Tamil Nadu,Mahabalipuram,Krishna's Chunk,11.1271225,78.6568942,Sightseeing & Exploration,4.5,10
+Tamil Nadu,Mahabalipuram,Arjuna's Penance,12.6179495,80.1927029,Sightseeing & Exploration,4.5,0
+Tamil Nadu,Mahabalipuram,India Seashell Museum,12.6094039,80.1876212,Cultural & Heritage Sites,4.5,20
+Tamil Nadu,Mahabalipuram,Crocodile farm,11.1271225,78.6568942,Sightseeing & Exploration,4.6,0
+Tamil Nadu,Mahabalipuram,Cavern Temples,11.1271225,78.6568942,"	Religious & Spiritual Pilgrimages",4.7,0
+Tamil Nadu,Yercaud,Yercaud Lake,11.7841423,78.2102296,Sightseeing & Exploration,4.5,0
+Tamil Nadu,Yercaud,Grange Treetop Adventure,11.7776437,78.2208538,Adventure & Outdoor Activities,4.1,0
+Tamil Nadu,Yercaud,The Oak trails,11.7865552,78.2036325,Adventure & Outdoor Activities,4.5,200
+Andhra Pradesh,Vijayawada,Kanaka Durga Temple,16.5154055,80.605864,Religious & Spiritual Pilgrimages,4.7,30
+Andhra Pradesh,Vijayawada,Undavalli caves,16.4971412,80.5821896,Sightseeing & Exploration,4.8,0
+Andhra Pradesh,Vijayawada,Bhavani island,16.523107,80.5730084,Adventure & Outdoor Activities,4.5,0
+Andhra Pradesh,Vijayawada,Kondapalli Fort,16.6254258,80.5306487,Sightseeing & Exploration,4.4,250
+Andhra Pradesh,Vijayawada,Shopping at Besant road,16.5107307,80.6265836,Shopping & Markets,4.5,0
+Andhra Pradesh,Vijayawada,Bapu museum,16.5076521,80.6277072,"Arts, Science & Literature Attractions",4.6,0
+Andhra Pradesh,Vijayawada,Mogalarajapuram caves,16.5059513,80.6451779,Sightseeing & Exploration,4.7,0
+Andhra Pradesh,Vijayawada,Shopping at Kalanikethan ,15.9128998,79.7399875,Shopping & Markets,4.6,0
+Andhra Pradesh,Visakhapatnam,Lepakshi Handicrafts Emporium,13.8039436,77.6077197,Shopping & Markets,4.7,0
+Andhra Pradesh,Visakhapatnam,Old Book market by Purna Market,17.7090249,83.297086,Shopping & Markets,4.3,30
+Andhra Pradesh,Visakhapatnam,CMR Shopping Mall,15.9128998,79.7399875,Shopping & Markets,4.7,0
+Andhra Pradesh,Visakhapatnam,Rishikonda Beach,17.7825201,83.3851154,"Adventure & Outdoor Activities, Natural Landscapes & Wildlife",4.4,10
+Andhra Pradesh,Visakhapatnam,Kailasagiri,17.7492105,83.3418016,"Adventure & Outdoor Activities, Natural Landscapes & Wildlife",4.4,1100
+Andhra Pradesh,Visakhapatnam,Submarine Museum,15.9128998,79.7399875,Sightseeing & Exploration,4.6,0
+Andhra Pradesh,Visakhapatnam,Borra Caves,18.2806929,83.0396992,"Adventure & Outdoor Activities, Natural Landscapes & Wildlife",4.7,0
+Andhra Pradesh,Visakhapatnam,War Memorial,15.9128998,79.7399875,Adventure & Outdoor Activities,4.8,0
+Andhra Pradesh,Visakhapatnam,Indira Gandhi Zoological Park,17.765657,83.3488338,"Sightseeing & Exploration, Natural Landscapes & Wildlife",4.6,0
+Andhra Pradesh,Visakhapatnam,Matsyadarshini Aquarium,15.9128998,79.7399875,Sightseeing & Exploration,4.5,0
+Andhra Pradesh,Visakhapatnam,Visakha Museum,17.7205813,83.3345285,"Arts, Science & Literature Attractions, Sightseeing & Exploration",4.7,0
+Andhra Pradesh,Srisailam,Mallikarjuna Swamy Temple,15.9128998,79.7399875,Religious & Spiritual Pilgrimages,4.5,10
+Andhra Pradesh,Srisailam,Srisailam Wildlife sanctuary,16.0737457,78.8726842,Natural Landscapes & Wildlife,4.4,0
+Andhra Pradesh,Srisailam,Chenchu Lakshmi Tribal Museum,16.0694755,78.8714984,Cultural & Heritage Sites,4.7,0
+Andhra Pradesh,Srisailam,Mallela Theertham,15.9128998,79.7399875,Natural Landscapes & Wildlife,4.4,50
+Andhra Pradesh,Kurnool,Belum Caves,15.1025794,78.1115072,Natural Landscapes & Wildlife,4.6,0
+Andhra Pradesh,Kurnool,Rollapadu wildlife sanctuary,15.7389773,78.3650976,Natural Landscapes & Wildlife,4.3,0
+Andhra Pradesh,Kurnool,Oravakallu rock garden,15.6928965,78.1521842,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4.2,0
+Andhra Pradesh,Kurnool,Mahanandi village,15.4707317,78.6254084,Sightseeing & Exploration,4.6,20
+Andhra Pradesh,Kurnool,Kurnool fort,15.8323892,78.0544946,Cultural & Heritage Sites,4.7,10
+Andhra Pradesh,Kurnool,Ahobilam temple,15.1337667,78.6741657,Religious & Spiritual Pilgrimages,4.8,0
+Sikkim,Gangtok,Nathula Pass,27.3865684,88.8308731,"Sightseeing & Exploration, Natural Landscapes & Wildlife",3,0
+Sikkim,Gangtok,Cable Ride at Gangtok,27.3313512,88.6138113,Adventure & Outdoor Activities,4,40
+Sikkim,Gangtok,"Yak safari , Dzongri",27.466667,88.15,Adventure & Outdoor Activities,4,200
+Sikkim,Gangtok,Mountain biking treks,27.3516407,88.3239309,Adventure & Outdoor Activities,4.2,700
+Sikkim,Gangtok,River rafting,27.3516407,88.3239309,Adventure & Outdoor Activities,4.8,550
+Sikkim,Gangtok,Paragliding in Baliman Dara,27.3481118,88.5957415,Adventure & Outdoor Activities,4.5,1000
+Sikkim,Gangtok,Explore M.G.Marg city centre,27.3253821,88.61189,Sightseeing & Exploration,4.8,0
+Sikkim,Gangtok,Sunrise at Tashi view point,27.3706406,88.616133,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4.4,0
+Sikkim,Gangtok,Shopping at Lal Bazaar,27.3516407,88.3239309,Shopping & Markets,4.6,0
+Sikkim,Gangtok,Tsuk La Khang Monastery,27.3261111,88.6147222,Religious & Spiritual Pilgrimages,4.7,0
+Sikkim,Gangtok,Hanuman Tok,27.3478348,88.628696,Religious & Spiritual Pilgrimages,4.3,0
+Sikkim,Gangtok,Seven Sisters waterfall,27.44375253,88.60777208,Natural Landscapes & Wildlife,4.4,0
+Sikkim,Gangtok,Rumtek monastery,27.3059105,88.5362892,Religious & Spiritual Pilgrimages,4.2,30
+Sikkim,Gangtok,Tsongmo lake ,27.3741667,88.7619444,Natural Landscapes & Wildlife,4.2,0
+Sikkim,Gangtok,Shingba Rhododendron sanctuary,27.8012861,88.7695197,Natural Landscapes & Wildlife,3.8,0
+Sikkim,Gangtok,Khangchendzonga biosphere reserve,27.6672446,88.3245556,Natural Landscapes & Wildlife,3.2,0
+Sikkim,Gangtok,Skiing by Mt Katao,27.6525132,88.8128996,Adventure & Outdoor Activities,4,1000
+Sikkim,Gangtok,Banjkhari falls,27.3507643,88.6032316,Natural Landscapes & Wildlife,4,0
+Sikkim,Gangtok,Himalayan Zoological park,27.3567013,88.6300149,Natural Landscapes & Wildlife,4,70
+Sikkim,Pelling,Pemayangtse Monastery,27.303354,88.253716,Cultural & Heritage Sites,4.8,0
+Sikkim,Pelling,Kanchenjunga waterfalls and national park,27.3586875,88.1988125,Natural Landscapes & Wildlife,4.8,0
+Sikkim,Pelling,Rabdentse Ruins,27.301403,88.2566223,Cultural & Heritage Sites,5,0
+Sikkim,Pelling,Rinchenpong bazaar,27.243277,88.2708571,Shopping & Markets,4.3,0
+Sikkim,Pelling,Rural Artisan Marketing Centre,27.3007124,88.2358993,Shopping & Markets,4.3,0
+Sikkim,Pelling,Sewaro Rock garden,27.3158029,88.1898361,Natural Landscapes & Wildlife,5,20
+Sikkim,Pelling,Singshore suspension bridge,27.2604072,88.1129982,"Adventure & Outdoor Activities,Sightseeing & Exploration",4.7,0
+Sikkim,Pelling,Pelling Skywalk,27.2969309,88.2195178,"Adventure & Outdoor Activities,Sightseeing & Exploration",4.4,20
+Sikkim,Pelling,Kalimpong,27.0593562,88.4694535,Sightseeing & Exploration,4.5,0
+Sikkim,Namchi,Char Dham,27.3516407,88.3239309,Religious & Spiritual Pilgrimages,4.8,0
+Sikkim,Namchi, Tendong Hill & Biodiversity park,27.3516407,88.3239309,Natural Landscapes & Wildlife,5,0
+Sikkim,Namchi,Doling Gompa ,27.3516407,88.3239309,Religious & Spiritual Pilgrimages,4.5,0
+Sikkim,Namchi,Ngadak monastery,27.1732407,88.3706278,Religious & Spiritual Pilgrimages,4.7,0
+Sikkim,Namchi,Maenam Wildlife sanctuary,27.3239572,88.3799727,Natural Landscapes & Wildlife,4.7,400
+Sikkim,Namchi,Samdruptse Hill,27.1799743,88.3796775,Religious & Spiritual Pilgrimages,3.9,0
+Sikkim,Ravangla,Buddha Park,27.3143623,88.3632705,"Arts, Science & Literature Attractions",3.8,0
+Sikkim,Ravangla,Ralang monastery,27.327015,88.355095,Religious & Spiritual Pilgrimages,3.7,0
+Sikkim,Ravangla,Doling Gompa ,27.3516407,88.3239309,Religious & Spiritual Pilgrimages,34,0
+Sikkim,Ravangla,Kheunpheling Carpet centre,27.3516407,88.3239309,Shopping & Markets,4.3,500
+Sikkim,Ravangla,Rayong sunrise point,27.3516407,88.3239309,Sightseeing & Exploration,4.1,0
+Sikkim,Ravangla,Borong Hot springs,27.3657693,88.3278092,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4,20
+Sikkim,Ravangla,Temi tea garden,27.2398,88.427643,Sightseeing & Exploration,4,60
+Sikkim,Ravangla,Maenam hill,27.3516407,88.3239309,"Natural Landscapes & Wildlife, Adventure & Outdoor Activities, Sightseeing & Exploration",4,0
+Assam,Guwahati,Kamakhya Temple,26.1664108,91.7055031,Religious & Spiritual Pilgrimages,4.9,0
+Assam,Guwahati,Kalakshetra theatre and artifact museum,26.2006043,92.9375739,"Arts, Science & Literature Attractions",4.8,75
+Assam,Guwahati,Assam state museum,26.185175,91.7520769,Cultural & Heritage Sites,4.7,20
+Assam,Guwahati,Guwahati planetarium,26.1914,91.7519611,"Arts, Science & Literature Attractions",4.8,100
+Assam,Guwahati,Sunset cruise by river Brahmaputra,26.2006043,92.9375739,Sightseeing & Exploration,3.8,0
+Assam,Guwahati,Pobitora wildlife sanctuary,26.2307847,92.0550609,Natural Landscapes & Wildlife,4,0
+Assam,Guwahati,Bird watching by Deepor Beel lake,26.1176941,91.6493532,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4,0
+Assam,Guwahati,Assam State Zoo,26.1635189,91.7807253,Natural Landscapes & Wildlife,4,0
+Assam,Guwahati,Kamakhya Temple,26.1664108,91.7055031,Religious & Spiritual Pilgrimages,4.7,0
+Assam,Guwahati,Fancy Bazaar,26.1830738,91.7404977,Shopping & Markets,4.7,0
+Assam,Guwahati,Manas National Park,26.8101743,91.2394832,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4.2,0
+Assam,Guwahati,Umananda Island,26.1964922,91.7449079,Natural Landscapes & Wildlife,4.5,0
+Assam,Kaziranga,Majuli river island,27.0016172,94.2242981,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4.6,0
+Assam,Kaziranga,Orchid national park,26.2006043,92.9375739,Natural Landscapes & Wildlife,4.7,0
+Assam,Kaziranga,Kaziranga National Park,26.6445044,93.3524858,Natural Landscapes & Wildlife,4.3,900
+Arunachal Pradesh,Tawang,Jaswant Garh war memorial,28.2179994,94.7277528,Cultural & Heritage Sites,3.8,0
+Arunachal Pradesh,Tawang,Madhuri lake,28.2179994,94.7277528,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4.3,0
+Arunachal Pradesh,Tawang,Shonga Tser Lake,28.2179994,94.7277528,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4.5,0
+Arunachal Pradesh,Tawang,Nuranang waterfalls,28.2179994,94.7277528,"Natural Landscapes & Wildlife, Adventure & Outdoor Activities, Sightseeing & Exploration",4.8,0
+Arunachal Pradesh,Tawang,Tibetan Settlement market,28.2179994,94.7277528,"Cultural & Heritage Sites, Shopping & Markets",4,0
+Arunachal Pradesh,Tawang,Sela pass,28.2179994,94.7277528,"Adventure & Outdoor Activities, Sightseeing & Exploration",4,0
+Arunachal Pradesh,Tawang,Gorichen Peak hike,28.2179994,94.7277528,Adventure & Outdoor Activities,3.9,0
+Arunachal Pradesh,Tawang,Taktsang Gompa monastery,28.2179994,94.7277528,Religious & Spiritual Pilgrimages,3.8,0
+Arunachal Pradesh,Tawang,Tawang Monastery,27.5867261,91.8577194,"Cultural & Heritage Sites, Religious & Spiritual Pilgrimages",4.54,0
+Tripura,Agartala,Raima valley ,23.5638643,91.6760691,Natural Landscapes & Wildlife,4.9,0
+Tripura,Agartala,Buddha temple,23.5638643,91.6760691,Religious & Spiritual Pilgrimages,4.8,0
+Tripura,Agartala,Neermahal,23.5064408,91.3150341,Cultural & Heritage Sites,3.8,0
+Tripura,Agartala,Gondacherra wildlife sanctuary,23.5638643,91.6760691,Natural Landscapes & Wildlife,4.9,500
+Tripura,Agartala,Ummaneshwar temple,23.8376106,91.2817995,Religious & Spiritual Pilgrimages,4.7,0
+Tripura,Agartala,Chittagong hills,23.5638643,91.6760691,Natural Landscapes & Wildlife,4.3,0
+Tripura,Agartala,Sepahijala wildlife sanctuary,23.6148176,91.3276422,Natural Landscapes & Wildlife,4.9,300
+Tripura,Agartala,Ujjayanta Palace,23.8373503,91.2827128,Cultural & Heritage Sites,4.7,40
+Nagaland,Kohima,Mt Japfu,25.5975011,94.0666664,Natural Landscapes & Wildlife,4.9,0
+Nagaland,Kohima,Naga keeda bazaar,26.1584354,94.5624426,Shopping & Markets,3.9,0
+Nagaland,Kohima,Touphema village ,25.8455682,94.1769749,Cultural & Heritage Sites,4,0
+Nagaland,Kohima,Camping by Kohima mountains,25.6751129,94.1085998,Adventure & Outdoor Activities,4,0
+Nagaland,Kohima,Ntangki national park,25.5496528,93.5205641,Natural Landscapes & Wildlife,4.8,0
+Meghalaya,Cherrapunji,Dawki lake,25.1840249,92.0248701,Sightseeing & Exploration,4.6,750
+Meghalaya,Cherrapunji,Thangkharang park,25.2167071,91.7240776,Sightseeing & Exploration,4.9,0
+Meghalaya,Cherrapunji,Mawkdok Dympep valley,25.411798,91.79084,Sightseeing & Exploration,4.7,0
+Meghalaya,Cherrapunji,Mawsmai cave-Longest cave systems in India,25.2445707,91.7240877,Sightseeing & Exploration,4,0
+Meghalaya,Cherrapunji,Mawlynnong village,25.2017637,91.9160305,"Cultural & Heritage Sites, Sightseeing & Exploration	",4.8,0
+Meghalaya,Cherrapunji,Mawsmai Eco park and falls,25.2457155,91.7375719,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4.3,0
+Meghalaya,Cherrapunji,Mawmluh caves,25.2539985,91.7130622,Sightseeing & Exploration,4,0
+Meghalaya,Cherrapunji,Nohkalikai watterfalls,25.2754719,91.68616774,Sightseeing & Exploration,4.6,0
+Meghalaya,Cherrapunji,Living Root Bridge,25.4670308,91.366216,Natural Landscapes & Wildlife,4.9,0
+Chhattisgarh,Bastar,Chitrakote Falls,19.2071733,81.7000604,Natural Landscapes & Wildlife,4.9,0
+Chhattisgarh,Bastar,Tirathgarh waterfalls,18.9139499,81.8651088,Natural Landscapes & Wildlife,4,0
+Chhattisgarh,Bastar,Kanger Ghati national park,18.77866,81.9971108,Natural Landscapes & Wildlife,4,250
+Chhattisgarh,Bastar,Kotumsar caves,18.9066382,81.9050496,Natural Landscapes & Wildlife,3,0
+Chhattisgarh,Bastar,Anthropological museum ,21.2786567,81.8661442,"Arts, Science & Literature Attractions",3.8,0
+Chhattisgarh,Raipur,Ambuja City Center mall,21.275629,81.687617,Shopping & Markets,4.5,0
+Chhattisgarh,Raipur,Magneto mall,21.2409292,81.6841555,Shopping & Markets,4.5,0
+Chhattisgarh,Raipur,Ghatarani waterfalls,20.8280625,82.0598125,Natural Landscapes & Wildlife,4.9,0
+Chhattisgarh,Raipur,Jatmai Temple,20.7958875,82.0298481,Religious & Spiritual Pilgrimages,4.7,0
+Jharkhand,Deoghar,Baba Baidyanath Temple,24.4927645,86.7005212,Religious & Spiritual Pilgrimages,4.4,0
+Jharkhand,Deoghar,Naulakha temple,24.4775623,86.7083557,Religious & Spiritual Pilgrimages,4.8,0
+Jharkhand,Deoghar,Trikut hill,24.4983333,86.8369444,Religious & Spiritual Pilgrimages,4.6,0
+Jharkhand,Ranchi,Pahari Mandir,23.3754286,85.31075,Religious & Spiritual Pilgrimages,4.5,0
+Jharkhand,Ranchi,Biodiversity park,23.2547338,85.3468934,Natural Landscapes & Wildlife,4.9,70
+Jharkhand,Ranchi,Rock garden,23.4038472,85.3129755,Natural Landscapes & Wildlife,4.8,50
+Jharkhand,Ranchi,Patratu valley,23.5755504,85.2741613,Natural Landscapes & Wildlife,4.4,0
+Jharkhand,Ranchi,State museum Hotwar,23.3835366,85.3854678,Cultural & Heritage Sites,4.9,0
+Jharkhand,Ranchi,Dassam falls ,23.1462515,85.4672203,Natural Landscapes & Wildlife,4.9,0
+Jharkhand,Ranchi,Jonha falls,23.3423069,85.6102055,Natural Landscapes & Wildlife,4.8,0
+Jharkhand,Ranchi,Ranchi science centre,23.4069545,85.3402327,"Arts, Science & Literature Attractions",3.9,100
+Bihar,Bodh Gaya,Mahabodhi Temple,24.6959222,84.9914193,Religious & Spiritual Pilgrimages,3.9,0
+Bihar,Bodh Gaya,Thai monastery,25.9644427,85.2722472,Religious & Spiritual Pilgrimages,3.9,0
+Bihar,Bodh Gaya,Great Buddha statue,24.6903883,84.9819433,Sightseeing & Exploration,3.9,0
+Bihar,Bodh Gaya,Bodhi tree,25.9644427,85.2722472,Religious & Spiritual Pilgrimages,4,0
+Bihar,Bodh Gaya,Indosan Nippon Japanese temple,25.9644427,85.2722472,Religious & Spiritual Pilgrimages,4,0
+Bihar,Bodh Gaya,Dungeshwari cave temple,24.7367013,85.0474977,Religious & Spiritual Pilgrimages,4.8,0
+Bihar,Bodh Gaya,Bodh gaya archaelogical museum,24.6949135,84.9874413,Cultural & Heritage Sites,4.5,40
+Bihar,Bodh Gaya,Muchalinda lake,24.6806441,84.9926622,Natural Landscapes & Wildlife,4.7,0
+Bihar,Patna,Patna museum,25.612727,85.1332734,Cultural & Heritage Sites,4.5,10
+Bihar,Patna,Buddha memorial park,25.9644427,85.2722472,Religious & Spiritual Pilgrimages,4.9,0
+Bihar,Patna,Srikrishna science centre,25.6164189,85.1411084,"Arts, Science & Literature Attractions",4.8,0
+Bihar,Patna,Sanjay Gandhi Biological Park,25.5997345,85.0971767,Natural Landscapes & Wildlife,3.94,30
+Bihar,Patna,Takhat Shri Harimandir Ji Patna Sahib,25.5960503,85.2299561,Religious & Spiritual Pilgrimages,4,0
+Bihar,Patna,Budhha Smriti Park,25.6067139,85.1361502,Sightseeing & Exploration,4,0
+Haryana,Gurugram,Kingdom of Dreams,28.4678664,77.0688866,Adventure & Outdoor Activities,3.8,500
+Haryana,Gurugram,Ambience Mall,28.505504,77.095956,Shopping & Markets,3.9,0
+Haryana,Gurugram,Shopping at HUDA marjet Sector 14,28.4710811,77.0454144,Shopping & Markets,4.2,0
+Haryana,Gurugram,Shopping at Sadar bazaar Sector 12A,28.4652778,77.0269326,Shopping & Markets,4.6,0
+Haryana,Gurugram,Wet N Wild water park,29.0587757,76.085601,Adventure & Outdoor Activities,4.2,600
+Haryana,Gurugram,Go-karting at Link road,29.0587757,76.085601,Adventure & Outdoor Activities,4.9,0
+Haryana,Gurugram,Ice skating at Ambience mall,28.505504,77.095956,Adventure & Outdoor Activities,4.4,1000
+Haryana,Gurugram,Camp tikkling,29.0587757,76.085601,Adventure & Outdoor Activities,4.8,5000
+Haryana,Gurugram,Aravalli biodiversity park,29.0587757,76.085601,Natural Landscapes & Wildlife,4.7,0
+Haryana,Gurugram,Sultanpur Bird sanctuary,28.4681234,76.8917707,Natural Landscapes & Wildlife,4.7,400
+Haryana,Gurugram,Museum of folk and tribal art,28.4709339,77.0099669,"Arts, Science & Literature Attractions",4.7,20
+Haryana,Gurugram,Indian Transport history,29.0587757,76.085601,"Arts, Science & Literature Attractions",4,50
+Haryana,Gurugram,Vintage camera museum,29.0587757,76.085601,"Arts, Science & Literature Attractions",4,0
+Haryana,Gurugram,DLF CyberHub for shopping,28.4950422,77.0890948,Shopping & Markets,4,0
+Uttarakhand,Kedarnath,Kedarnath,30.7346267,79.0668943,Religious & Spiritual Pilgrimages,4.5,0
+Uttarakhand,Kedarnath,Adi Shankaracharya Samadhi,30.7361239,79.0663642,Religious & Spiritual Pilgrimages,4.8,0
+Uttarakhand,Kedarnath,Bhairavnath temple,30.066753,79.0192997,Religious & Spiritual Pilgrimages,4.6,0
+Uttarakhand,Kedarnath,Trekking to Vasuki Tal,30.9070387,79.1716516,"Adventure & Outdoor Activities, Sightseeing & Exploration",4.7,0
+Uttarakhand,Kedarnath,Sonprayag,30.6325757,78.9952754,"Adventure & Outdoor Activities, Sightseeing & Exploration",4.8,0
+Uttarakhand,Kedarnath,Chorabari lake,30.066753,79.0192997,"	Natural Landscapes & Wildlife, Sightseeing & Exploration",4.9,0
+Puducherry,Puducherry,Promenade Beach,11.9312773,79.8358019,Natural Landscapes & Wildlife,3.8,0
+Puducherry,Puducherry,Auroville,12.0052483,79.8068922,Cultural & Heritage Sites,4.1,0
+Puducherry,Puducherry,Casablanca mall,11.9415915,79.8083133,Shopping & Markets,4.2,0
+Puducherry,Puducherry,Saram China market ,11.9408006,79.8121041,Shopping & Markets,4.2,0
+Puducherry,Puducherry,Pondicherry botanical garden,11.9302138,79.8224206,Natural Landscapes & Wildlife,4.2,0
+Puducherry,Puducherry,Pondicherry museum,11.9344884,79.83485,"Arts, Science & Literature Attractions",4.4,10
+Puducherry,Puducherry,Manakula Vinayagar temple,11.9357756,79.8336621,Religious & Spiritual Pilgrimages,4.6,0
+Puducherry,Puducherry,Chunnambar boat house,11.8838125,79.8006875,"Adventure & Outdoor Activities, Sightseeing & Exploration",4.5,0
+Puducherry,Puducherry,Heritage walk by White town,11.9415915,79.8083133,Cultural & Heritage Sites,4.8,0
+Puducherry,Puducherry,Sightseeing at Green Quarter,11.9415915,79.8083133,Sightseeing & Exploration,4.7,0
+Puducherry,Puducherry,Temple Adventures centre-Scuba diving,11.9415915,79.8083133,Adventure & Outdoor Activities,3.9,0
+Puducherry,Puducherry,Paradise beach and island,11.9415915,79.8083133,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4.4,0
+Andaman and Nicobar Islands,Port Blair,Kala Pani Cellular Jail,11.6747447,92.7478601,Cultural & Heritage Sites,4.5,50
+Andaman and Nicobar Islands,Port Blair,Ross island,11.6758295,92.7624249,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4,0
+Andaman and Nicobar Islands,Port Blair,Underwater Sea walk,10.7448873,92.4999918,Adventure & Outdoor Activities,4,1000
+Andaman and Nicobar Islands,Port Blair,Jolly Buoy island,11.5077351,92.612149,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4,0
+Andaman and Nicobar Islands,Port Blair,Mahatma Gandhi National Park,11.58709,92.6155601,Natural Landscapes & Wildlife,4.7,0
+Andaman and Nicobar Islands,Port Blair,Mount Harriet National park,11.7201967,92.7334546,Natural Landscapes & Wildlife,4.8,400
+Andaman and Nicobar Islands,Port Blair,Barren island volcano,12.2792303,93.8604402,"Natural Landscapes & Wildlife, Sightseeing & Exploration",4.6,0
+Andaman and Nicobar Islands,Havelock Island,Long island,40.789142,-73.134961,Sightseeing & Exploration,4.3,0
+Andaman and Nicobar Islands,Havelock Island,Elephant beach,12.0081083,92.9416061,Natural Landscapes & Wildlife,4.4,0
+Andaman and Nicobar Islands,Havelock Island,Snorkelling at Kalapathar beach,12.0006111,93.0070952,Adventure & Outdoor Activities,4.4,1000
+Andaman and Nicobar Islands,Havelock Island,Radhanagar Beach,11.9844552,92.9508454,Natural Landscapes & Wildlife,4.2,0
+Andaman and Nicobar Islands,Neil Island,Bharatpur Beach,11.8358457,93.0451011,Natural Landscapes & Wildlife,4.8,0
+Andaman and Nicobar Islands,Baratang Island,Mangrove creeks,10.7448873,92.4999918,Natural Landscapes & Wildlife,4.4,0
+Andaman and Nicobar Islands,Baratang Island,Parrot island,10.7448873,92.4999918,Natural Landscapes & Wildlife,4.5,0
+Andaman and Nicobar Islands,Baratang Island,Baludera beach,12.1336095,92.8042375,Natural Landscapes & Wildlife,4.5,0
+Andaman and Nicobar Islands,Baratang Island,Coral gazing at Mohwa Dera,10.7448873,92.4999918,Natural Landscapes & Wildlife,4.8,0
+Andaman and Nicobar Islands,Baratang Island,Limestone Caves,10.7448873,92.4999918,Natural Landscapes & Wildlife,4.9,0
+Daman and Diu,Diu,Naida Caves,20.7102563,70.980716,Natural Landscapes & Wildlife,3.9,200
+Daman and Diu,Diu,Diu Fort,20.7186887,70.9876739,Cultural & Heritage Sites,3.8,0
+Daman and Diu,Daman,Nani Daman market,20.4148699,72.8353005,Shopping & Markets,4.2,0
+Daman and Diu,Diu,DMC market,20.718628,70.987048,Shopping & Markets,5,0
+Daman and Diu,Diu,Basilica of Bom Jesus Church,20.55466502,71.88570098,Cultural & Heritage Sites,4.7,0
+Daman and Diu,Diu,Jampore beach,20.375971,72.825722,"Natural Landscapes & Wildlife, Beach",4.6,0
+Daman and Diu,Diu,Diu museum,20.7155688,70.9891437,Cultural & Heritage Sites,4,30
+Daman and Diu,Daman,St.Jerome Fort,20.55466502,71.88570098,Cultural & Heritage Sites,4,70

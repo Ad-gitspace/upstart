@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🕉️ Temple Finder - Discover Sacred Places</title>
+    <meta name="description"
+        content="Find and explore beautiful temples across India with detailed information, locations, and directions.">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-container">
+            <div class="logo-container">
+                <img src="data_source/logo.png" alt="Temple Finder Logo" class="logo-img">
+                <h2 class="logo-text">Pilgrim Path</h2>
+            </div>
+            <div class="location-display" id="locationDisplay">
+                <span class="icon">📍</span>
+                <span>Detecting location...</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Search Section -->
+    <section class="search-section">
+        <div class="search-container">
+            <span class="search-icon">🔍</span>
+            <input type="text" class="input-glass" id="searchInput"
+                placeholder="Search by temple name, deity, city, state... (e.g., 'Krishna Delhi')" autocomplete="off">
+        </div>
+        <div class="filter-controls">
+            <select class="sort-control" id="sortSelect">
+                <option value="name">Sort by Name</option>
+                <option value="distance">Sort by Distance</option>
+            </select>
+        </div>
+    </section>
+
+    <!-- Featured Section -->
+    <section class="main-content" id="featuredSection" style="display: none; padding-bottom: 0;">
+        <h2 class="section-title">✨ Featured Temples</h2>
+        <div class="temple-grid" id="featuredGrid">
+            <!-- Featured cards will be inserted here -->
+        </div>
+        <hr style="border: 0; border-top: 1px solid var(--tan); margin: 2rem 0; opacity: 0.5;">
+    </section>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="results-info" id="resultsInfo"></div>
+
+        <!-- Temple Grid -->
+        <div class="temple-grid" id="templeGrid">
+            <!-- Temple cards will be dynamically inserted here -->
+        </div>
+
+        <!-- Pagination -->
+        <div class="pagination" id="pagination">
+            <!-- Pagination controls will be dynamically inserted here -->
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-brand">
+                <h3 class="footer-logo-text">Pilgrim Path</h3>
+                <p>&copy; 2026 Temple Finder. All rights reserved.</p>
+            </div>
+            <div class="footer-devs">
+                <h4 class="dev-heading">Developed with ❤️ by</h4>
+                <div class="dev-list">
+                    <a href="https://linkedin.com" target="_blank" class="dev-link">Adesh</a>
+                    <span class="separator">•</span>
+                    <a href="https://linkedin.com" target="_blank" class="dev-link">Amar</a>
+                    <span class="separator">•</span>
+                    <a href="https://linkedin.com" target="_blank" class="dev-link">Nikhil</a>
+                    <span class="separator">•</span>
+                    <a href="https://linkedin.com" target="_blank" class="dev-link">Shubhashish</a>
+                    <span class="separator">•</span>
+                    <a href="https://linkedin.com" target="_blank" class="dev-link">Tejas</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
