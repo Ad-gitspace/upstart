@@ -1,0 +1,64 @@
+I am planing to make a project as follows.
+It is a infinite canvas black and some stars or white dots motions and interaction (minimal). On the top there is a bar for multiple settings and tools - like full screen, select child on/off, create node, import/export nodes data for saving and further uses , auto arrange and view, etc..
+In the main screen user can add a node of resizable size with a heading and info
+with right click on that the can insert a new node with if/else/elseif like view. So that a user can create their own flow and view to explain or write something. 
+You are an expert and decide which tech to use to make its best uses and dynamic and user friendly. I want to export the nodes and whole graph data in some file formet which when user needs to start again he can just import that file.
+if select child is on the whole tree/graph should glow like its selected. or if user wants to path he can get from top to whatever selected. 
+I also want the whole code understandable and easy file name and short if possible to read. So that as iam begineer and learning i can get the knowledge.
+
+Use best of all but make best project. Like react flow, next js recomended by gemini pro. Use as you wish better.
+
+
+
+Prompt:
+# Project: Infinite Canvas "Star-Map" Flow Editor
+
+**Role:** You are a Senior Frontend Architect.
+**Goal:** Build a complete, working React application using Vite and Tailwind CSS.
+**Aesthetic:** Sci-Fi / Space. Black background with moving white stars (antigravity feel).
+
+## Tech Stack Constraints
+1.  **Framework:** React (Vite)
+2.  **Styling:** Tailwind CSS
+3.  **Graph Library:** `@xyflow/react` (formerly React Flow).
+4.  **Icons:** `lucide-react`
+5.  **Layout Engine:** `dagre` (for auto-arranging nodes).
+
+## Core Features & Requirements
+
+### 1. The Canvas (Space Theme)
+* Use the `<Background />` component from React Flow with `variant="dots"` and a black background color.
+* Implement a "smooth" feel. The nodes should look like they are floating (white borders, black fill, glow effects).
+
+### 2. Custom Node Component ("Dynamic Node")
+* Create a custom node type.
+* **Appearance:** Resizable black box with a thin white border.
+* **Dynamic Text:** The text inside must scale/fit the box. If the user resizes the node to be huge, the font size increases. If small, it decreases. (Use a library like `react-textfit` or inline SVG scaling).
+* **Handles:** minimal white dots for connections.
+
+### 3. "Select Child" & Recursive Glow Logic (Critical)
+* **Toggle:** Add a toggle in the top toolbar: "Select Path Mode".
+* **Logic:** When this mode is ON and a user clicks a node (e.g., "Node A"):
+    * Highlight "Node A".
+    * Find all children connected to Node A.
+    * Find all children of those children (recursively down the tree).
+    * **Visual:** Apply a `drop-shadow(0 0 10px white)` (neon glow) to all selected nodes and the edges connecting them.
+
+### 4. Right-Click Interaction (Context Menu)
+* When a user right-clicks a node, show a custom menu:
+    * **"Add Child (If)"**: Creates a new node connected to the current one with the label "If".
+    * **"Add Child (Else)"**: Same, but labeled "Else".
+    * **"Add Info"**: Adds a standard info node.
+* **Automation:** The new node should automatically appear at a logical position (not overlapping).
+
+### 5. Top Toolbar
+* **Full Screen:** Toggle standard browser fullscreen.
+* **Auto Arrange:** Use `dagre` to automatically organize the messy graph into a clean tree structure.
+* **Import/Export:**
+    * **Save:** Button to download the current graph (nodes + edges) as a `.json` file.
+    * **Load:** Button to upload a `.json` file and restore the exact state.
+
+## Code Output Requirements
+* **Structure:** Provide a clean file structure (e.g., `/components/CustomNode.jsx`, `/components/Toolbar.jsx`, `/utils/layout.js`).
+* **Comments:** heavily comment the code explaining *how* the import/export and recursive search works so a beginner can understand.
+* **One-Shot:** Provide the full code for `App.jsx`, `main.jsx`, and all components so I can run it immediately.

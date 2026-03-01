@@ -1,0 +1,857 @@
+/* ============================================
+   STAR-MAP FLOW EDITOR - GLOBAL STYLES
+   Sci-Fi / Space themed infinite canvas
+   ============================================ */
+
+/* Tailwind CSS v4 Import */
+@import "tailwindcss";
+
+/* ============================================
+   BASE STYLES
+   ============================================ */
+
+/* Remove default margins/padding, set dark background */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: #000;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  color-scheme: dark;
+}
+
+/* ============================================
+   REACT FLOW OVERRIDES
+   Make React Flow fit the space theme
+   ============================================ */
+
+/* The main React Flow container */
+.react-flow {
+  background-color: #000 !important;
+}
+
+/* Style the dots background to look like stars */
+.react-flow__background {
+  background-color: #000 !important;
+}
+
+/* Default edge styling - soft blue lines */
+.react-flow__edge-path {
+  stroke: rgba(80, 160, 255, 0.75) !important;
+  stroke-width: 2px !important;
+}
+
+/* Glowing edge when selected in path mode */
+.react-flow__edge.glowing .react-flow__edge-path {
+  stroke: #fff !important;
+  stroke-width: 3px !important;
+  filter: drop-shadow(0 0 8px rgba(255, 255, 255, 0.9));
+}
+
+/* ── Connection Handle — circle-dot style ── */
+.react-flow__handle,
+.node-handle {
+  width: 12px !important;
+  height: 12px !important;
+  border-radius: 50% !important;
+  background-color: #4da6ff !important;
+  border: 2px solid rgba(77, 166, 255, 0.35) !important;
+  /* Inset dark centre = circle-dot look; outer rings = glow */
+  box-shadow:
+    inset 0 0 0 2.5px #0d0d0d,
+    0 0 0 2px rgba(77, 166, 255, 0.25),
+    0 0 6px rgba(77, 166, 255, 0.4) !important;
+  /* Only animate box-shadow — never touch transform (React Flow owns that) */
+  transition: box-shadow 0.18s ease !important;
+}
+
+.react-flow__handle:hover,
+.node-handle:hover {
+  /* Grow the outer ring via box-shadow — expands from centre, no transform needed */
+  box-shadow:
+    inset 0 0 0 2.5px #0d0d0d,
+    0 0 0 5px rgba(77, 166, 255, 0.35),
+    0 0 12px rgba(77, 166, 255, 0.65) !important;
+}
+
+/* Selection box */
+.react-flow__selection {
+  background: rgba(255, 255, 255, 0.05) !important;
+  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+}
+
+/* ============================================
+   CUSTOM NODE STYLES
+   ============================================ */
+
+/* Base node container */
+.custom-node {
+  background: rgba(10, 10, 10, 0.85);
+  /* Deep dark theme */
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 8px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  transition: all 0.3s ease;
+  cursor: default;
+  box-sizing: border-box;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+  backdrop-filter: blur(8px);
+}
+
+/* Hover effect - subtle glow */
+.custom-node:hover {
+  border-color: rgba(255, 255, 255, 0.7);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.7);
+}
+
+/* Glowing node - when selected in path mode */
+.custom-node.glowing {
+  border-color: #0078d7;
+  box-shadow:
+    0 0 10px rgba(0, 120, 215, 0.8),
+    0 0 20px rgba(0, 120, 215, 0.4),
+    0 0 30px rgba(0, 120, 215, 0.2);
+  animation: glow-pulse 2s ease-in-out infinite;
+}
+
+/* === OS WINDOW SPECIFIC STYLES === */
+
+.window-title-bar {
+  background: rgba(30, 30, 30, 0.9);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 8px;
+  cursor: grab;
+  flex-shrink: 0;
+}
+
+.window-title-bar:active {
+  cursor: grabbing;
+}
+
+.window-label {
+  font-size: 14px;
+  font-weight: 600;
+  color: #fff;
+  flex: 1;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  user-select: none;
+}
+
+.window-controls {
+  display: flex;
+  gap: 6px;
+}
+
+.window-btn {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  transition: filter 0.2s;
+}
+
+.window-btn-min {
+  background-color: #FFBD44;
+  /* Yellow */
+}
+
+.window-btn-max {
+  background-color: #00CA4E;
+  /* Green */
+}
+
+.window-btn-close {
+  background-color: #FF605C;
+  /* Red */
+}
+
+.window-btn:hover {
+  filter: brightness(1.2);
+}
+
+.window-btn svg {
+  width: 10px;
+  height: 10px;
+  color: #111;
+  opacity: 0;
+  /* Hide icon until hover */
+  transition: opacity 0.2s;
+}
+
+.window-controls:hover .window-btn svg {
+  opacity: 1;
+  color: #202020;
+}
+
+.window-content-area {
+  flex: 1;
+  padding: 12px;
+  display: flex;
+  background: transparent;
+  overflow: hidden;
+}
+
+.window-fieldset {
+  flex: 1;
+  border: 2px solid rgba(255, 255, 255, 0.4);
+  border-radius: 6px;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  min-height: 0;
+  /* Prevents overflow */
+}
+
+.window-legend {
+  padding: 0 4px;
+  color: #fff;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+/* Inline label edit input - blends into the title bar */
+.window-label-input {
+  flex: 1;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  text-align: center;
+  outline: none;
+  width: 100%;
+  padding: 0 4px;
+  font-family: inherit;
+}
+
+.window-inner-content {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  word-break: break-word;
+  user-select: none;
+  width: 100%;
+}
+
+/* Actual content text shown on the node */
+.node-inline-textarea {
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  border: none;
+  outline: none;
+  resize: none;
+  color: rgba(255, 255, 255, 0.82);
+  font-size: 11px;
+  line-height: 1.55;
+  font-family: inherit;
+  padding: 4px 2px;
+  word-break: break-word;
+  cursor: text;
+  overflow-y: auto;
+}
+
+.node-inline-textarea::placeholder {
+  color: rgba(255, 255, 255, 0.18);
+  font-style: italic;
+}
+
+/* Minimized State */
+.custom-node.minimized {
+  height: 32px !important;
+  min-height: 32px !important;
+}
+
+.custom-node.minimized .window-content-area {
+  display: none;
+}
+
+.custom-node.minimized .resize-handle {
+  display: none;
+}
+
+/* Resize handle indicator */
+.custom-node .resize-handle {
+  position: absolute;
+  bottom: 2px;
+  right: 2px;
+  width: 12px;
+  height: 12px;
+  cursor: se-resize;
+  opacity: 0.3;
+}
+
+.custom-node:hover .resize-handle {
+  opacity: 0.7;
+}
+
+/* ============================================
+   REACT FLOW CONTROLS & MINIMAP FIXES
+   ============================================ */
+
+/* Make the controls bar horizontal */
+.react-flow__controls {
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.react-flow__controls-button {
+  background-color: #2a2a2a !important;
+  border-bottom: none !important;
+  border-right: 1px solid #444 !important;
+}
+
+.react-flow__controls-button:last-child {
+  border-right: none !important;
+}
+
+.react-flow__controls-button svg {
+  fill: #fff !important;
+}
+
+.react-flow__controls-button:hover {
+  background-color: #444 !important;
+}
+
+.react-flow__minimap {
+  background: rgba(10, 10, 10, 0.9) !important;
+  border: 1px solid rgba(255, 255, 255, 0.4) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+.react-flow__minimap-mask {
+  fill: rgba(0, 0, 0, 0.6) !important;
+}
+
+/* ============================================
+   CONTEXT MENU STYLES
+   ============================================ */
+
+.context-menu {
+  position: fixed;
+  background: rgba(10, 10, 10, 0.95);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 8px;
+  padding: 8px 0;
+  min-width: 180px;
+  z-index: 1000;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+}
+
+.context-menu-item {
+  padding: 10px 16px;
+  color: rgba(255, 255, 255, 0.9);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  transition: background 0.2s ease;
+  font-size: 14px;
+}
+
+.context-menu-item:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.context-menu-item svg {
+  width: 16px;
+  height: 16px;
+  opacity: 0.7;
+}
+
+.context-menu-divider {
+  height: 1px;
+  background: rgba(255, 255, 255, 0.15);
+  margin: 6px 0;
+}
+
+/* Active state — shown when a role (Root/Final) is already applied */
+.context-menu-item--active {
+  color: #4da6ff;
+  background: rgba(77, 166, 255, 0.08);
+}
+
+.context-menu-item--active svg {
+  opacity: 1;
+  color: #4da6ff;
+}
+
+/* ============================================
+   TOOLBAR STYLES
+   ============================================ */
+
+.toolbar {
+  position: fixed;
+  top: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 8px;
+  background: rgba(10, 10, 10, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  padding: 8px 12px;
+  z-index: 100;
+  backdrop-filter: blur(10px);
+}
+
+.toolbar-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  color: rgba(255, 255, 255, 0.7);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.toolbar-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+}
+
+.toolbar-btn.active {
+  background: rgba(255, 255, 255, 0.15);
+  border-color: rgba(255, 255, 255, 0.3);
+  color: #fff;
+}
+
+.toolbar-btn svg {
+  width: 20px;
+  height: 20px;
+}
+
+.toolbar-divider {
+  width: 1px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 4px 4px;
+}
+
+/* Tooltip for toolbar buttons */
+.toolbar-btn {
+  position: relative;
+}
+
+.toolbar-btn::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: -32px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, 0.9);
+  color: #fff;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+
+.toolbar-btn:hover::after {
+  opacity: 1;
+}
+
+/* ============================================
+   CONFIRM DIALOG STYLES
+   ============================================ */
+
+.confirm-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+  backdrop-filter: blur(4px);
+}
+
+.confirm-dialog {
+  background: rgba(15, 15, 15, 0.98);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  padding: 24px;
+  min-width: 320px;
+  text-align: center;
+}
+
+.confirm-dialog h3 {
+  color: #fff;
+  font-size: 18px;
+  margin-bottom: 12px;
+}
+
+.confirm-dialog p {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 14px;
+  margin-bottom: 24px;
+}
+
+.confirm-buttons {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+}
+
+.confirm-btn {
+  padding: 10px 24px;
+  border-radius: 8px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border: 1px solid transparent;
+}
+
+.confirm-btn.cancel {
+  background: transparent;
+  border-color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.confirm-btn.cancel:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.confirm-btn.danger {
+  background: rgba(239, 68, 68, 0.8);
+  color: #fff;
+}
+
+.confirm-btn.danger:hover {
+  background: rgba(239, 68, 68, 1);
+}
+
+/* ============================================
+   MAXIMIZED WINDOW MODAL
+   ============================================ */
+
+/* Full-screen backdrop overlay */
+.max-modal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 3000;
+  background: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 32px;
+}
+
+/* The modal box itself */
+.max-modal-container {
+  width: 100%;
+  max-width: 860px;
+  max-height: 90vh;
+  background: #0d0d0d;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.8);
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* Title bar */
+.max-modal-titlebar {
+  background: #1a1a1a;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 16px;
+  flex-shrink: 0;
+}
+
+/* Close button */
+.max-modal-close {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: #FF605C;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  flex-shrink: 0;
+  margin-left: 20px;
+  transition: filter 0.2s;
+}
+
+.max-modal-close:hover {
+  filter: brightness(1.15);
+}
+
+/* Content scroll area */
+.max-modal-body {
+  flex: 1;
+  padding: 24px 28px;
+  background: #0d0d0d;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Editable title in modal title bar */
+.max-title-input {
+  flex: 1;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  font-family: inherit;
+  letter-spacing: 0.01em;
+}
+
+.max-title-input::placeholder {
+  color: rgba(255, 255, 255, 0.25);
+  font-weight: 400;
+}
+
+/* Editable content textarea */
+.max-content-textarea {
+  flex: 1;
+  width: 100%;
+  min-height: 400px;
+  background: transparent;
+  border: none;
+  outline: none;
+  resize: none;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 15px;
+  line-height: 1.75;
+  font-family: inherit;
+  padding: 0;
+}
+
+.max-content-textarea::placeholder {
+  color: rgba(255, 255, 255, 0.15);
+  font-style: italic;
+  letter-spacing: 0.03em;
+}
+
+/* ============================================
+   HIDDEN FILE INPUT FOR IMPORT
+   ============================================ */
+
+.hidden-input {
+  display: none;
+}
+
+/* ============================================
+   SCRIPT PANEL (JSON EDITOR DRAWER)
+   ============================================ */
+
+.script-panel-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 1100;
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(2px);
+}
+
+.script-panel {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 480px;
+  max-width: 90vw;
+  height: 100vh;
+  z-index: 1101;
+  display: flex;
+  flex-direction: column;
+  background: rgba(8, 8, 12, 0.97);
+  border-left: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow: -8px 0 40px rgba(0, 0, 0, 0.7);
+  animation: script-slide-in 0.22s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes script-slide-in {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/* Header */
+.script-panel-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 14px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  flex-shrink: 0;
+  gap: 10px;
+}
+
+.script-panel-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.9);
+  letter-spacing: 0.04em;
+}
+
+.script-panel-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #4da6ff;
+  flex-shrink: 0;
+  box-shadow: 0 0 6px rgba(77, 166, 255, 0.7);
+}
+
+.script-panel-subtitle {
+  font-size: 11px;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.35);
+  letter-spacing: 0;
+}
+
+.script-panel-actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+}
+
+/* Action buttons */
+.script-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 11px;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0.06);
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 12px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.script-btn:hover {
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff;
+}
+
+.script-btn-apply {
+  background: rgba(77, 166, 255, 0.15);
+  border-color: rgba(77, 166, 255, 0.35);
+  color: #4da6ff;
+  font-weight: 600;
+}
+
+.script-btn-apply:hover {
+  background: rgba(77, 166, 255, 0.28);
+  color: #fff;
+}
+
+.script-btn-applied {
+  background: rgba(0, 200, 100, 0.18);
+  border-color: rgba(0, 200, 100, 0.4);
+  color: #00c864;
+}
+
+.script-btn-close {
+  padding: 5px 7px;
+  color: rgba(255, 255, 255, 0.45);
+}
+
+/* Error bar */
+.script-panel-error {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 8px 14px;
+  background: rgba(239, 68, 68, 0.12);
+  border-bottom: 1px solid rgba(239, 68, 68, 0.25);
+  color: rgba(239, 100, 100, 0.9);
+  font-size: 12px;
+  font-family: 'Fira Code', 'Cascadia Code', 'Consolas', monospace;
+  flex-shrink: 0;
+}
+
+/* Code textarea */
+.script-panel-textarea {
+  flex: 1;
+  resize: none;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: rgba(200, 220, 255, 0.88);
+  font-family: 'Fira Code', 'Cascadia Code', 'Consolas', 'Courier New', monospace;
+  font-size: 12.5px;
+  line-height: 1.65;
+  padding: 14px;
+  overflow-y: auto;
+  tab-size: 2;
+}
+
+.script-panel-textarea::selection {
+  background: rgba(77, 166, 255, 0.3);
+}
+
+/* Footer hint */
+.script-panel-footer {
+  padding: 9px 14px;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  color: rgba(255, 255, 255, 0.28);
+  font-size: 11px;
+  flex-shrink: 0;
+  line-height: 1.5;
+}
+
+.script-panel-footer strong {
+  color: rgba(255, 255, 255, 0.5);
+}
