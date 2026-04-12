@@ -1,0 +1,482 @@
+[ { "id": "a1b2c3d4-1234-5678-90ab-cdef12345670", "name": "Brahma Temple", "type": "temple", "location": { "state": "Rajasthan", "city": "Pushkar", "district": "Ajmer" }, "coordinates": { "lat": null, "lng": null }, "rating": null, "details": { "Deity": "Lord Brahma
+", "Architecture_Style": null, "Established_Year": null, "Build_Date": null, "Historical_Significance": "Pushkar is an ancient Adi-tirtha where Lord Brahma resides with great joy
+. It is considered the original and primary pilgrimage site, akin to how Madhusudan is the greatest among gods
+.", "Festivals_Celebrated": "Kartiki Purnima
+", "Managing_Authority": null, "Rituals_and_Pujas": "Bathing in the three sacred Pushkar lakes (Jyeshtha, Madhya, and Kanishtha) and performing Shraddha at the Shuddhavapi (Gaya-kund)
+.", "Nearest_City": "Ajmer
+", "Transport_Info": "Motor-bus and tonga are available from Ajmer station, which is 7 miles away via a paved road
+." } }, { "id": "b2c3d4e5-2345-6789-01bc-def234567891", "name": "Shrinathji Temple", "type": "temple", "location": { "state": "Rajasthan", "city": "Nathdwara", "district": "Udaipur" }, "coordinates": { "lat": null, "lng": null }, "rating": null, "details": { "Deity": "Shrinathji (Govardhanoddharan Krishna)
+", "Architecture_Style": null, "Established_Year": null, "Build_Date": null, "Historical_Significance": "It is the main center of the Shuddhadvaita Pushtimarg established by Jagadguru Shri Vallabhacharya
+. The idol was brought here from Braj during the Muslim invasions to protect it, and the wheels of the chariot allegedly sank into the earth here, signaling the deity's wish to stay
+.", "Festivals_Celebrated": "Annakut, Dolotsav, and Janmashtami
+", "Managing_Authority": null, "Rituals_and_Pujas": "The seva-puja is performed with great devotion and method, with darshan opening for short periods with matching adornments (shringar) and devotional singing
+.", "Nearest_City": "Udaipur
+", "Transport_Info": "Located about 7 miles west of the Nathdwara station on the Mavli to Marwar-Junction line, or accessible by motor-bus from Udaipur
+." } }, { "id": "c3d4e5f6-3456-7890-12cd-ef3456789012", "name": "Dwarkadhish Temple", "type": "temple", "location": { "state": "Rajasthan", "city": "Kankroli", "district": "Rajsamand" }, "coordinates": { "lat": null, "lng": null }, "rating": null, "details": { "Deity": "Dwarkadhish (Krishna)
+", "Architecture_Style": null, "Established_Year": null, "Build_Date": null, "Historical_Significance": "This temple is one of the seven main sub-peethas of the Vallabh Sampradaya
+. It is believed that King Ambarish used to worship this exact idol of the Lord
+.", "Festivals_Celebrated": null, "Managing_Authority": null, "Rituals_and_Pujas": null, "Nearest_City": "Nathdwara
+", "Transport_Info": "It is located 11 miles from Nathdwara by motor route, and 9 miles from the Nathdwara station
+." } }, { "id": "d4e5f6g7-4567-8901-23de-f45678901234", "name": "Eklingji Temple", "type": "temple", "location": { "state": "Rajasthan", "city": "Eklingji", "district": "Udaipur" }, "coordinates": { "lat": null, "lng": null }, "rating": null, "details": { "Deity": "Eklingji (Lord Shiva)
+", "Architecture_Style": null, "Established_Year": null, "Build_Date": "15th Century
+", "Historical_Significance": "Eklingji is the presiding deity of the Maharanas of Mewar, originally worshipped by Bappa Rawal, the founder of Mewar
+. The current temple was built by Maharana Kumbha in the 15th century and houses a beautiful four-faced idol of Lord Shiva
+.", "Festivals_Celebrated": "Shivaratri
+", "Managing_Authority": "Mewar State (Historically)
+", "Rituals_and_Pujas": "Pilgrims must wear a special robe provided by the priests to enter and have darshan
+.", "Nearest_City": "Udaipur
+", "Transport_Info": "Motor-bus is available from Udaipur, which is 12 miles away
+." } }, { "id": "e5f6g7h8-5678-9012-34ef-567890123456", "name": "Shri Karni Mata Temple", "type": "temple", "location": { "state": "Rajasthan", "city": "Deshnoke", "district": "Bikaner" }, "coordinates": { "lat": null, "lng": null }, "rating": null, "details": { "Deity": "Karni Mata (Yogamaya)
+", "Architecture_Style": null, "Established_Year": null, "Build_Date": null, "Historical_Significance": "Karni Mata is the family deity of the Bikaner royal family, and the foundation of the Bikaner state is attributed to her blessings
+.", "Festivals_Celebrated": null, "Managing_Authority": null, "Rituals_and_Pujas": "Pilgrims feed and carefully avoid stepping on the thousands of holy rats in the temple, which are revered and called 'Kaba'
+.", "Nearest_City": "Bikaner
+", "Transport_Info": "Located on the Jodhpur-Bikaner railway line, right next to the Deshnoke station
+." } }, { "id": "f6g7h8i9-6789-0123-45fg-678901234567", "name": "Khatu Shyamji Temple", "type": "temple", "location": { "state": "Rajasthan", "city": "Khatu", "district": "Sikar" }, "coordinates": { "lat": null, "lng": null }, "rating": null, "details": { "Deity": "Shyamji (Barbarik)
+", "Architecture_Style": null, "Established_Year": null, "Build_Date": null, "Historical_Significance": "Shyamji is believed to be Barbarik, the son of Bhima's son Ghatotkacha
+. Lord Krishna severed his head before the Mahabharata war but granted him the boon to be worshipped in Kaliyuga
+.", "Festivals_Celebrated": "Jyeshtha Shukla 12, Kartik Shukla 12, and Phalguna Shukla 12
+", "Managing_Authority": null, "Rituals_and_Pujas": null, "Nearest_City": null, "Transport_Info": "Located 10 miles from Ringas station on the Sawai Madhopur-Loharu line; accessible by foot or camel
+." } }, { "id": "g7h8i9j0-7890-1234-56gh-789012345678", "name": "Ranakpur Jain Temple (Trailokya-Deepak)", "type": "temple", "location": { "state": "Rajasthan", "city": "Ranakpur", "district": "Pali" }, "coordinates": { "lat": null, "lng": null }, "rating": null, "details": { "Deity": "Adinath
+", "Architecture_Style": null, "Established_Year": null, "Build_Date": "15th Century
+", "Historical_Significance": "This massive Trailokya-Deepak temple features 1444 pillars and unparalleled architecture
+. It was built at a cost of 96 lakh rupees in the 15th century
+.", "Festivals_Celebrated": null, "Managing_Authority": null, "Rituals_and_Pujas": null, "Nearest_City": null, "Transport_Info": "Located 9 miles from Rani station on the Ahmedabad-Delhi line
+." } }, { "id": "h8i9j0k1-8901-2345-67hi-890123456789", "name": "Kesariyanathji Temple (Rishabhdev)", "type": "temple", "location": { "state": "Rajasthan", "city": "Dhulev", "district": "Udaipur" }, "coordinates": { "lat": null, "lng": null }, "rating": null, "details": { "Deity": "Adinath (Rishabhdev)
+", "Architecture_Style": null, "Established_Year": null, "Build_Date": null, "Historical_Significance": "A highly revered Jain Atishaya Kshetra worshipped equally by Shwetambars, Digambars, and the local Bhil community
+. The dark-colored 6-7 foot tall idol of Lord Rishabhdev is offered so much saffron that he is popularly called Kesariyanathji
+.", "Festivals_Celebrated": null, "Managing_Authority": null, "Rituals_and_Pujas": "Offering of large quantities of saffron (Kesar) to the deity
+.", "Nearest_City": "Udaipur
+", "Transport_Info": "Located 40 miles from Udaipur
+." } }, { "id": "i9j0k1l2-9012-3456-78ij-901234567890", "name": "Shri Mahavirji", "type": "temple", "location": { "state": "Rajasthan", "city": "Chandan Gaon", "district": "Sawai Madhopur" }, "coordinates": { "lat": null, "lng": null }, "rating": null, "details": { "Deity": "Mahavir Swami
+", "Architecture_Style": null, "Established_Year": null, "Build_Date": null, "Historical_Significance": "This is a prominent Atishaya Kshetra in North India where a Padmasana idol of Mahavir Swami was discovered underground by a cowherd near the river
+.", "Festivals_Celebrated": null, "Managing_Authority": null, "Rituals_and_Pujas": null, "Nearest_City": null, "Transport_Info": "Located 4 miles from Shri Mahavirji station on the Mathura-Nagda line
+." } }, { "id": "j0k1l2m3-0123-4567-89jk-012345678901", "name": "Lohargal (Lohagarh)", "type": "temple", "location": { "state": "Rajasthan", "city": "Lohargal", "district": "Sikar" }, "coordinates": { "lat": null, "lng": null }, "rating": null, "details": { "Deity": "Surya (Sun God) and Bhimeshwar (Shiva)
+", "Architecture_Style": null, "Established_Year": null, "Build_Date": null, "Historical_Significance": "It is a famous pilgrimage site in Rajasthan where bones immersed in the water dissolve within a few hours
+. Seven streams emerge from the mountain here, and the site includes a historic Surya temple and the Bhimeshwar temple established by Bhima
+.", "Festivals_Celebrated": "Chaitra Somvati Amavasya and Bhadrapad Amavasya
+", "Managing_Authority": null, "Rituals_and_Pujas": "Immersion of bones (Asthi-visarjan)
+.", "Nearest_City": "Sikar / Nawalgarh
+", "Transport_Info": "Located 20 miles from Sikar or Nawalgarh stations; camels are available for transport
+." } }, { "id": "k1l2m3n4-1234-5678-90kl-123456789012", "name": "Nakoda Parshvanath", "type": "temple", "location": { "state": "Rajasthan", "city": "Balotra", "district": "Barmer" }, "coordinates": { "lat": null, "lng": null }, "rating": null, "details": { "Deity": "Parshvanath and Bhairavji
+", "Architecture_Style": null, "Established_Year": "11th Century (Idol Discovery)
+", "Build_Date": null, "Historical_Significance": "The beautiful idol of Shri Parshvanath was found while digging the earth in the village of Nakoda during the 11th century
+. Bhairavji is the presiding deity of this tirtha, revered by all
+.", "Festivals_Celebrated": "Paush Krishna Navami to Ekadashi
+", "Managing_Authority": null, "Rituals_and_Pujas": null, "Nearest_City": "Balotra
+", "Transport_Info": "Located 6 miles from Balotra station in the mountains
+." } } ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🛕 Featured Temples Across India (Readable Format)
+1. Amarnath Temple
+State: Jammu & Kashmir | City: Near Pahalgam
+Deity: Lord Shiva (Ice Lingam)
+Historical Significance: Located at an altitude of 16,000 feet, this is a highly revered cave temple where a natural ice lingam forms
+. The journey usually starts from Pahalgam, passing through scenic stops like Chandanwari and Sheshnag
+.
+2. Vaishno Devi
+State: Jammu & Kashmir | City: Katra
+Deity: Mahakali, Mahalakshmi, Mahasaraswati
+Historical Significance: Situated in a dark cave about 46 miles from Jammu, the temple houses the three supreme goddesses in the form of 'Pindis' (sacred stones)
+.
+3. Badrinath Dham
+State: Uttarakhand | City: Badrinath
+Deity: Lord Badrinarayan (Vishnu)
+Historical Significance: Situated on the banks of the Alaknanda river near the Nar-Narayan mountains, it is one of the supreme pilgrimage sites
+. Pilgrims take a holy dip in the nearby Tapt Kund (hot spring) before having darshan
+.
+4. Kedarnath Temple
+State: Uttarakhand | City: Kedarnath
+Deity: Lord Shiva (Jyotirlinga)
+Historical Significance: One of the twelve Jyotirlingas, this temple is located in the Himalayas near the Mandakini river
+. It is believed that Lord Shiva took the form of a bull here, and the temple represents the hump of the bull
+.
+5. Kashi Vishwanath Temple
+State: Uttar Pradesh | City: Varanasi (Kashi)
+Deity: Lord Shiva (Jyotirlinga)
+Historical Significance: Kashi is considered one of the seven Moksha-puris (cities that grant liberation) and is believed to rest on the trident of Lord Shiva
+. The Jyotirlinga here is the center of devotion for millions seeking spiritual salvation
+.
+6. Naimisharanya (Chakra Tirtha)
+State: Uttar Pradesh | City: Naimisharanya (Near Sitapur)
+Deity: Chakra Tirtha / Various
+Historical Significance: A legendary forest where Lord Brahma's Chakra fell, absorbing its rim (Nemi) into the earth, thus creating the Chakra Tirtha
+. It is the sacred site where 88,000 sages performed penance and where the Puranas were narrated
+.
+7. Shri Ram Janmabhoomi
+State: Uttar Pradesh | City: Ayodhya
+Deity: Lord Rama
+Historical Significance: Ayodhya, situated on the banks of the sacred Sarayu river, is the birthplace of Maryada Purushottam Lord Rama
+. Built by Manu, it is hailed as one of the top Moksha-puris
+.
+8. Hariharnath Temple
+State: Bihar | City: Sonepur
+Deity: Harihar (Half Vishnu, Half Shiva)
+Historical Significance: Located at the confluence of the Ganga and Gandak rivers, it is widely believed to be the site of the legendary battle between Gaj (elephant) and Grah (crocodile), where Lord Vishnu intervened
+.
+9. Jagannath Temple
+State: Odisha | City: Puri
+Deity: Lord Jagannath, Balabhadra, and Subhadra
+Historical Significance: One of the four supreme Dhams, also known as Purushottam Puri or Shankha Kshetra
+. The temple is world-famous for its annual Rath Yatra and the Mahaprasad, which is consumed without any rules of untouchability
+.
+10. Trimbakeshwar
+State: Maharashtra | City: Near Nashik
+Deity: Lord Shiva (Jyotirlinga)
+Historical Significance: This Jyotirlinga temple is located near the Brahmagiri mountain, which is the origin of the sacred Godavari (Gautami) river
+. Sage Gautama performed severe penance here to bring the river to earth
+.
+11. Vitthal Rukmini Temple
+State: Maharashtra | City: Pandharpur
+Deity: Lord Vitthal (Pandurang) and Rukmini
+Historical Significance: Situated on the banks of the Bhima (Chandrabhaga) river, this is the most revered site for the Varkari sect
+. Lord Vitthal is said to have stood on a brick here, moved by the devotion of his devotee Pundalik
+.
+12. Somnath Temple
+State: Gujarat | City: Prabhas Patan (Veraval)
+Deity: Lord Shiva (Jyotirlinga)
+Historical Significance: The very first of the twelve Jyotirlingas, located on the western sea coast
+. According to legend, the Moon God (Soma) worshipped Lord Shiva here to cure himself of a curse, hence the name Somnath
+.
+
+--------------------------------------------------------------------------------
+💻 JSON Data Format
+Here is the strict JSON format containing the same details, ready to be added to your website's database:
+[
+  {
+    "id": "1a2b3c4d-1111-2222-3333-444455556601",
+    "name": "Amarnath Temple",
+    "type": "temple",
+    "location": {
+      "state": "Jammu & Kashmir",
+      "city": "Pahalgam",
+      "district": "Anantnag"
+    },
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    },
+    "rating": null,
+    "details": {
+      "Deity": "Lord Shiva (Ice Lingam)",
+      "Architecture_Style": "Cave Temple",
+      "Established_Year": null,
+      "Build_Date": null,
+      "Historical_Significance": "Located at an altitude of 16,000 feet, this is a highly revered cave temple where a natural ice lingam forms. The journey is spiritually significant and visually breathtaking.",
+      "Festivals_Celebrated": "Shravan Purnima",
+      "Managing_Authority": null,
+      "Rituals_and_Pujas": "Darshan of the natural ice lingam and taking a dip in the Amravati stream.",
+      "Nearest_City": "Pahalgam",
+      "Transport_Info": "Pahalgam is the base camp, accessible by motor bus from Srinagar. From there, it is a 27-mile trek via Chandanwari and Sheshnag."
+    }
+  },
+  {
+    "id": "1a2b3c4d-1111-2222-3333-444455556602",
+    "name": "Vaishno Devi",
+    "type": "temple",
+    "location": {
+      "state": "Jammu & Kashmir",
+      "city": "Katra",
+      "district": "Reasi"
+    },
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    },
+    "rating": null,
+    "details": {
+      "Deity": "Mahakali, Mahalakshmi, Mahasaraswati",
+      "Architecture_Style": "Cave Temple",
+      "Established_Year": null,
+      "Build_Date": null,
+      "Historical_Significance": "Situated in a dark cave about 46 miles from Jammu, the temple houses the three supreme goddesses in the form of 'Pindis' (stones). It is considered a highly revered Siddha Peeth.",
+      "Festivals_Celebrated": "Navratri",
+      "Managing_Authority": null,
+      "Rituals_and_Pujas": "Pilgrims crawl through the cave to have darshan of the goddess pindis.",
+      "Nearest_City": "Jammu",
+      "Transport_Info": "Accessible by motor bus from Jammu to Katra (31 miles), followed by a trek arranged via local agencies."
+    }
+  },
+  {
+    "id": "1a2b3c4d-1111-2222-3333-444455556603",
+    "name": "Badrinath Dham",
+    "type": "temple",
+    "location": {
+      "state": "Uttarakhand",
+      "city": "Badrinath",
+      "district": "Chamoli"
+    },
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    },
+    "rating": null,
+    "details": {
+      "Deity": "Badrinarayan (Vishnu)",
+      "Architecture_Style": null,
+      "Established_Year": null,
+      "Build_Date": null,
+      "Historical_Significance": "Situated on the banks of the Alaknanda river near the Nar-Narayan mountains, it is one of the supreme Chardham pilgrimage sites. The idol is said to have been recovered from the Narad Kund by Adi Shankaracharya.",
+      "Festivals_Celebrated": "Mata Murti Ka Mela",
+      "Managing_Authority": null,
+      "Rituals_and_Pujas": "Bathing in the Tapt Kund hot springs before having darshan.",
+      "Nearest_City": "Rishikesh",
+      "Transport_Info": "Accessible via motor bus from Rishikesh/Joshimath."
+    }
+  },
+  {
+    "id": "1a2b3c4d-1111-2222-3333-444455556604",
+    "name": "Kedarnath Temple",
+    "type": "temple",
+    "location": {
+      "state": "Uttarakhand",
+      "city": "Kedarnath",
+      "district": "Rudraprayag"
+    },
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    },
+    "rating": null,
+    "details": {
+      "Deity": "Lord Shiva (Jyotirlinga)",
+      "Architecture_Style": null,
+      "Established_Year": null,
+      "Build_Date": null,
+      "Historical_Significance": "One of the twelve Jyotirlingas, this temple is located in the Himalayas near the Mandakini river. It is believed that Lord Shiva took the form of a bull here, and the temple represents the hump of the bull.",
+      "Festivals_Celebrated": null,
+      "Managing_Authority": null,
+      "Rituals_and_Pujas": "Darshan of the Swayambhu Jyotirlinga.",
+      "Nearest_City": "Rudraprayag",
+      "Transport_Info": "Accessible via a trek from Gaurikund. During winters, the deity is moved to Ukhimath."
+    }
+  },
+  {
+    "id": "1a2b3c4d-1111-2222-3333-444455556605",
+    "name": "Kashi Vishwanath Temple",
+    "type": "temple",
+    "location": {
+      "state": "Uttar Pradesh",
+      "city": "Varanasi",
+      "district": "Varanasi"
+    },
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    },
+    "rating": null,
+    "details": {
+      "Deity": "Lord Shiva (Jyotirlinga)",
+      "Architecture_Style": null,
+      "Established_Year": null,
+      "Build_Date": null,
+      "Historical_Significance": "Kashi is considered one of the seven Moksha-puris and is believed to rest on the trident of Lord Shiva, never to be destroyed even during universal dissolution.",
+      "Festivals_Celebrated": "Maha Shivaratri, Dev Deepawali",
+      "Managing_Authority": null,
+      "Rituals_and_Pujas": "Ganga snan (bathing at Manikarnika or Dashashwamedh Ghat) followed by darshan of Lord Vishwanath and Goddess Annapurna.",
+      "Nearest_City": "Varanasi",
+      "Transport_Info": "Well connected by rail and road; Varanasi Junction is the main station."
+    }
+  },
+  {
+    "id": "1a2b3c4d-1111-2222-3333-444455556606",
+    "name": "Naimisharanya (Chakra Tirtha)",
+    "type": "temple",
+    "location": {
+      "state": "Uttar Pradesh",
+      "city": "Naimisharanya",
+      "district": "Sitapur"
+    },
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    },
+    "rating": null,
+    "details": {
+      "Deity": "Chakra Tirtha / Various",
+      "Architecture_Style": null,
+      "Established_Year": null,
+      "Build_Date": null,
+      "Historical_Significance": "A legendary forest where Lord Brahma's Chakra fell, creating the Chakra Tirtha. It is the sacred site where 88,000 sages performed penance and where the Puranas were narrated by Suta.",
+      "Festivals_Celebrated": "Somvati Amavasya",
+      "Managing_Authority": null,
+      "Rituals_and_Pujas": "Taking a holy dip in the Chakra Tirtha and performing 84-Kosh Parikrama during Phalguna.",
+      "Nearest_City": "Sitapur",
+      "Transport_Info": "Accessible by a branch railway line from Balamau to Sitapur."
+    }
+  },
+  {
+    "id": "1a2b3c4d-1111-2222-3333-444455556607",
+    "name": "Shri Ram Janmabhoomi",
+    "type": "temple",
+    "location": {
+      "state": "Uttar Pradesh",
+      "city": "Ayodhya",
+      "district": "Ayodhya"
+    },
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    },
+    "rating": null,
+    "details": {
+      "Deity": "Lord Rama",
+      "Architecture_Style": null,
+      "Established_Year": null,
+      "Build_Date": null,
+      "Historical_Significance": "Ayodhya, situated on the banks of the sacred Sarayu river, is the birthplace of Lord Rama. Built by Manu, it is hailed as one of the seven Moksha-puris.",
+      "Festivals_Celebrated": "Ram Navami, Sawan Jhula, Kartik Purnima",
+      "Managing_Authority": null,
+      "Rituals_and_Pujas": "Bathing in the Sarayu river and performing the Parikrama of Ayodhya.",
+      "Nearest_City": "Ayodhya",
+      "Transport_Info": "Ayodhya station is on the Mughalsarai-Lucknow railway line."
+    }
+  },
+  {
+    "id": "1a2b3c4d-1111-2222-3333-444455556608",
+    "name": "Hariharnath Temple",
+    "type": "temple",
+    "location": {
+      "state": "Bihar",
+      "city": "Sonepur",
+      "district": "Saran"
+    },
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    },
+    "rating": null,
+    "details": {
+      "Deity": "Harihar (Vishnu and Shiva)",
+      "Architecture_Style": null,
+      "Established_Year": null,
+      "Build_Date": null,
+      "Historical_Significance": "Located at the confluence of the Ganga and Gandak rivers, it is widely believed to be the site of the legendary battle between Gaj (elephant) and Grah (crocodile), where Lord Vishnu intervened.",
+      "Festivals_Celebrated": "Kartik Purnima (Harihar Kshetra Mela)",
+      "Managing_Authority": null,
+      "Rituals_and_Pujas": "Bathing at the confluence during Kartik Purnima.",
+      "Nearest_City": "Hajipur",
+      "Transport_Info": "Sonepur is a major station on the Katihar-Gorakhpur railway line."
+    }
+  },
+  {
+    "id": "1a2b3c4d-1111-2222-3333-444455556609",
+    "name": "Jagannath Temple",
+    "type": "temple",
+    "location": {
+      "state": "Odisha",
+      "city": "Puri",
+      "district": "Puri"
+    },
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    },
+    "rating": null,
+    "details": {
+      "Deity": "Lord Jagannath, Balabhadra, Subhadra",
+      "Architecture_Style": "Kalinga",
+      "Established_Year": null,
+      "Build_Date": null,
+      "Historical_Significance": "One of the four supreme Dhams, also known as Purushottam Puri or Shankha Kshetra. It is famous for its Mahaprasad which removes all untouchability barriers among devotees.",
+      "Festivals_Celebrated": "Rath Yatra",
+      "Managing_Authority": null,
+      "Rituals_and_Pujas": "Partaking of Mahaprasad and bathing in Pancha Tirthas like Mahodadhi (Ocean) and Indradyumna Sarovar.",
+      "Nearest_City": "Bhubaneswar",
+      "Transport_Info": "Puri is a terminal station connected via Khurda Road on the Howrah-Waltair line."
+    }
+  },
+  {
+    "id": "1a2b3c4d-1111-2222-3333-444455556610",
+    "name": "Trimbakeshwar",
+    "type": "temple",
+    "location": {
+      "state": "Maharashtra",
+      "city": "Trimbakeshwar",
+      "district": "Nashik"
+    },
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    },
+    "rating": null,
+    "details": {
+      "Deity": "Lord Shiva (Jyotirlinga)",
+      "Architecture_Style": null,
+      "Established_Year": null,
+      "Build_Date": null,
+      "Historical_Significance": "This Jyotirlinga temple is located near the Brahmagiri mountain, which is the origin of the sacred Godavari river, brought to earth by the penance of Sage Gautama.",
+      "Festivals_Celebrated": "Kumbh Mela (when Jupiter is in Leo)",
+      "Managing_Authority": null,
+      "Rituals_and_Pujas": "Taking a holy dip in the Kushavart Sarovar before proceeding for darshan.",
+      "Nearest_City": "Nashik",
+      "Transport_Info": "Accessible by motor road, 18 miles from Nashik."
+    }
+  },
+  {
+    "id": "1a2b3c4d-1111-2222-3333-444455556611",
+    "name": "Vitthal Rukmini Temple",
+    "type": "temple",
+    "location": {
+      "state": "Maharashtra",
+      "city": "Pandharpur",
+      "district": "Solapur"
+    },
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    },
+    "rating": null,
+    "details": {
+      "Deity": "Lord Vitthal (Pandurang) and Rukmini",
+      "Architecture_Style": null,
+      "Established_Year": null,
+      "Build_Date": null,
+      "Historical_Significance": "Situated on the banks of the Bhima (Chandrabhaga) river, this is the most revered site for the Varkari sect. Lord Vitthal is said to have stood on a brick here, moved by the devotion of his devotee Pundalik.",
+      "Festivals_Celebrated": "Ashadhi Ekadashi, Kartik Ekadashi",
+      "Managing_Authority": null,
+      "Rituals_and_Pujas": "Pilgrims touch their heads to the feet of the Lord's idol.",
+      "Nearest_City": "Kurduvadi",
+      "Transport_Info": "Pandharpur is connected via a branch railway line from Kurduvadi station."
+    }
+  },
+  {
+    "id": "1a2b3c4d-1111-2222-3333-444455556612",
+    "name": "Somnath Temple",
+    "type": "temple",
+    "location": {
+      "state": "Gujarat",
+      "city": "Prabhas Patan",
+      "district": "Gir Somnath"
+    },
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    },
+    "rating": null,
+    "details": {
+      "Deity": "Lord Shiva (Jyotirlinga)",
+      "Architecture_Style": null,
+      "Established_Year": null,
+      "Build_Date": null,
+      "Historical_Significance": "The very first of the twelve Jyotirlingas, located on the western sea coast. According to legend, the Moon God (Soma) worshipped Lord Shiva here to cure himself of a curse, hence the name Somnath.",
+      "Festivals_Celebrated": "Maha Shivaratri, Kartik Purnima",
+      "Managing_Authority": "Shree Somnath Trust",
+      "Rituals_and_Pujas": "Bathing in the Agni Kund and the Prachi Triveni Sangam.",
+      "Nearest_City": "Veraval",
+      "Transport_Info": "Just 3 miles from Veraval railway station via a paved road."
+    }
+  }
+]

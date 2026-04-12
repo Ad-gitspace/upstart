@@ -2,7 +2,7 @@
 
 // Configuration
 const TEMPLES_PER_PAGE = 20;
-const DATA_PATH = './data_source/places_unified.json';
+const DATA_PATH = './data_source/myList.json';
 const IMAGE_INDEX_PATH = './data_source/image_index.json';
 const DEFAULT_IMAGE = './data_source/indian_temples_img/default_template.png';
 

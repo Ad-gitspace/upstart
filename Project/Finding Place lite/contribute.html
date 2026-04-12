@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contribute - Temple Finder</title>
+    <meta name="description" content="Contribute a new temple to Temple Finder.">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .contribute-section {
+            padding: 4rem 2rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .contribute-form {
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(12px);
+            border: 2px solid var(--tan);
+            border-radius: 25px;
+            padding: 2.5rem;
+            box-shadow: 0 10px 40px var(--shadow-saffron);
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .form-group label {
+            color: var(--brown-dark);
+            font-weight: 600;
+            font-size: 0.95rem;
+        }
+
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.5rem;
+        }
+
+        .input-glass {
+            width: 100%;
+            padding: 1rem 1.5rem;
+            background: var(--white);
+            border: 2px solid var(--tan);
+            border-radius: 50px;
+            color: var(--brown-dark);
+            font-size: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .input-glass::placeholder {
+            color: var(--brown-medium);
+            opacity: 0.7;
+        }
+
+        .input-glass:focus {
+            outline: none;
+            border-color: var(--saffron-orange);
+            box-shadow: 0 0 15px var(--shadow-saffron);
+        }
+
+        textarea.input-glass {
+            border-radius: 20px;
+            resize: vertical;
+            min-height: 120px;
+        }
+
+        .submit-btn {
+            background: linear-gradient(135deg, var(--saffron), #d35400);
+            color: white;
+            border: none;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-top: 1rem;
+            align-self: center;
+        }
+
+        .submit-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(230, 126, 34, 0.4);
+        }
+
+        .message-box {
+            display: none;
+            padding: 1rem;
+            border-radius: 10px;
+            text-align: center;
+            margin-top: 1rem;
+        }
+
+        .message-success {
+            display: block;
+            background: rgba(46, 204, 113, 0.2);
+            border: 1px solid #2ecc71;
+            color: #2ecc71;
+        }
+
+        .message-error {
+            display: block;
+            background: rgba(231, 76, 60, 0.2);
+            border: 1px solid #e74c3c;
+            color: #e74c3c;
+        }
+
+        @media (max-width: 768px) {
+            .form-row {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="detail-header">
+        <a href="index.html" class="back-button">← Back to Search</a>
+    </header>
+
+    <main class="contribute-section">
+        <h2 class="section-title" style="margin-bottom: 2rem;">🌟 Contribute a Temple</h2>
+        <p style="text-align: center; color: var(--brown-medium); margin-bottom: 2rem; font-weight: 500; font-size: 1.1rem;">
+            Help us expand our database by adding details of a new sacred place. Fill out as much as you know!
+        </p>
+
+        <form class="contribute-form" id="contributeForm">
+            <div class="form-group">
+                <label for="templeName">Temple Name *</label>
+                <input type="text" id="templeName" class="input-glass" placeholder="e.g., Kashi Vishwanath Temple" required>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="city">City</label>
+                    <input type="text" id="city" class="input-glass" placeholder="e.g., Varanasi">
+                </div>
+                <div class="form-group">
+                    <label for="state">State</label>
+                    <input type="text" id="state" class="input-glass" placeholder="e.g., Uttar Pradesh">
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="district">District</label>
+                    <input type="text" id="district" class="input-glass" placeholder="e.g., Varanasi">
+                </div>
+                <div class="form-group">
+                    <label for="nearestCity">Nearest City</label>
+                    <input type="text" id="nearestCity" class="input-glass" placeholder="e.g., Varanasi">
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="deity">Deity</label>
+                    <input type="text" id="deity" class="input-glass" placeholder="e.g., Lord Shiva">
+                </div>
+                <div class="form-group">
+                    <label for="architecture">Architecture Style</label>
+                    <input type="text" id="architecture" class="input-glass" placeholder="e.g., Nagara">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="description">Additional Insights & Description</label>
+                <textarea id="description" class="input-glass" placeholder="Share historical facts, significance, rituals, or architecture details..."></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="images">Temple Images (Upload up to 100 images)</label>
+                <input type="file" id="images" class="input-glass" style="border-radius: 20px; padding: 1rem;" accept="image/*" multiple>
+                <small style="color: var(--brown-medium); padding-left: 1rem;">Select multiple images directly from your device.</small>
+            </div>
+
+            <button type="submit" class="submit-btn" id="submitBtn">Submit Contribution</button>
+            <div id="statusMessage" class="message-box"></div>
+        </form>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-brand">
+                <h3 class="footer-logo-text">Pilgrim Path</h3>
+                <p>&copy; 2026 Temple Finder. All rights reserved.</p>
+                <a href="contribute.html" style="font-size: 0.8rem; color: var(--tan); text-decoration: underline; margin-top: 0.5rem; display: inline-block;">Contribute to Database</a>
+            </div>
+            <div class="footer-devs">
+                <h4 class="dev-heading">Developed with ❤️ by</h4>
+                <div class="dev-list">
+                    <a href="https://linkedin.com" target="_blank" class="dev-link">Adesh</a>
+                    <span class="separator">•</span>
+                    <a href="https://linkedin.com" target="_blank" class="dev-link">Amar</a>
+                    <span class="separator">•</span>
+                    <a href="https://linkedin.com" target="_blank" class="dev-link">Nikhil</a>
+                    <span class="separator">•</span>
+                    <a href="https://linkedin.com" target="_blank" class="dev-link">Shubhashish</a>
+                    <span class="separator">•</span>
+                    <a href="https://linkedin.com" target="_blank" class="dev-link">Tejas</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="contribute.js"></script>
+</body>
+
+</html>
