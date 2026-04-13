@@ -113,6 +113,13 @@
         "./data_source/indian_temples_img/Ayyappa Temple #1/000004.jpg",
         "./data_source/indian_temples_img/Ayyappa Temple #1/000005.jpg"
     ],
+    "Badrinath Dham": [
+        "./data_source/indian_temples_img/Badrinath Dham/000001.jpg",
+        "./data_source/indian_temples_img/Badrinath Dham/000002.jpg",
+        "./data_source/indian_temples_img/Badrinath Dham/000003.jpg",
+        "./data_source/indian_temples_img/Badrinath Dham/000004.jpg",
+        "./data_source/indian_temples_img/Badrinath Dham/000005.jpg"
+    ],
     "Baidyanath Dham": [
         "./data_source/indian_temples_img/Baidyanath Dham/000001.jpg",
         "./data_source/indian_temples_img/Baidyanath Dham/000002.jpg",
@@ -155,6 +162,13 @@
         "./data_source/indian_temples_img/Brahma Sarovar & Gita Mandir/000004.jpg",
         "./data_source/indian_temples_img/Brahma Sarovar & Gita Mandir/000005.jpg"
     ],
+    "Brahma Temple": [
+        "./data_source/indian_temples_img/Brahma Temple/000001.jpg",
+        "./data_source/indian_temples_img/Brahma Temple/000002.jpg",
+        "./data_source/indian_temples_img/Brahma Temple/000003.jpg",
+        "./data_source/indian_temples_img/Brahma Temple/000004.jpg",
+        "./data_source/indian_temples_img/Brahma Temple/000005.jpg"
+    ],
     "Brahmavart Ghat & Valmiki Ashram": [
         "./data_source/indian_temples_img/Brahmavart Ghat & Valmiki Ashram/000001.jpg",
         "./data_source/indian_temples_img/Brahmavart Ghat & Valmiki Ashram/000002.jpg",
@@ -196,6 +210,20 @@
         "./data_source/indian_temples_img/Dakshineswar Kali Temple/000003.jpg",
         "./data_source/indian_temples_img/Dakshineswar Kali Temple/000004.jpg",
         "./data_source/indian_temples_img/Dakshineswar Kali Temple/000005.jpg"
+    ],
+    "Dwarkadhish Temple": [
+        "./data_source/indian_temples_img/Dwarkadhish Temple/000001.jpg",
+        "./data_source/indian_temples_img/Dwarkadhish Temple/000002.jpg",
+        "./data_source/indian_temples_img/Dwarkadhish Temple/000003.jpg",
+        "./data_source/indian_temples_img/Dwarkadhish Temple/000004.jpg",
+        "./data_source/indian_temples_img/Dwarkadhish Temple/000005.jpg"
+    ],
+    "Eklingji Temple": [
+        "./data_source/indian_temples_img/Eklingji Temple/000001.jpg",
+        "./data_source/indian_temples_img/Eklingji Temple/000002.jpg",
+        "./data_source/indian_temples_img/Eklingji Temple/000003.jpg",
+        "./data_source/indian_temples_img/Eklingji Temple/000004.jpg",
+        "./data_source/indian_temples_img/Eklingji Temple/000005.jpg"
     ],
     "Ganga Sagar (Kapil Muni Temple)": [
         "./data_source/indian_temples_img/Ganga Sagar (Kapil Muni Temple)/000001.jpg",
@@ -332,6 +360,13 @@
         "./data_source/indian_temples_img/Grishneshwar Jyotirlinga/000003.jpg",
         "./data_source/indian_temples_img/Grishneshwar Jyotirlinga/000004.jpg",
         "./data_source/indian_temples_img/Grishneshwar Jyotirlinga/000005.jpg"
+    ],
+    "Hariharnath Temple": [
+        "./data_source/indian_temples_img/Hariharnath Temple/000001.jpg",
+        "./data_source/indian_temples_img/Hariharnath Temple/000002.jpg",
+        "./data_source/indian_temples_img/Hariharnath Temple/000003.jpg",
+        "./data_source/indian_temples_img/Hariharnath Temple/000004.jpg",
+        "./data_source/indian_temples_img/Hariharnath Temple/000005.jpg"
     ],
     "Hoysaleswara Temple (Halebidu)": [
         "./data_source/indian_temples_img/Hoysaleswara Temple (Halebidu)/000001.jpg",
@@ -585,6 +620,20 @@
         "./data_source/indian_temples_img/Kedarnath Temple/Image_99.jpg",
         "./data_source/indian_temples_img/Kedarnath Temple/Image_100.jpg"
     ],
+    "Kesariyanathji Temple (Rishabhdev)": [
+        "./data_source/indian_temples_img/Kesariyanathji Temple (Rishabhdev)/000001.jpg",
+        "./data_source/indian_temples_img/Kesariyanathji Temple (Rishabhdev)/000002.jpg",
+        "./data_source/indian_temples_img/Kesariyanathji Temple (Rishabhdev)/000003.jpg",
+        "./data_source/indian_temples_img/Kesariyanathji Temple (Rishabhdev)/000004.jpg",
+        "./data_source/indian_temples_img/Kesariyanathji Temple (Rishabhdev)/000005.jpg"
+    ],
+    "Khatu Shyamji Temple": [
+        "./data_source/indian_temples_img/Khatu Shyamji Temple/000001.jpg",
+        "./data_source/indian_temples_img/Khatu Shyamji Temple/000002.jpg",
+        "./data_source/indian_temples_img/Khatu Shyamji Temple/000003.jpg",
+        "./data_source/indian_temples_img/Khatu Shyamji Temple/000004.jpg",
+        "./data_source/indian_temples_img/Khatu Shyamji Temple/000005.jpg"
+    ],
     "Kheer Bhawani Temple": [
         "./data_source/indian_temples_img/Kheer Bhawani Temple/000001.jpg",
         "./data_source/indian_temples_img/Kheer Bhawani Temple/000002.jpg",
@@ -612,6 +661,13 @@
         "./data_source/indian_temples_img/Lingaraj Temple/000003.jpg",
         "./data_source/indian_temples_img/Lingaraj Temple/000004.jpg",
         "./data_source/indian_temples_img/Lingaraj Temple/000005.jpg"
+    ],
+    "Lohargal (Lohagarh)": [
+        "./data_source/indian_temples_img/Lohargal (Lohagarh)/000001.jpg",
+        "./data_source/indian_temples_img/Lohargal (Lohagarh)/000002.jpg",
+        "./data_source/indian_temples_img/Lohargal (Lohagarh)/000003.jpg",
+        "./data_source/indian_temples_img/Lohargal (Lohagarh)/000004.jpg",
+        "./data_source/indian_temples_img/Lohargal (Lohagarh)/000005.jpg"
     ],
     "Mahabaleshwar Temple (Gokarna)": [
         "./data_source/indian_temples_img/Mahabaleshwar Temple (Gokarna)/000001.jpg",
@@ -852,6 +908,20 @@
         "./data_source/indian_temples_img/Mumbai Siddhivinayak Temple/Image_98.jpg",
         "./data_source/indian_temples_img/Mumbai Siddhivinayak Temple/Image_100.jpg"
     ],
+    "Naimisharanya (Chakra Tirtha)": [
+        "./data_source/indian_temples_img/Naimisharanya (Chakra Tirtha)/000001.jpg",
+        "./data_source/indian_temples_img/Naimisharanya (Chakra Tirtha)/000002.jpg",
+        "./data_source/indian_temples_img/Naimisharanya (Chakra Tirtha)/000003.jpg",
+        "./data_source/indian_temples_img/Naimisharanya (Chakra Tirtha)/000004.jpg",
+        "./data_source/indian_temples_img/Naimisharanya (Chakra Tirtha)/000005.jpg"
+    ],
+    "Nakoda Parshvanath": [
+        "./data_source/indian_temples_img/Nakoda Parshvanath/000001.jpg",
+        "./data_source/indian_temples_img/Nakoda Parshvanath/000002.jpg",
+        "./data_source/indian_temples_img/Nakoda Parshvanath/000003.jpg",
+        "./data_source/indian_temples_img/Nakoda Parshvanath/000004.jpg",
+        "./data_source/indian_temples_img/Nakoda Parshvanath/000005.jpg"
+    ],
     "Narmada Udgam Temple": [
         "./data_source/indian_temples_img/Narmada Udgam Temple/000001.jpg",
         "./data_source/indian_temples_img/Narmada Udgam Temple/000002.jpg",
@@ -921,6 +991,13 @@
         "./data_source/indian_temples_img/Ramanathaswamy Temple/000003.jpg",
         "./data_source/indian_temples_img/Ramanathaswamy Temple/000004.jpg",
         "./data_source/indian_temples_img/Ramanathaswamy Temple/000005.jpg"
+    ],
+    "Ranakpur Jain Temple (Trailokya-Deepak)": [
+        "./data_source/indian_temples_img/Ranakpur Jain Temple (Trailokya-Deepak)/000001.jpg",
+        "./data_source/indian_temples_img/Ranakpur Jain Temple (Trailokya-Deepak)/000002.jpg",
+        "./data_source/indian_temples_img/Ranakpur Jain Temple (Trailokya-Deepak)/000003.jpg",
+        "./data_source/indian_temples_img/Ranakpur Jain Temple (Trailokya-Deepak)/000004.jpg",
+        "./data_source/indian_temples_img/Ranakpur Jain Temple (Trailokya-Deepak)/000005.jpg"
     ],
     "Ranchhodraiji Temple": [
         "./data_source/indian_temples_img/Ranchhodraiji Temple/000001.jpg",
@@ -1132,12 +1209,33 @@
         "./data_source/indian_temples_img/Shri Jagannath Temple/Image_95.jpg",
         "./data_source/indian_temples_img/Shri Jagannath Temple/Image_96.jpg"
     ],
+    "Shri Karni Mata Temple": [
+        "./data_source/indian_temples_img/Shri Karni Mata Temple/000001.jpg",
+        "./data_source/indian_temples_img/Shri Karni Mata Temple/000002.jpg",
+        "./data_source/indian_temples_img/Shri Karni Mata Temple/000003.jpg",
+        "./data_source/indian_temples_img/Shri Karni Mata Temple/000004.jpg",
+        "./data_source/indian_temples_img/Shri Karni Mata Temple/000005.jpg"
+    ],
     "Shri Krishna Janmabhoomi": [
         "./data_source/indian_temples_img/Shri Krishna Janmabhoomi/000001.jpg",
         "./data_source/indian_temples_img/Shri Krishna Janmabhoomi/000002.jpg",
         "./data_source/indian_temples_img/Shri Krishna Janmabhoomi/000003.jpg",
         "./data_source/indian_temples_img/Shri Krishna Janmabhoomi/000004.jpg",
         "./data_source/indian_temples_img/Shri Krishna Janmabhoomi/000005.jpg"
+    ],
+    "Shri Mahavirji": [
+        "./data_source/indian_temples_img/Shri Mahavirji/000001.jpg",
+        "./data_source/indian_temples_img/Shri Mahavirji/000002.jpg",
+        "./data_source/indian_temples_img/Shri Mahavirji/000003.jpg",
+        "./data_source/indian_temples_img/Shri Mahavirji/000004.jpg",
+        "./data_source/indian_temples_img/Shri Mahavirji/000005.jpg"
+    ],
+    "Shri Ram Janmabhoomi": [
+        "./data_source/indian_temples_img/Shri Ram Janmabhoomi/000001.jpg",
+        "./data_source/indian_temples_img/Shri Ram Janmabhoomi/000002.jpg",
+        "./data_source/indian_temples_img/Shri Ram Janmabhoomi/000003.jpg",
+        "./data_source/indian_temples_img/Shri Ram Janmabhoomi/000004.jpg",
+        "./data_source/indian_temples_img/Shri Ram Janmabhoomi/000005.jpg"
     ],
     "Shri Shirdi Sai Baba Temple": [
         "./data_source/indian_temples_img/Shri Shirdi Sai Baba Temple/Image_1.jpg",
@@ -1216,6 +1314,20 @@
         "./data_source/indian_temples_img/Shri Shirdi Sai Baba Temple/Image_96.jpg",
         "./data_source/indian_temples_img/Shri Shirdi Sai Baba Temple/Image_98.jpg",
         "./data_source/indian_temples_img/Shri Shirdi Sai Baba Temple/Image_100.jpg"
+    ],
+    "Shrinathji Temple": [
+        "./data_source/indian_temples_img/Shrinathji Temple/000001.jpg",
+        "./data_source/indian_temples_img/Shrinathji Temple/000002.jpg",
+        "./data_source/indian_temples_img/Shrinathji Temple/000003.jpg",
+        "./data_source/indian_temples_img/Shrinathji Temple/000004.jpg",
+        "./data_source/indian_temples_img/Shrinathji Temple/000005.jpg"
+    ],
+    "Somnath Temple": [
+        "./data_source/indian_temples_img/Somnath Temple/000001.jpg",
+        "./data_source/indian_temples_img/Somnath Temple/000002.jpg",
+        "./data_source/indian_temples_img/Somnath Temple/000003.jpg",
+        "./data_source/indian_temples_img/Somnath Temple/000004.jpg",
+        "./data_source/indian_temples_img/Somnath Temple/000005.jpg"
     ],
     "Soron Shukar Kshetra": [
         "./data_source/indian_temples_img/Soron Shukar Kshetra/000001.jpg",
@@ -1378,6 +1490,13 @@
         "./data_source/indian_temples_img/Tirumala Tirupati Venkateswara Temple/Image_96.jpg",
         "./data_source/indian_temples_img/Tirumala Tirupati Venkateswara Temple/Image_99.jpg"
     ],
+    "Trimbakeshwar": [
+        "./data_source/indian_temples_img/Trimbakeshwar/000001.jpg",
+        "./data_source/indian_temples_img/Trimbakeshwar/000002.jpg",
+        "./data_source/indian_temples_img/Trimbakeshwar/000003.jpg",
+        "./data_source/indian_temples_img/Trimbakeshwar/000004.jpg",
+        "./data_source/indian_temples_img/Trimbakeshwar/000005.jpg"
+    ],
     "Triyuginarayan Temple": [
         "./data_source/indian_temples_img/Triyuginarayan Temple/000001.jpg",
         "./data_source/indian_temples_img/Triyuginarayan Temple/000002.jpg",
@@ -1398,6 +1517,13 @@
         "./data_source/indian_temples_img/Udupi Sri Krishna Matha/000003.jpeg",
         "./data_source/indian_temples_img/Udupi Sri Krishna Matha/000004.jpg",
         "./data_source/indian_temples_img/Udupi Sri Krishna Matha/000005.jpg"
+    ],
+    "Vaishno Devi": [
+        "./data_source/indian_temples_img/Vaishno Devi/000001.jpg",
+        "./data_source/indian_temples_img/Vaishno Devi/000002.jpg",
+        "./data_source/indian_temples_img/Vaishno Devi/000003.jpg",
+        "./data_source/indian_temples_img/Vaishno Devi/000004.jpg",
+        "./data_source/indian_temples_img/Vaishno Devi/000005.jpg"
     ],
     "Varaha Lakshmi Narasimha Temple": [
         "./data_source/indian_temples_img/Varaha Lakshmi Narasimha Temple/000001.jpg",
@@ -1433,6 +1559,13 @@
         "./data_source/indian_temples_img/Vishnupad Temple/000003.jpg",
         "./data_source/indian_temples_img/Vishnupad Temple/000004.jpg",
         "./data_source/indian_temples_img/Vishnupad Temple/000005.jpg"
+    ],
+    "Vitthal Rukmini Temple": [
+        "./data_source/indian_temples_img/Vitthal Rukmini Temple/000001.jpg",
+        "./data_source/indian_temples_img/Vitthal Rukmini Temple/000002.jpg",
+        "./data_source/indian_temples_img/Vitthal Rukmini Temple/000003.jpg",
+        "./data_source/indian_temples_img/Vitthal Rukmini Temple/000004.jpg",
+        "./data_source/indian_temples_img/Vitthal Rukmini Temple/000005.jpg"
     ],
     "Yamunotri Temple": [
         "./data_source/indian_temples_img/Yamunotri Temple/000001.jpg",
